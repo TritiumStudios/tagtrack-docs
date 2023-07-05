@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/TTL-318/Collecting Data",
+  "id": "products/TTL-318/Collecting Data",
+  "title": "Collecting Data",
+  "description": "Use a webhook to collect data from the TTL-318.",
+  "source": "@site/docs/products/TTL-318/Collecting Data.md",
+  "sourceDirName": "products/TTL-318",
+  "slug": "/products/TTL-318/Collecting Data",
+  "permalink": "/docs/products/TTL-318/Collecting Data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/TTL-318/Getting Started"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/products/TTL-318/Configuration"
+  }
+}

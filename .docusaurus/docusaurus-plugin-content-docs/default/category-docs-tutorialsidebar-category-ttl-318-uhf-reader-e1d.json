@@ -1,0 +1,16 @@
+{
+  "title": "TTL-318 UHF Reader",
+  "description": "Everything you need to know about the TTL-318.",
+  "slug": "/category/ttl-318-uhf-reader",
+  "permalink": "/docs/category/ttl-318-uhf-reader",
+  "navigation": {
+    "previous": {
+      "title": "Products",
+      "permalink": "/docs/category/products"
+    },
+    "next": {
+      "title": "Getting Started",
+      "permalink": "/docs/products/ttl-318-uhf-reader/getting-started"
+    }
+  }
+}

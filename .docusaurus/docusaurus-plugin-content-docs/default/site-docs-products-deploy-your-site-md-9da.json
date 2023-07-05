@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/deploy-your-site",
+  "id": "products/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/products/deploy-your-site.md",
+  "sourceDirName": "products",
+  "slug": "/products/deploy-your-site",
+  "permalink": "/docs/products/deploy-your-site",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/products/create-a-blog-post"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/products/congratulations"
+  }
+}

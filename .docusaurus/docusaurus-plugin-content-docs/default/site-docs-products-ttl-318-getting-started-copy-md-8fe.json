@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/TTL-318/Getting Started copy",
+  "id": "products/TTL-318/Getting Started copy",
+  "title": "Getting Started with the TTL-318",
+  "description": "",
+  "source": "@site/docs/products/TTL-318/Getting Started copy.md",
+  "sourceDirName": "products/TTL-318",
+  "slug": "/products/TTL-318/Getting Started copy",
+  "permalink": "/docs/products/TTL-318/Getting Started copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTL-318 UHF Reader",
+    "permalink": "/docs/category/ttl-318-uhf-reader"
+  },
+  "next": {
+    "title": "Getting Started with the TTL-318",
+    "permalink": "/docs/products/TTL-318/Getting Started"
+  }
+}

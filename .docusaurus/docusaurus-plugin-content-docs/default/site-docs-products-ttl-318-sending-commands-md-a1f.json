@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/TTL-318/Sending Commands",
+  "id": "products/TTL-318/Sending Commands",
+  "title": "Getting Started with the TTL-318",
+  "description": "",
+  "source": "@site/docs/products/TTL-318/Sending Commands.md",
+  "sourceDirName": "products/TTL-318",
+  "slug": "/products/TTL-318/Sending Commands",
+  "permalink": "/docs/products/TTL-318/Sending Commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with the TTL-318",
+    "permalink": "/docs/products/TTL-318/Getting Started"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

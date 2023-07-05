@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/create-a-page",
+  "id": "products/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/products/create-a-page.md",
+  "sourceDirName": "products",
+  "slug": "/products/create-a-page",
+  "permalink": "/docs/products/create-a-page",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/products/create-a-document"
+  }
+}

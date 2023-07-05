@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/ttl-230-inflator-translator/collecting-data",
+  "id": "products/ttl-230-inflator-translator/collecting-data",
+  "title": "Collecting Data",
+  "description": "Use a webhook to collect data from the TTL-318.",
+  "source": "@site/docs/products/ttl-230-inflator-translator/collecting-data.md",
+  "sourceDirName": "products/ttl-230-inflator-translator",
+  "slug": "/products/ttl-230-inflator-translator/collecting-data",
+  "permalink": "/docs/products/ttl-230-inflator-translator/collecting-data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/ttl-230-inflator-translator/getting-started"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/products/ttl-230-inflator-translator/configuration"
+  }
+}

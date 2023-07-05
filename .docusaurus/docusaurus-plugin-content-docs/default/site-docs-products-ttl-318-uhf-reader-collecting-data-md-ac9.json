@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/ttl-318-uhf-reader/Collecting Data",
+  "id": "products/ttl-318-uhf-reader/Collecting Data",
+  "title": "Collecting Data",
+  "description": "Use a webhook to collect data from the TTL-318.",
+  "source": "@site/docs/products/ttl-318-uhf-reader/Collecting Data.md",
+  "sourceDirName": "products/ttl-318-uhf-reader",
+  "slug": "/products/ttl-318-uhf-reader/Collecting Data",
+  "permalink": "/docs/products/ttl-318-uhf-reader/Collecting Data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Getting Started"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Configuration"
+  }
+}

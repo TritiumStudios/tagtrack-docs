@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/ttl-318-uhf-reader copy/configuration",
+  "id": "products/ttl-318-uhf-reader copy/configuration",
+  "title": "Configuration",
+  "description": "Call our API to change your device settings remotely.",
+  "source": "@site/docs/products/ttl-318-uhf-reader copy/configuration.md",
+  "sourceDirName": "products/ttl-318-uhf-reader copy",
+  "slug": "/products/ttl-318-uhf-reader copy/configuration",
+  "permalink": "/docs/products/ttl-318-uhf-reader copy/configuration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collecting Data",
+    "permalink": "/docs/products/ttl-318-uhf-reader copy/collecting-data"
+  }
+}

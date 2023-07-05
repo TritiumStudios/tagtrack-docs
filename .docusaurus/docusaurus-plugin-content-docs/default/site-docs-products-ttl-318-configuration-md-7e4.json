@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/TTL-318/Configuration",
+  "id": "products/TTL-318/Configuration",
+  "title": "Configuration",
+  "description": "Call our API to change your device settings remotely.",
+  "source": "@site/docs/products/TTL-318/Configuration.md",
+  "sourceDirName": "products/TTL-318",
+  "slug": "/products/TTL-318/Configuration",
+  "permalink": "/docs/products/TTL-318/Configuration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collecting Data",
+    "permalink": "/docs/products/TTL-318/Collecting Data"
+  }
+}

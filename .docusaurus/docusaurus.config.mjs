@@ -4,13 +4,11 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "TagTrack Docs",
+  "tagline": "Effortless Connectivity",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://docs.mytagtrack.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,13 +24,9 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\sidebars.js"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
+        "blog": false,
         "theme": {
           "customCss": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\src\\css\\custom.css"
         }
@@ -40,28 +34,23 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/nav-logo.png",
     "navbar": {
-      "title": "My Site",
+      "title": "",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "TagTrack Logo",
+        "src": "img/nav-logo.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Products"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://app.mytagtrack.com",
+          "label": "Dashboard",
           "position": "right"
         }
       ],
@@ -74,43 +63,39 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Products",
+              "to": "/docs/category/products"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "TagTrack",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Shop",
+              "href": "https://mytagtrack.com"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Dashboard",
+              "href": "https://app.mytagtrack.com"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "Get Help",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Support",
+              "href": "https://mytagtrack.com/contact2/"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Contact Us",
+              "href": "https://mytagtrack-21136548.hs-sites.com/schedule-a-consultation"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 TagTrack, Built with 💖."
     },
     "prism": {
       "theme": {
@@ -318,7 +303,7 @@ export default {
     },
     "colorMode": {
       "defaultMode": "light",
-      "disableSwitch": false,
+      "disableSwitch": true,
       "respectPrefersColorScheme": false
     },
     "docs": {

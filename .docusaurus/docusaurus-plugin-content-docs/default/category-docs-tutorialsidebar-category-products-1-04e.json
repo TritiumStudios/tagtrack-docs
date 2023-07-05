@@ -1,0 +1,16 @@
+{
+  "title": "Products",
+  "description": "Choose the product you are working with.",
+  "slug": "/category/products-1",
+  "permalink": "/docs/category/products-1",
+  "navigation": {
+    "previous": {
+      "title": "Products",
+      "permalink": "/docs/category/products"
+    },
+    "next": {
+      "title": "Getting Started with the TTL-318 UHF Reader",
+      "permalink": "/docs/products/TTL-318/Getting Started"
+    }
+  }
+}

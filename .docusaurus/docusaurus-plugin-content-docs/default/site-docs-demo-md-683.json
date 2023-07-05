@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Demo",
+  "id": "Demo",
+  "title": "Demo",
+  "description": "Let's discover TagTrack in less than 5 minutes.",
+  "source": "@site/docs/Demo.md",
+  "sourceDirName": ".",
+  "slug": "/Demo",
+  "permalink": "/docs/Demo",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  }
+}

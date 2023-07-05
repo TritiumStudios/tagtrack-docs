@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/TTL-318 UHF Reader",
+  "id": "products/TTL-318 UHF Reader",
+  "title": "TTL-318 UHF Reader",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/products/TTL-318 UHF Reader.md",
+  "sourceDirName": "products",
+  "slug": "/products/TTL-318 UHF Reader",
+  "permalink": "/docs/products/TTL-318 UHF Reader",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

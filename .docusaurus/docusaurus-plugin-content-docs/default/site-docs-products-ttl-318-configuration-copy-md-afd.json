@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/TTL-318/Configuration copy",
+  "id": "products/TTL-318/Configuration copy",
+  "title": "Configuring the TTL-318",
+  "description": "",
+  "source": "@site/docs/products/TTL-318/Configuration copy.md",
+  "sourceDirName": "products/TTL-318",
+  "slug": "/products/TTL-318/Configuration copy",
+  "permalink": "/docs/products/TTL-318/Configuration copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with the TTL-318",
+    "permalink": "/docs/products/TTL-318/Getting Started"
+  },
+  "next": {
+    "title": "Configuring the TTL-318",
+    "permalink": "/docs/products/TTL-318/Configuration"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/ttl-230-inflator-translator/configuration",
+  "id": "products/ttl-230-inflator-translator/configuration",
+  "title": "Configuration",
+  "description": "Call our API to change your device settings remotely.",
+  "source": "@site/docs/products/ttl-230-inflator-translator/configuration.md",
+  "sourceDirName": "products/ttl-230-inflator-translator",
+  "slug": "/products/ttl-230-inflator-translator/configuration",
+  "permalink": "/docs/products/ttl-230-inflator-translator/configuration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collecting Data",
+    "permalink": "/docs/products/ttl-230-inflator-translator/collecting-data"
+  }
+}

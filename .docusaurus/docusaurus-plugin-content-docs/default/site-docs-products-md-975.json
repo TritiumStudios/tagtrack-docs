@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products",
+  "id": "products",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/products.md",
+  "sourceDirName": ".",
+  "slug": "/products",
+  "permalink": "/docs/products",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  }
+}
