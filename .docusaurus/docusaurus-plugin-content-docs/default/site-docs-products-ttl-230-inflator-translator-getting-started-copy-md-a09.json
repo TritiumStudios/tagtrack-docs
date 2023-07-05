@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/ttl-230-inflator-translator/getting-started copy",
+  "id": "products/ttl-230-inflator-translator/getting-started copy",
+  "title": "Getting Started",
+  "description": "Get to know the TTL-230 Inflator Translator",
+  "source": "@site/docs/products/ttl-230-inflator-translator/getting-started copy.md",
+  "sourceDirName": "products/ttl-230-inflator-translator",
+  "slug": "/products/ttl-230-inflator-translator/getting-started copy",
+  "permalink": "/docs/products/ttl-230-inflator-translator/getting-started copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTL-230 Inflator Translator",
+    "permalink": "/docs/category/ttl-230-inflator-translator"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/ttl-230-inflator-translator/getting-started"
+  }
+}

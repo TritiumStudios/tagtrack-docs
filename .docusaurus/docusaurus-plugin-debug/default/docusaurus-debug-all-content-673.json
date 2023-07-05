@@ -18,14 +18,14 @@
           "contentPathLocalized": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "products/ttl-230-inflator-translator/getting-started",
-              "id": "products/ttl-230-inflator-translator/getting-started",
+              "unversionedId": "products/haltec/ttl-230-inflator-translator/getting-started",
+              "id": "products/haltec/ttl-230-inflator-translator/getting-started",
               "title": "Getting Started",
               "description": "Get to know the TTL-230 Inflator Translator",
-              "source": "@site/docs/products/ttl-230-inflator-translator/getting-started.md",
-              "sourceDirName": "products/ttl-230-inflator-translator",
-              "slug": "/products/ttl-230-inflator-translator/getting-started",
-              "permalink": "/docs/products/ttl-230-inflator-translator/getting-started",
+              "source": "@site/docs/products/haltec/ttl-230-inflator-translator/getting-started.md",
+              "sourceDirName": "products/haltec/ttl-230-inflator-translator",
+              "slug": "/products/haltec/ttl-230-inflator-translator/getting-started",
+              "permalink": "/docs/products/haltec/ttl-230-inflator-translator/getting-started",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -87,8 +87,8 @@
                 "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
               },
               "next": {
-                "title": "TTL-230 Inflator Translator",
-                "permalink": "/docs/category/ttl-230-inflator-translator"
+                "title": "Haltec Products",
+                "permalink": "/docs/category/haltec-products"
               }
             },
             {
@@ -155,20 +155,33 @@
                   },
                   {
                     "type": "category",
-                    "label": "TTL-230 Inflator Translator",
+                    "label": "Haltec Products",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
-                        "type": "doc",
-                        "id": "products/ttl-230-inflator-translator/getting-started"
+                        "type": "category",
+                        "label": "TTL-230 Inflator Translator",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/haltec/ttl-230-inflator-translator/getting-started"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Everything you need to know about the TTL-230.",
+                          "slug": "/category/ttl-230-inflator-translator",
+                          "permalink": "/docs/category/ttl-230-inflator-translator"
+                        }
                       }
                     ],
                     "link": {
                       "type": "generated-index",
-                      "description": "Everything you need to know about the TTL-230.",
-                      "slug": "/category/ttl-230-inflator-translator",
-                      "permalink": "/docs/category/ttl-230-inflator-translator"
+                      "slug": "/category/haltec-products",
+                      "permalink": "/docs/category/haltec-products"
                     }
                   }
                 ],
@@ -193,14 +206,9 @@
         "source": "@site/src/pages/index.js"
       },
       {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        }
+        "type": "jsx",
+        "permalink": "/sign-in/",
+        "source": "@site/src/pages/sign-in/index.js"
       }
     ]
   },

@@ -11,8 +11,8 @@
           "mainDocId": "products/ttl-318-uhf-reader/getting-started",
           "docs": [
             {
-              "id": "products/ttl-230-inflator-translator/getting-started",
-              "path": "/docs/products/ttl-230-inflator-translator/getting-started",
+              "id": "products/haltec/ttl-230-inflator-translator/getting-started",
+              "path": "/docs/products/haltec/ttl-230-inflator-translator/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -38,6 +38,11 @@
             {
               "id": "/category/ttl-318-uhf-reader",
               "path": "/docs/category/ttl-318-uhf-reader",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/haltec-products",
+              "path": "/docs/category/haltec-products",
               "sidebar": "tutorialSidebar"
             },
             {
