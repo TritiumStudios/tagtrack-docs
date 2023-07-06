@@ -95,7 +95,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 TagTrack, Built with 💖."
+      "copyright": "Copyright © 2023 TagTrack"
     },
     "prism": {
       "theme": {

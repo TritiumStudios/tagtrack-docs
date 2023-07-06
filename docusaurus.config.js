@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TagTrack, Built with 💖.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TagTrack`,
       },
       prism: {
         theme: lightCodeTheme,
