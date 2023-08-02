@@ -1,4 +1,8 @@
-# Website
+# TagTrack DOCS
+
+TagTrack API and Hardware Documentation
+
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -26,17 +30,9 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
+Changes to the master branch in this repo will cause an automatic build event in AWS Amplify which automatically updates the site.
 
-```
-$ USE_SSH=true yarn deploy
-```
+### Domain
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The production site is hosted at [docs.mytagtrack.com](docs.mytagtrack.com) configured with AWS Amplify.
 
