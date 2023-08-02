@@ -61,7 +61,7 @@ Request that a device report its current inventory.
 
 `"Success: The device will report current inventory to the assigned webhook."`
 
-See [Current Inventory Count](Webhook.md#current-inventory-count) and [Current Inventory Tags](Webhook.md#current-inventory-tags) for results
+See [Current Inventory Count](collecting-data.md#current-inventory-count) and [Current Inventory Tags](collecting-data.md#current-inventory-tags) for results
 
 ---
 
@@ -82,7 +82,7 @@ Request that a device clear its current inventory.
 
 `"Success: The device will report tag_count = 0 to the assigned webhook on completion."`
 
-See [Current Inventory Count](Webhook.md#current-inventory-count) for result
+See [Current Inventory Count](collecting-data.md#current-inventory-count) for result
 
 ---
 
@@ -106,7 +106,7 @@ Request that a device sets its tag timeout to a value.
 
 `"Success: The device will report value to the assigned webhook on completion."`
 
-See [Tag Timeout Result](Webhook.md#tag-timeout-result) for result
+See [Tag Timeout Result](collecting-data.md#tag-timeout-result) for result
 
 ---
 
@@ -130,7 +130,7 @@ Request that a device sets its tag interval to a value.
 
 `"Success: The device will report value to the assigned webhook on completion."`
 
-See [Tag Interval Result](Webhook.md#tag-interval-result) for result
+See [Tag Interval Result](collecting-data.md#tag-interval-result) for result
 
 ---
 
@@ -154,7 +154,7 @@ Request that a device sets its scan interval to a value.
 
 `"Success: The device will report value to the assigned webhook on completion."`
 
-See [Scan Interval Result](Webhook.md#scan-interval-result) for result
+See [Scan Interval Result](collecting-data.md#scan-interval-result) for result
 
 ---
 
@@ -175,7 +175,7 @@ Request that a device reboots.
 
 `"Success: The device will report Online to the assigned webhook on completion."`
 
-See [Device Connected](Webhook.md#device-connected) for result
+See [Device Connected](collecting-data.md#device-connected) for result
 
 ---
 
@@ -196,5 +196,5 @@ Request that a device reports its current location.
 
 `"Success: The device will report location to the assigned webhook on completion."`
 
-See [Device Location Report](Webhook.md#device-location-report) for result
+See [Device Location Report](collecting-data.md#device-location-report) for result
 
