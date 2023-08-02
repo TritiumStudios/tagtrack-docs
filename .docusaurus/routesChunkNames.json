@@ -1,79 +1,36 @@
 {
-  "/__docusaurus/debug-25c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
-  "/__docusaurus/debug/config-bd7": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
-  "/__docusaurus/debug/content-095": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-57f": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
-  "/__docusaurus/debug/metadata-68e": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
-  "/__docusaurus/debug/registry-d3b": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
-  "/__docusaurus/debug/routes-315": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-427-a36"
-    }
-  },
   "/docs-d91": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docs-5-f-4-731"
+      "plugin": "5f42f9cf"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
   "/docs/category/products-bb5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-products-2-f-1-460"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "2f19c7aa"
   },
   "/docs/category/ttl-318-uhf-reader-0b1": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ttl-318-uhf-readerb-97-5c7"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b97b51e6"
   },
   "/docs/products/ttl-318-uhf-reader/collecting-data-eba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-ttl-318-uhf-reader-collecting-data-47-b-9e2"
+    "__comp": "17896441",
+    "content": "47ba4892"
   },
   "/docs/products/ttl-318-uhf-reader/configuration-c22": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-ttl-318-uhf-reader-configurationf-68-3f6"
+    "__comp": "17896441",
+    "content": "f686e420"
   },
   "/docs/products/ttl-318-uhf-reader/getting-started-c39": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-ttl-318-uhf-reader-getting-started-9-aa-ccb"
+    "__comp": "17896441",
+    "content": "9aae2951"
   },
   "/-dcf": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---sign-in-f-9-b-ea5"
+      "plugin": "f9b5295d"
     },
-    "config": "config---sign-in-5-e-9-b11"
+    "config": "5e9f5e1a"
   }
 }

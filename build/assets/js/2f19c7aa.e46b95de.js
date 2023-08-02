@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktagtrack_docs=self.webpackChunktagtrack_docs||[]).push([[973],{4095:t=>{t.exports=JSON.parse('{"title":"Products","description":"Choose the product you are working with.","slug":"/category/products","permalink":"/docs/category/products","navigation":{"next":{"title":"TTL-318 UHF Reader","permalink":"/docs/category/ttl-318-uhf-reader"}}}')}}]);
