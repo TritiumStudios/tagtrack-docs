@@ -2,7 +2,7 @@
   "unversionedId": "products/ttl-318-uhf-reader/configuration",
   "id": "products/ttl-318-uhf-reader/configuration",
   "title": "Configuration",
-  "description": "Call our API to change your device settings remotely.",
+  "description": "Learn how to change your device settings.",
   "source": "@site/docs/products/ttl-318-uhf-reader/configuration.md",
   "sourceDirName": "products/ttl-318-uhf-reader",
   "slug": "/products/ttl-318-uhf-reader/configuration",
@@ -18,9 +18,5 @@
   "previous": {
     "title": "Collecting Data",
     "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
-  },
-  "next": {
-    "title": "Haltec Products",
-    "permalink": "/docs/category/haltec-products"
   }
 }

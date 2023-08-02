@@ -1,0 +1,15 @@
+{
+  "title": "Private Products",
+  "slug": "/category/private-products",
+  "permalink": "/docs/category/private-products",
+  "navigation": {
+    "previous": {
+      "title": "Configuration",
+      "permalink": "/docs/products/ttl-318-uhf-reader/configuration"
+    },
+    "next": {
+      "title": "TTL-230 Inflator Translator",
+      "permalink": "/docs/category/ttl-230-inflator-translator"
+    }
+  }
+}

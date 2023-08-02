@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Use a **webhook** to collect data from the TTL-318.
 
+TagTrack will forward device messages to a specified webhook. Use these messages to collect data from the device.
+
 ## Messages
 
 ### Tags Added
@@ -22,31 +24,31 @@ Automatically sent when a tag(s) are removed from the inventory.
 
 ### Current Inventory Count
 
-Sent in response to a query of the inventory (See [Query Inventory API](API.md#query-inventory)).
+Sent in response to a query of the inventory (See [Query Inventory API](configuration.md#query-inventory)).
 
 `{ "device_id": <serial_number>, "tag_count": <tag_count> }`
 
 ### Current Inventory Tags
 
-Sent in response to a query of the inventory (See [Query Inventory API](API.md#query-inventory)).
+Sent in response to a query of the inventory (See [Query Inventory API](configuration.md#query-inventory)).
 
 `{ "device_id": <serial_number>, "tags": [ <tag_1>, <tag_2>, ... ] }`
 
 ### Tag Timeout Result
 
-Sent in response to setting the tag timeout (See [Set Tag Timeout API](API.md#set-tag-timeout)).
+Sent in response to setting the tag timeout (See [Set Tag Timeout API](configuration.md#set-tag-timeout)).
 
 `{ "device_id": <serial_number>, "tag_timeout": <tag_timeout> }`
 
 ### Tag Interval Result
 
-Sent in response to setting the tag interval (See [Set Tag Interval API](API.md#set-tag-interval)).
+Sent in response to setting the tag interval (See [Set Tag Interval API](configuration.md#set-tag-interval)).
 
 `{ "device_id": <serial_number>, "tag_interval": <tag_interval> }`
 
 ### Scan Interval Result
 
-Sent in response to setting the scan interval (See [Set Scan Interval API](API.md#set-scan-interval)).
+Sent in response to setting the scan interval (See [Set Scan Interval API](configuration.md#set-scan-interval)).
 
 `{ "device_id": <serial_number>, "scan_interval": <scan_interval> }`
 
@@ -64,7 +66,7 @@ Sent when the device disconnects from the network.
 
 ### Device Location Report
 
-Sent when the device has an initial GPS fix as well as in response to requesting the current location (See [Request Device Location API](API.md#request-device-location)).
+Sent when the device has an initial GPS fix as well as in response to requesting the current location (See [Request Device Location API](configuration.md#request-device-location)).
 
 `{ "device_id": <serial_number>, "latitude": <latitude>, "longitude": <longitude> }`
 

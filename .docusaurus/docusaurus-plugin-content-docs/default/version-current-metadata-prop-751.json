@@ -41,30 +41,6 @@
               }
             ],
             "href": "/docs/category/ttl-318-uhf-reader"
-          },
-          {
-            "type": "category",
-            "label": "Haltec Products",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "TTL-230 Inflator Translator",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Getting Started",
-                    "href": "/docs/products/haltec/ttl-230-inflator-translator/getting-started",
-                    "docId": "products/haltec/ttl-230-inflator-translator/getting-started"
-                  }
-                ],
-                "href": "/docs/category/ttl-230-inflator-translator"
-              }
-            ],
-            "href": "/docs/category/haltec-products"
           }
         ],
         "href": "/docs/category/products"
@@ -72,12 +48,6 @@
     ]
   },
   "docs": {
-    "products/haltec/ttl-230-inflator-translator/getting-started": {
-      "id": "products/haltec/ttl-230-inflator-translator/getting-started",
-      "title": "Getting Started",
-      "description": "Get to know the TTL-230 Inflator Translator",
-      "sidebar": "tutorialSidebar"
-    },
     "products/ttl-318-uhf-reader/collecting-data": {
       "id": "products/ttl-318-uhf-reader/collecting-data",
       "title": "Collecting Data",
@@ -87,7 +57,7 @@
     "products/ttl-318-uhf-reader/configuration": {
       "id": "products/ttl-318-uhf-reader/configuration",
       "title": "Configuration",
-      "description": "Call our API to change your device settings remotely.",
+      "description": "Learn how to change your device settings.",
       "sidebar": "tutorialSidebar"
     },
     "products/ttl-318-uhf-reader/getting-started": {

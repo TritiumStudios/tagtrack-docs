@@ -39,7 +39,8 @@ export default {
       "title": "",
       "logo": {
         "alt": "TagTrack Logo",
-        "src": "img/nav-logo.png"
+        "src": "img/nav-logo.png",
+        "srcDark": "img/nav-logo-dark.png"
       },
       "items": [
         {
@@ -303,7 +304,7 @@ export default {
     },
     "colorMode": {
       "defaultMode": "light",
-      "disableSwitch": true,
+      "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
     "docs": {

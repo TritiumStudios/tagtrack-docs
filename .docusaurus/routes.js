@@ -38,20 +38,9 @@ export default [
     exact: true
   },
   {
-    path: '/sign-in/',
-    component: ComponentCreator('/sign-in/', 'd10'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '05f'),
+    component: ComponentCreator('/docs', 'd91'),
     routes: [
-      {
-        path: '/docs/category/haltec-products',
-        component: ComponentCreator('/docs/category/haltec-products', '4ab'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/docs/category/products',
         component: ComponentCreator('/docs/category/products', 'bb5'),
@@ -59,20 +48,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/ttl-230-inflator-translator',
-        component: ComponentCreator('/docs/category/ttl-230-inflator-translator', 'c28'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/category/ttl-318-uhf-reader',
         component: ComponentCreator('/docs/category/ttl-318-uhf-reader', '0b1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/products/haltec/ttl-230-inflator-translator/getting-started',
-        component: ComponentCreator('/docs/products/haltec/ttl-230-inflator-translator/getting-started', '682'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -42,39 +42,20 @@
       "plugin": "plugin---docusaurus-debug-427-a36"
     }
   },
-  "/sign-in/-d10": {
-    "__comp": "__comp---site-src-pages-sign-in-index-js-2-d-6-519",
-    "__context": {
-      "plugin": "plugin---sign-in-f-9-b-ea5"
-    },
-    "config": "config---sign-in-5-e-9-b11"
-  },
-  "/docs-05f": {
+  "/docs-d91": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-5-f-4-731"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/haltec-products-4ab": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-haltec-products-2-f-6-5a3"
-  },
   "/docs/category/products-bb5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-products-2-f-1-460"
   },
-  "/docs/category/ttl-230-inflator-translator-c28": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ttl-230-inflator-translator-6-dc-3d6"
-  },
   "/docs/category/ttl-318-uhf-reader-0b1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ttl-318-uhf-readerb-97-5c7"
-  },
-  "/docs/products/haltec/ttl-230-inflator-translator/getting-started-682": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-haltec-ttl-230-inflator-translator-getting-startedba-9-fd4"
   },
   "/docs/products/ttl-318-uhf-reader/collecting-data-eba": {
     "__comp": "__comp---theme-doc-item-178-a40",

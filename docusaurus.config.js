@@ -53,6 +53,7 @@ const config = {
         logo: {
           alt: "TagTrack Logo",
           src: "img/nav-logo.png",
+          srcDark: "img/nav-logo-dark.png",
         },
         items: [
           {
@@ -115,7 +116,7 @@ const config = {
       },
       colorMode: {
         defaultMode: "light",
-        disableSwitch: true,
+        disableSwitch: false,
         respectPrefersColorScheme: false,
       },
     }),

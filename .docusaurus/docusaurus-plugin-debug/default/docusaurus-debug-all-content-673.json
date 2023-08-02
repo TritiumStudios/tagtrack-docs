@@ -18,28 +18,6 @@
           "contentPathLocalized": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "products/haltec/ttl-230-inflator-translator/getting-started",
-              "id": "products/haltec/ttl-230-inflator-translator/getting-started",
-              "title": "Getting Started",
-              "description": "Get to know the TTL-230 Inflator Translator",
-              "source": "@site/docs/products/haltec/ttl-230-inflator-translator/getting-started.md",
-              "sourceDirName": "products/haltec/ttl-230-inflator-translator",
-              "slug": "/products/haltec/ttl-230-inflator-translator/getting-started",
-              "permalink": "/docs/products/haltec/ttl-230-inflator-translator/getting-started",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "TTL-230 Inflator Translator",
-                "permalink": "/docs/category/ttl-230-inflator-translator"
-              }
-            },
-            {
               "unversionedId": "products/ttl-318-uhf-reader/collecting-data",
               "id": "products/ttl-318-uhf-reader/collecting-data",
               "title": "Collecting Data",
@@ -69,7 +47,7 @@
               "unversionedId": "products/ttl-318-uhf-reader/configuration",
               "id": "products/ttl-318-uhf-reader/configuration",
               "title": "Configuration",
-              "description": "Call our API to change your device settings remotely.",
+              "description": "Learn how to change your device settings.",
               "source": "@site/docs/products/ttl-318-uhf-reader/configuration.md",
               "sourceDirName": "products/ttl-318-uhf-reader",
               "slug": "/products/ttl-318-uhf-reader/configuration",
@@ -85,10 +63,6 @@
               "previous": {
                 "title": "Collecting Data",
                 "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
-              },
-              "next": {
-                "title": "Haltec Products",
-                "permalink": "/docs/category/haltec-products"
               }
             },
             {
@@ -152,37 +126,6 @@
                       "slug": "/category/ttl-318-uhf-reader",
                       "permalink": "/docs/category/ttl-318-uhf-reader"
                     }
-                  },
-                  {
-                    "type": "category",
-                    "label": "Haltec Products",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "TTL-230 Inflator Translator",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "products/haltec/ttl-230-inflator-translator/getting-started"
-                          }
-                        ],
-                        "link": {
-                          "type": "generated-index",
-                          "description": "Everything you need to know about the TTL-230.",
-                          "slug": "/category/ttl-230-inflator-translator",
-                          "permalink": "/docs/category/ttl-230-inflator-translator"
-                        }
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "slug": "/category/haltec-products",
-                      "permalink": "/docs/category/haltec-products"
-                    }
                   }
                 ],
                 "link": {
@@ -204,11 +147,6 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "jsx",
-        "permalink": "/sign-in/",
-        "source": "@site/src/pages/sign-in/index.js"
       }
     ]
   },

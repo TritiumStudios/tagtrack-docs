@@ -4,21 +4,19 @@ sidebar_position: 3
 
 # Configuration
 
-Call our **API** to change your device settings remotely.
+Learn how to change your device settings.
+
+Device configuration is done remotely using the **TagTrack API**. This means that the target device must be **online** to accept changes.
 
 ## Authentication
 
 To use the APIs, you must include a valid API key in the request header `x-api-key`.
 
-Example:
-
-```
-GET /API/TT_Inventory.ashx?cmd=query&sn=xxxxxxxxxxxx HTTP/1.1
-x-api-key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-...
-```
+Request an API key [here](https://mytagtrack.com/contact2/).
 
 ## API Reference
+
+The base API url is `https://app.mytagtrack.com/API/TT_Inventory.ashx`
 
 All APIs require the following URL parameters.
 
@@ -26,6 +24,25 @@ All APIs require the following URL parameters.
   - Specifies which API is being requested.
 - `sn`
   - Specifies which device is being requested.
+
+### Query Status
+
+Request device status.
+
+#### Parameters
+
+- `cmd=status`
+- `sn=<serial_number>`
+
+#### Endpoint
+
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=status&sn=<serial_number>`
+
+#### Success Response
+
+`"Online"` or `"Offline"`
+
+---
 
 ### Query Inventory
 
@@ -38,7 +55,7 @@ Request that a device report its current inventory.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=query&sn=<serial_number>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=query&sn=<serial_number>`
 
 #### Success Response
 
@@ -59,7 +76,7 @@ Request that a device clear its current inventory.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=clear&sn=<serial_number>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=clear&sn=<serial_number>`
 
 #### Success Response
 
@@ -83,7 +100,7 @@ Request that a device sets its tag timeout to a value.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=tto&sn=<serial_number>&tto=<tag_timeout>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=tto&sn=<serial_number>&tto=<tag_timeout>`
 
 #### Success Response
 
@@ -107,7 +124,7 @@ Request that a device sets its tag interval to a value.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=tin&sn=<serial_number>&tin=<tag_interval>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=tin&sn=<serial_number>&tin=<tag_interval>`
 
 #### Success Response
 
@@ -131,7 +148,7 @@ Request that a device sets its scan interval to a value.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=scn&sn=<serial_number>&scn=<scan_interval>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=scn&sn=<serial_number>&scn=<scan_interval>`
 
 #### Success Response
 
@@ -152,7 +169,7 @@ Request that a device reboots.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=rbt&sn=<serial_number>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=rbt&sn=<serial_number>`
 
 #### Success Response
 
@@ -173,7 +190,7 @@ Request that a device reports its current location.
 
 #### Endpoint
 
-`http://tagtrackv3.us-east-2.elasticbeanstalk.com/API/TT_Inventory.ashx?cmd=loc&sn=<serial_number>`
+`https://app.mytagtrack.com/API/TT_Inventory.ashx?cmd=loc&sn=<serial_number>`
 
 #### Success Response
 
