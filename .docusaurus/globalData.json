@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "products/Flight Controllers/braveF7/Specifications",
+          "mainDocId": "products/Flight Controllers/EwingH7/Specifications",
           "docs": [
             {
               "id": "products/BlueLRS/EA2400RX/Compliance",
@@ -18,6 +18,21 @@
             {
               "id": "products/BlueLRS/EA2400TX/Compliance",
               "path": "/docs/products/BlueLRS/EA2400TX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Cameras/IronSightAnalog/Compliance",
+              "path": "/docs/products/Cameras/IronSightAnalog/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Cameras/IronSightAnalog/Specifications",
+              "path": "/docs/products/Cameras/IronSightAnalog/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Cameras/IronSightAnalog/Wiring",
+              "path": "/docs/products/Cameras/IronSightAnalog/Wiring",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,6 +96,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Flight Controllers/EwingH7/Compliance",
+              "path": "/docs/products/Flight Controllers/EwingH7/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7/Getting Started",
+              "path": "/docs/products/Flight Controllers/EwingH7/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7/Specifications",
+              "path": "/docs/products/Flight Controllers/EwingH7/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7/Wiring",
+              "path": "/docs/products/Flight Controllers/EwingH7/Wiring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/Video/EwingVRX/Compliance",
               "path": "/docs/products/Video/EwingVRX/Compliance",
               "sidebar": "tutorialSidebar"
@@ -118,6 +153,11 @@
             {
               "id": "/category/flight-controllers",
               "path": "/docs/category/flight-controllers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-h7-flight-controller",
+              "path": "/docs/category/ewing-h7-flight-controller",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -168,6 +208,16 @@
             {
               "id": "/category/ewing-4-channel-diversity-vrx-system",
               "path": "/docs/category/ewing-4-channel-diversity-vrx-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/camera-modules",
+              "path": "/docs/category/camera-modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-ironsight-analog-camera",
+              "path": "/docs/category/ewing-ironsight-analog-camera",
               "sidebar": "tutorialSidebar"
             }
           ],

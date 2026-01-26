@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Video copy/EwingVRX/GettingStarted",
+  "id": "products/Video copy/EwingVRX/GettingStarted",
+  "title": "Getting Started – EwingVRX",
+  "description": "Coming soon",
+  "source": "@site/docs/products/Video copy/EwingVRX/GettingStarted.md",
+  "sourceDirName": "products/Video copy/EwingVRX",
+  "slug": "/products/Video copy/EwingVRX/GettingStarted",
+  "permalink": "/docs/products/Video copy/EwingVRX/GettingStarted",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ewing 4-Channel Diversity VRX System",
+    "permalink": "/docs/category/ewing-4-channel-diversity-vrx-system-1"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Video copy/EwingVRX/Compliance"
+  }
+}

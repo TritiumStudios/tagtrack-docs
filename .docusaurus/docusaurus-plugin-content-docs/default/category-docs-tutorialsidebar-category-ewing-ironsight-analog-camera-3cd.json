@@ -1,0 +1,16 @@
+{
+  "title": "Ewing IronSight Analog Camera",
+  "description": "Ewing IronSight Analog Camera",
+  "slug": "/category/ewing-ironsight-analog-camera",
+  "permalink": "/docs/category/ewing-ironsight-analog-camera",
+  "navigation": {
+    "previous": {
+      "title": "Camera Modules",
+      "permalink": "/docs/category/camera-modules"
+    },
+    "next": {
+      "title": "Compliance",
+      "permalink": "/docs/products/Cameras/IronSightAnalog/Compliance"
+    }
+  }
+}

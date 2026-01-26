@@ -15,7 +15,7 @@ sidebar_position: 2
 
 **Key Specifications**
 
-- Input Voltage: **3–8S LiPo**
+- Input Voltage: **3–12S LiPo**
 - Continuous Current: **80 A**
 - Burst Current: **100 A (short duration)**
 - Firmware: **AM32 (32-bit)**

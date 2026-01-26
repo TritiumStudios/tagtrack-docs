@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Cameras/EwingVTX/FrequencyTable",
+  "id": "products/Cameras/EwingVTX/FrequencyTable",
+  "title": "Frequency Table and Power Levels",
+  "description": "The EwingVTX supports 80 channels across multiple frequency bands.",
+  "source": "@site/docs/products/Cameras/EwingVTX/FrequencyTable.md",
+  "sourceDirName": "products/Cameras/EwingVTX",
+  "slug": "/products/Cameras/EwingVTX/FrequencyTable",
+  "permalink": "/docs/products/Cameras/EwingVTX/FrequencyTable",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Cameras/EwingVTX/Specifications"
+  },
+  "next": {
+    "title": "Getting Started – EwingVTX",
+    "permalink": "/docs/products/Cameras/EwingVTX/GettingStarted"
+  }
+}

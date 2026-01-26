@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'be0'),
+    component: ComponentCreator('/docs', '344'),
     routes: [
       {
         path: '/docs/category/bluelrs-radios',
@@ -72,6 +72,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/camera-modules',
+        component: ComponentCreator('/docs/category/camera-modules', 'c86'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/electronic-speed-controllers',
         component: ComponentCreator('/docs/category/electronic-speed-controllers', 'f8d'),
         exact: true,
@@ -92,6 +98,18 @@ export default [
       {
         path: '/docs/category/ewing-80a-4-in-1-32bit-esc---am32',
         component: ComponentCreator('/docs/category/ewing-80a-4-in-1-32bit-esc---am32', '6f2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/ewing-h7-flight-controller',
+        component: ComponentCreator('/docs/category/ewing-h7-flight-controller', 'd5e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/ewing-ironsight-analog-camera',
+        component: ComponentCreator('/docs/category/ewing-ironsight-analog-camera', '6f7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -122,6 +140,24 @@ export default [
       {
         path: '/docs/products/BlueLRS/EA2400TX/Compliance',
         component: ComponentCreator('/docs/products/BlueLRS/EA2400TX/Compliance', '1c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Cameras/IronSightAnalog/Compliance',
+        component: ComponentCreator('/docs/products/Cameras/IronSightAnalog/Compliance', 'c0e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Cameras/IronSightAnalog/Specifications',
+        component: ComponentCreator('/docs/products/Cameras/IronSightAnalog/Specifications', '0a1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Cameras/IronSightAnalog/Wiring',
+        component: ComponentCreator('/docs/products/Cameras/IronSightAnalog/Wiring', '4ff'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -194,6 +230,30 @@ export default [
       {
         path: '/docs/products/Flight Controllers/braveF7/Wiring',
         component: ComponentCreator('/docs/products/Flight Controllers/braveF7/Wiring', 'cd8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7/Compliance',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/Compliance', '811'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7/Getting Started',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/Getting Started', '669'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7/Specifications',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/Specifications', '52b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7/Wiring',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/Wiring', 'f0f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

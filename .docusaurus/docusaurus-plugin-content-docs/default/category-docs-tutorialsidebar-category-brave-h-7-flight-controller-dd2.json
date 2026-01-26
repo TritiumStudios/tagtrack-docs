@@ -1,0 +1,16 @@
+{
+  "title": "Brave H7 Flight Controller",
+  "description": "Everything you need to know about the Ewing H7",
+  "slug": "/category/brave-h7-flight-controller",
+  "permalink": "/docs/category/brave-h7-flight-controller",
+  "navigation": {
+    "previous": {
+      "title": "Flight Controllers",
+      "permalink": "/docs/category/flight-controllers"
+    },
+    "next": {
+      "title": "Operating conditions and performance",
+      "permalink": "/docs/products/Flight Controllers/EwingH7/Specifications"
+    }
+  }
+}

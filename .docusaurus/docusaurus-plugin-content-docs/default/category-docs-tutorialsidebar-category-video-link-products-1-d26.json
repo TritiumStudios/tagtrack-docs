@@ -1,0 +1,16 @@
+{
+  "title": "Video Link Products",
+  "description": "Choose the video product you are working with.",
+  "slug": "/category/video-link-products-1",
+  "permalink": "/docs/category/video-link-products-1",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/Video/EwingVRX/Compliance"
+    },
+    "next": {
+      "title": "Ewing 5.8GHz VTX Module (2.5W Max)",
+      "permalink": "/docs/category/ewing-58ghz-vtx-module-25w-max-1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Cameras/IronSightAnalog/Compliance",
+  "id": "products/Cameras/IronSightAnalog/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Cameras/IronSightAnalog/Compliance.md",
+  "sourceDirName": "products/Cameras/IronSightAnalog",
+  "slug": "/products/Cameras/IronSightAnalog/Compliance",
+  "permalink": "/docs/products/Cameras/IronSightAnalog/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ewing IronSight Analog Camera",
+    "permalink": "/docs/category/ewing-ironsight-analog-camera"
+  },
+  "next": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications"
+  }
+}

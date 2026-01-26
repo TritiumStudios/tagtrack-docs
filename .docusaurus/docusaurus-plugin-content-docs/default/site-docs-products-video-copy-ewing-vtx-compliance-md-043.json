@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Video copy/EwingVTX/Compliance",
+  "id": "products/Video copy/EwingVTX/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Video copy/EwingVTX/Compliance.md",
+  "sourceDirName": "products/Video copy/EwingVTX",
+  "slug": "/products/Video copy/EwingVTX/Compliance",
+  "permalink": "/docs/products/Video copy/EwingVTX/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started – EwingVTX",
+    "permalink": "/docs/products/Video copy/EwingVTX/GettingStarted"
+  },
+  "next": {
+    "title": "Ewing 4-Channel Diversity VRX System",
+    "permalink": "/docs/category/ewing-4-channel-diversity-vrx-system-1"
+  }
+}

@@ -23,6 +23,39 @@
             "items": [
               {
                 "type": "category",
+                "label": "Ewing H7 Flight Controller",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Operating conditions and performance",
+                    "href": "/docs/products/Flight Controllers/EwingH7/Specifications",
+                    "docId": "products/Flight Controllers/EwingH7/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started",
+                    "href": "/docs/products/Flight Controllers/EwingH7/Getting Started",
+                    "docId": "products/Flight Controllers/EwingH7/Getting Started"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Wiring",
+                    "href": "/docs/products/Flight Controllers/EwingH7/Wiring",
+                    "docId": "products/Flight Controllers/EwingH7/Wiring"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Compliance",
+                    "href": "/docs/products/Flight Controllers/EwingH7/Compliance",
+                    "docId": "products/Flight Controllers/EwingH7/Compliance"
+                  }
+                ],
+                "href": "/docs/category/ewing-h7-flight-controller"
+              },
+              {
+                "type": "category",
                 "label": "Brave F7 Flight Controller",
                 "collapsible": true,
                 "collapsed": true,
@@ -233,6 +266,42 @@
               }
             ],
             "href": "/docs/category/video-link-products"
+          },
+          {
+            "type": "category",
+            "label": "Camera Modules",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Ewing IronSight Analog Camera",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Compliance",
+                    "href": "/docs/products/Cameras/IronSightAnalog/Compliance",
+                    "docId": "products/Cameras/IronSightAnalog/Compliance"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Specifications",
+                    "href": "/docs/products/Cameras/IronSightAnalog/Specifications",
+                    "docId": "products/Cameras/IronSightAnalog/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Wiring",
+                    "href": "/docs/products/Cameras/IronSightAnalog/Wiring",
+                    "docId": "products/Cameras/IronSightAnalog/Wiring"
+                  }
+                ],
+                "href": "/docs/category/ewing-ironsight-analog-camera"
+              }
+            ],
+            "href": "/docs/category/camera-modules"
           }
         ],
         "href": "/docs/category/products"
@@ -250,6 +319,24 @@
       "id": "products/BlueLRS/EA2400TX/Compliance",
       "title": "Compliance",
       "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Cameras/IronSightAnalog/Compliance": {
+      "id": "products/Cameras/IronSightAnalog/Compliance",
+      "title": "Compliance",
+      "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Cameras/IronSightAnalog/Specifications": {
+      "id": "products/Cameras/IronSightAnalog/Specifications",
+      "title": "Specifications",
+      "description": "The IronSight Analog Camera is a high-performance FPV imaging module designed for professional unmanned systems, ISR platforms, and low-latency analog video applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Cameras/IronSightAnalog/Wiring": {
+      "id": "products/Cameras/IronSightAnalog/Wiring",
+      "title": "Wiring",
+      "description": "IronSight Analog Camera – Wiring & Pinout",
       "sidebar": "tutorialSidebar"
     },
     "products/Electronics Speed Controllers/BraveESC/Compliance": {
@@ -320,6 +407,30 @@
     },
     "products/Flight Controllers/braveF7/Wiring": {
       "id": "products/Flight Controllers/braveF7/Wiring",
+      "title": "Wiring",
+      "description": "Wiring and Connector Pinout Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7/Compliance": {
+      "id": "products/Flight Controllers/EwingH7/Compliance",
+      "title": "Compliance",
+      "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7/Getting Started": {
+      "id": "products/Flight Controllers/EwingH7/Getting Started",
+      "title": "Getting Started",
+      "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7/Specifications": {
+      "id": "products/Flight Controllers/EwingH7/Specifications",
+      "title": "Operating conditions and performance",
+      "description": "Operating conditions and performance",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7/Wiring": {
+      "id": "products/Flight Controllers/EwingH7/Wiring",
       "title": "Wiring",
       "description": "Wiring and Connector Pinout Guide",
       "sidebar": "tutorialSidebar"

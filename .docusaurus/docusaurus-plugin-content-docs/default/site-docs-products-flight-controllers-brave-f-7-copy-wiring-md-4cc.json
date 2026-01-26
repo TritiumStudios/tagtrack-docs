@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/braveF7 copy/Wiring",
+  "id": "products/Flight Controllers/braveF7 copy/Wiring",
+  "title": "Wiring",
+  "description": "Wiring and Connector Pinout Guide",
+  "source": "@site/docs/products/Flight Controllers/braveF7 copy/Wiring.md",
+  "sourceDirName": "products/Flight Controllers/braveF7 copy",
+  "slug": "/products/Flight Controllers/braveF7 copy/Wiring",
+  "permalink": "/docs/products/Flight Controllers/braveF7 copy/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/Flight Controllers/braveF7 copy/Getting Started"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Flight Controllers/braveF7 copy/Compliance"
+  }
+}

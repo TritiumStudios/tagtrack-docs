@@ -70,6 +70,80 @@
               }
             },
             {
+              "unversionedId": "products/Cameras/IronSightAnalog/Compliance",
+              "id": "products/Cameras/IronSightAnalog/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/Cameras/IronSightAnalog/Compliance.md",
+              "sourceDirName": "products/Cameras/IronSightAnalog",
+              "slug": "/products/Cameras/IronSightAnalog/Compliance",
+              "permalink": "/docs/products/Cameras/IronSightAnalog/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ewing IronSight Analog Camera",
+                "permalink": "/docs/category/ewing-ironsight-analog-camera"
+              },
+              "next": {
+                "title": "Specifications",
+                "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications"
+              }
+            },
+            {
+              "unversionedId": "products/Cameras/IronSightAnalog/Specifications",
+              "id": "products/Cameras/IronSightAnalog/Specifications",
+              "title": "Specifications",
+              "description": "The IronSight Analog Camera is a high-performance FPV imaging module designed for professional unmanned systems, ISR platforms, and low-latency analog video applications.",
+              "source": "@site/docs/products/Cameras/IronSightAnalog/Specifications.md",
+              "sourceDirName": "products/Cameras/IronSightAnalog",
+              "slug": "/products/Cameras/IronSightAnalog/Specifications",
+              "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Cameras/IronSightAnalog/Compliance"
+              },
+              "next": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Cameras/IronSightAnalog/Wiring"
+              }
+            },
+            {
+              "unversionedId": "products/Cameras/IronSightAnalog/Wiring",
+              "id": "products/Cameras/IronSightAnalog/Wiring",
+              "title": "Wiring",
+              "description": "IronSight Analog Camera – Wiring & Pinout",
+              "source": "@site/docs/products/Cameras/IronSightAnalog/Wiring.md",
+              "sourceDirName": "products/Cameras/IronSightAnalog",
+              "slug": "/products/Cameras/IronSightAnalog/Wiring",
+              "permalink": "/docs/products/Cameras/IronSightAnalog/Wiring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Specifications",
+                "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications"
+              }
+            },
+            {
               "unversionedId": "products/Electronics Speed Controllers/BraveESC/Compliance",
               "id": "products/Electronics Speed Controllers/BraveESC/Compliance",
               "title": "Compliance",
@@ -382,6 +456,110 @@
               }
             },
             {
+              "unversionedId": "products/Flight Controllers/EwingH7/Compliance",
+              "id": "products/Flight Controllers/EwingH7/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/Flight Controllers/EwingH7/Compliance.md",
+              "sourceDirName": "products/Flight Controllers/EwingH7",
+              "slug": "/products/Flight Controllers/EwingH7/Compliance",
+              "permalink": "/docs/products/Flight Controllers/EwingH7/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Wiring"
+              },
+              "next": {
+                "title": "Brave F7 Flight Controller",
+                "permalink": "/docs/category/brave-f7-flight-controller"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/EwingH7/Getting Started",
+              "id": "products/Flight Controllers/EwingH7/Getting Started",
+              "title": "Getting Started",
+              "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.",
+              "source": "@site/docs/products/Flight Controllers/EwingH7/Getting Started.md",
+              "sourceDirName": "products/Flight Controllers/EwingH7",
+              "slug": "/products/Flight Controllers/EwingH7/Getting Started",
+              "permalink": "/docs/products/Flight Controllers/EwingH7/Getting Started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Operating conditions and performance",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Specifications"
+              },
+              "next": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Wiring"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/EwingH7/Specifications",
+              "id": "products/Flight Controllers/EwingH7/Specifications",
+              "title": "Operating conditions and performance",
+              "description": "Operating conditions and performance",
+              "source": "@site/docs/products/Flight Controllers/EwingH7/Specifications.md",
+              "sourceDirName": "products/Flight Controllers/EwingH7",
+              "slug": "/products/Flight Controllers/EwingH7/Specifications",
+              "permalink": "/docs/products/Flight Controllers/EwingH7/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ewing H7 Flight Controller",
+                "permalink": "/docs/category/ewing-h7-flight-controller"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Getting Started"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/EwingH7/Wiring",
+              "id": "products/Flight Controllers/EwingH7/Wiring",
+              "title": "Wiring",
+              "description": "Wiring and Connector Pinout Guide",
+              "source": "@site/docs/products/Flight Controllers/EwingH7/Wiring.md",
+              "sourceDirName": "products/Flight Controllers/EwingH7",
+              "slug": "/products/Flight Controllers/EwingH7/Wiring",
+              "permalink": "/docs/products/Flight Controllers/EwingH7/Wiring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Getting Started"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Flight Controllers/EwingH7/Compliance"
+              }
+            },
+            {
               "unversionedId": "products/Video/EwingVRX/Compliance",
               "id": "products/Video/EwingVRX/Compliance",
               "title": "Compliance",
@@ -401,6 +579,10 @@
               "previous": {
                 "title": "Getting Started – EwingVRX",
                 "permalink": "/docs/products/Video/EwingVRX/GettingStarted"
+              },
+              "next": {
+                "title": "Camera Modules",
+                "permalink": "/docs/category/camera-modules"
               }
             },
             {
@@ -549,6 +731,36 @@
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
+                      {
+                        "type": "category",
+                        "label": "Ewing H7 Flight Controller",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/EwingH7/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/EwingH7/Getting Started"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/EwingH7/Wiring"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/EwingH7/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Everything you need to know about the Ewing H7",
+                          "slug": "/category/ewing-h7-flight-controller",
+                          "permalink": "/docs/category/ewing-h7-flight-controller"
+                        }
+                      },
                       {
                         "type": "category",
                         "label": "Brave F7 Flight Controller",
@@ -775,6 +987,46 @@
                       "description": "Choose the video product you are working with.",
                       "slug": "/category/video-link-products",
                       "permalink": "/docs/category/video-link-products"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Camera Modules",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Ewing IronSight Analog Camera",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Cameras/IronSightAnalog/Compliance"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Cameras/IronSightAnalog/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Cameras/IronSightAnalog/Wiring"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Ewing IronSight Analog Camera",
+                          "slug": "/category/ewing-ironsight-analog-camera",
+                          "permalink": "/docs/category/ewing-ironsight-analog-camera"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Choose the camera product you are working with.",
+                      "slug": "/category/camera-modules",
+                      "permalink": "/docs/category/camera-modules"
                     }
                   }
                 ],

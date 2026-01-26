@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/Cameras/IronSightAnalog/GettingStarted",
+  "id": "products/Cameras/IronSightAnalog/GettingStarted",
+  "title": "Specifications",
+  "description": "The IronSight Analog Camera is a high-performance FPV imaging module designed for professional unmanned systems, ISR platforms, and low-latency analog video applications.",
+  "source": "@site/docs/products/Cameras/IronSightAnalog/GettingStarted.md",
+  "sourceDirName": "products/Cameras/IronSightAnalog",
+  "slug": "/products/Cameras/IronSightAnalog/GettingStarted",
+  "permalink": "/docs/products/Cameras/IronSightAnalog/GettingStarted",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Cameras/IronSightAnalog/Compliance"
+  }
+}

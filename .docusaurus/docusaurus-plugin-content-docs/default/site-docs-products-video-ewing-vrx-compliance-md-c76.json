@@ -18,5 +18,9 @@
   "previous": {
     "title": "Getting Started – EwingVRX",
     "permalink": "/docs/products/Video/EwingVRX/GettingStarted"
+  },
+  "next": {
+    "title": "Camera Modules",
+    "permalink": "/docs/category/camera-modules"
   }
 }

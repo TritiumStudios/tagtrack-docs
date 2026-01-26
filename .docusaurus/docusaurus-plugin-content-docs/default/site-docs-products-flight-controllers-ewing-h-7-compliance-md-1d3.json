@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/EwingH7/Compliance",
+  "id": "products/Flight Controllers/EwingH7/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Flight Controllers/EwingH7/Compliance.md",
+  "sourceDirName": "products/Flight Controllers/EwingH7",
+  "slug": "/products/Flight Controllers/EwingH7/Compliance",
+  "permalink": "/docs/products/Flight Controllers/EwingH7/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Flight Controllers/EwingH7/Wiring"
+  },
+  "next": {
+    "title": "Brave F7 Flight Controller",
+    "permalink": "/docs/category/brave-f7-flight-controller"
+  }
+}

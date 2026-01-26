@@ -1,0 +1,16 @@
+{
+  "title": "Ewing IronSight Analog Camera System",
+  "description": "Ewing 4-Channel Diversity VRX System",
+  "slug": "/category/ewing-ironsight-analog-camera-system",
+  "permalink": "/docs/category/ewing-ironsight-analog-camera-system",
+  "navigation": {
+    "previous": {
+      "title": "Camera Modules",
+      "permalink": "/docs/category/camera-modules"
+    },
+    "next": {
+      "title": "Getting Started – EwingVRX",
+      "permalink": "/docs/products/Cameras/IronSightAnalog/GettingStarted"
+    }
+  }
+}

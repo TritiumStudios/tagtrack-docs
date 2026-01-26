@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Video copy/EwingVTX/GettingStarted",
+  "id": "products/Video copy/EwingVTX/GettingStarted",
+  "title": "Getting Started – EwingVTX",
+  "description": "The Ewing Aerospace EwingVTX is a high-power analog video transmitter designed for professional unmanned systems integration. This guide walks through basic setup, LED indicators, button operation, and common configuration tasks.",
+  "source": "@site/docs/products/Video copy/EwingVTX/GettingStarted.md",
+  "sourceDirName": "products/Video copy/EwingVTX",
+  "slug": "/products/Video copy/EwingVTX/GettingStarted",
+  "permalink": "/docs/products/Video copy/EwingVTX/GettingStarted",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequency Table and Power Levels",
+    "permalink": "/docs/products/Video copy/EwingVTX/FrequencyTable"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Video copy/EwingVTX/Compliance"
+  }
+}

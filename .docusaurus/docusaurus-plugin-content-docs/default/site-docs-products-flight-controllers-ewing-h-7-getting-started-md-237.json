@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/EwingH7/Getting Started",
+  "id": "products/Flight Controllers/EwingH7/Getting Started",
+  "title": "Getting Started",
+  "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.",
+  "source": "@site/docs/products/Flight Controllers/EwingH7/Getting Started.md",
+  "sourceDirName": "products/Flight Controllers/EwingH7",
+  "slug": "/products/Flight Controllers/EwingH7/Getting Started",
+  "permalink": "/docs/products/Flight Controllers/EwingH7/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operating conditions and performance",
+    "permalink": "/docs/products/Flight Controllers/EwingH7/Specifications"
+  },
+  "next": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Flight Controllers/EwingH7/Wiring"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/braveF7 copy/Compliance",
+  "id": "products/Flight Controllers/braveF7 copy/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Flight Controllers/braveF7 copy/Compliance.md",
+  "sourceDirName": "products/Flight Controllers/braveF7 copy",
+  "slug": "/products/Flight Controllers/braveF7 copy/Compliance",
+  "permalink": "/docs/products/Flight Controllers/braveF7 copy/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Flight Controllers/braveF7 copy/Wiring"
+  },
+  "next": {
+    "title": "Electronic Speed Controllers",
+    "permalink": "/docs/category/electronic-speed-controllers"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/Cameras/EwingVRX/Compliance",
+  "id": "products/Cameras/EwingVRX/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Cameras/EwingVRX/Compliance.md",
+  "sourceDirName": "products/Cameras/EwingVRX",
+  "slug": "/products/Cameras/EwingVRX/Compliance",
+  "permalink": "/docs/products/Cameras/EwingVRX/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started – EwingVRX",
+    "permalink": "/docs/products/Cameras/EwingVRX/GettingStarted"
+  }
+}

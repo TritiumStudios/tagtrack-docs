@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/Cameras/IronSightAnalog/Wiring",
+  "id": "products/Cameras/IronSightAnalog/Wiring",
+  "title": "Wiring",
+  "description": "IronSight Analog Camera – Wiring & Pinout",
+  "source": "@site/docs/products/Cameras/IronSightAnalog/Wiring.md",
+  "sourceDirName": "products/Cameras/IronSightAnalog",
+  "slug": "/products/Cameras/IronSightAnalog/Wiring",
+  "permalink": "/docs/products/Cameras/IronSightAnalog/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications"
+  }
+}
