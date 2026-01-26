@@ -63,7 +63,7 @@ const config = {
             label: "Products",
           },
           {
-            href: "https://ewingaerospace.com",
+            href: "https://www.ewingaerospace.com",
             label: "Shop",
             position: "right",
           },
