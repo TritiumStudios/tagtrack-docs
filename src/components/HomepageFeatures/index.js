@@ -22,7 +22,7 @@ const FeatureList = [
   },
   {
     title: "Cameras and Video Systems",
-    Svg: require("@site/static/img/undraw_dashboard_re_3b76.svg").default,
+    Svg: require("@site/static/img/undraw_drone-surveillance_mc4g.svg").default,
     description: (
       <>
         NDAA Compliant cameras, video transmitters, and video receivers for long range operations. 
