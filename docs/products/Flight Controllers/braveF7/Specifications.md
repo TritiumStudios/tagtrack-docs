@@ -10,7 +10,7 @@ Operating conditions and performance
 |---|---|
 | Power input voltage | 3–8S LiPo (battery input)  |
 | Power regulation (BEC outputs) | 10V @ 2A; 5V @ 3A |
-| Waterproof performance | Not waterproof. Use external waterproofing/protection as required. *(TBD: confirm enclosure/coat guidance)* |
+| Waterproof performance | Not waterproof. Use external waterproofing/protection as required.  |
 | Ideal operating temperature | -10°C ~ 55°C |
 | Maximum operating temperature (emergency) | 100°C |
 | Minimum storage temperature tested | -70°C |
