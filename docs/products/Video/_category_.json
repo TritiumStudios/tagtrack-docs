@@ -1,0 +1,9 @@
+{
+  "label": "Video Link Products",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Choose the video product you are working with."
+  }
+}
+

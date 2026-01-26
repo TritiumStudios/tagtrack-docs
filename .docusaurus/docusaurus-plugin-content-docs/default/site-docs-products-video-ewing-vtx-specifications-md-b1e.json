@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Video/EwingVTX/Specifications",
+  "id": "products/Video/EwingVTX/Specifications",
+  "title": "Specifications",
+  "description": "Product Specification Sheet",
+  "source": "@site/docs/products/Video/EwingVTX/Specifications.md",
+  "sourceDirName": "products/Video/EwingVTX",
+  "slug": "/products/Video/EwingVTX/Specifications",
+  "permalink": "/docs/products/Video/EwingVTX/Specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ewing 5.8GHz VTX Module (2.5W Max)",
+    "permalink": "/docs/category/ewing-58ghz-vtx-module-25w-max"
+  },
+  "next": {
+    "title": "Frequency Table and Power Levels",
+    "permalink": "/docs/products/Video/EwingVTX/FrequencyTable"
+  }
+}

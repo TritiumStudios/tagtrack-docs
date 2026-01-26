@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/Video/EwingVRX/Compliance",
+  "id": "products/Video/EwingVRX/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Video/EwingVRX/Compliance.md",
+  "sourceDirName": "products/Video/EwingVRX",
+  "slug": "/products/Video/EwingVRX/Compliance",
+  "permalink": "/docs/products/Video/EwingVRX/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started – EwingVRX",
+    "permalink": "/docs/products/Video/EwingVRX/GettingStarted"
+  }
+}

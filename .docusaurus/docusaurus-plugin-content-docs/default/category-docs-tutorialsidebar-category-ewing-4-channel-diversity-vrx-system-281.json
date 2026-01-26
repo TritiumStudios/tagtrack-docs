@@ -1,0 +1,16 @@
+{
+  "title": "Ewing 4-Channel Diversity VRX System",
+  "description": "Ewing 4-Channel Diversity VRX System",
+  "slug": "/category/ewing-4-channel-diversity-vrx-system",
+  "permalink": "/docs/category/ewing-4-channel-diversity-vrx-system",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/Video/EwingVTX/Compliance"
+    },
+    "next": {
+      "title": "Getting Started – EwingVRX",
+      "permalink": "/docs/products/Video/EwingVRX/GettingStarted"
+    }
+  }
+}

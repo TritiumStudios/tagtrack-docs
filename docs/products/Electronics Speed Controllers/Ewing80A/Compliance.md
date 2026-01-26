@@ -6,6 +6,7 @@ sidebar_position: 4
 
 The **Ewing Aerospace 80A 4-in-1 ESC** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889**.
 
+The **Ewing Aerospace 80A 4-in-1 ESC** is also **BlueUAS Cleared** and listed on the BlueUAS Framework by both DIU and DCMA. 
 ---
 
 ## Section 889 (a)(1)(A) & (B) Compliance

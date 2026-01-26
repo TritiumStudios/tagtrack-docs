@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Video/EwingVTX/FrequencyTable copy",
+  "id": "products/Video/EwingVTX/FrequencyTable copy",
+  "title": "Frequency Table and Power Levels",
+  "description": "The EwingVTX supports 80 channels across multiple frequency bands.",
+  "source": "@site/docs/products/Video/EwingVTX/FrequencyTable copy.md",
+  "sourceDirName": "products/Video/EwingVTX",
+  "slug": "/products/Video/EwingVTX/FrequencyTable copy",
+  "permalink": "/docs/products/Video/EwingVTX/FrequencyTable copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Video/EwingVTX/Specifications"
+  },
+  "next": {
+    "title": "Frequency Table and Power Levels",
+    "permalink": "/docs/products/Video/EwingVTX/FrequencyTable"
+  }
+}

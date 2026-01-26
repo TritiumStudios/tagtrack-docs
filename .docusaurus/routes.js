@@ -4,42 +4,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'd59'),
+    component: ComponentCreator('/__docusaurus/debug', 'ee4'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '24d'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'e44'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '601'),
+    component: ComponentCreator('/__docusaurus/debug/content', '6f1'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '821'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '6c3'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'ed0'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '312'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '9af'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '646'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '6b7'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'd57'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '28f'),
+    component: ComponentCreator('/docs', 'be0'),
     routes: [
       {
         path: '/docs/category/bluelrs-radios',
@@ -78,6 +78,18 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/ewing-4-channel-diversity-vrx-system',
+        component: ComponentCreator('/docs/category/ewing-4-channel-diversity-vrx-system', 'ded'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/ewing-58ghz-vtx-module-25w-max',
+        component: ComponentCreator('/docs/category/ewing-58ghz-vtx-module-25w-max', '4a9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/ewing-80a-4-in-1-32bit-esc---am32',
         component: ComponentCreator('/docs/category/ewing-80a-4-in-1-32bit-esc---am32', '6f2'),
         exact: true,
@@ -92,6 +104,12 @@ export default [
       {
         path: '/docs/category/products',
         component: ComponentCreator('/docs/category/products', 'bb5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/video-link-products',
+        component: ComponentCreator('/docs/category/video-link-products', '95d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -178,12 +196,48 @@ export default [
         component: ComponentCreator('/docs/products/Flight Controllers/braveF7/Wiring', 'cd8'),
         exact: true,
         sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVRX/Compliance',
+        component: ComponentCreator('/docs/products/Video/EwingVRX/Compliance', 'a93'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVRX/GettingStarted',
+        component: ComponentCreator('/docs/products/Video/EwingVRX/GettingStarted', '611'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVTX/Compliance',
+        component: ComponentCreator('/docs/products/Video/EwingVTX/Compliance', '1f9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVTX/FrequencyTable',
+        component: ComponentCreator('/docs/products/Video/EwingVTX/FrequencyTable', 'e5b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVTX/GettingStarted',
+        component: ComponentCreator('/docs/products/Video/EwingVTX/GettingStarted', '81f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Video/EwingVTX/Specifications',
+        component: ComponentCreator('/docs/products/Video/EwingVTX/Specifications', 'a72'),
+        exact: true,
+        sidebar: "tutorialSidebar"
       }
     ]
   },
   {
     path: '/',
-    component: ComponentCreator('/', '561'),
+    component: ComponentCreator('/', 'ae1'),
     exact: true
   },
   {

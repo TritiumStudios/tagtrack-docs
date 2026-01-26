@@ -17,42 +17,45 @@
         "items": [
           {
             "type": "category",
-            "label": "BlueLRS Radios",
+            "label": "Flight Controllers",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "category",
-                "label": "BlueLRS RX Module",
+                "label": "Brave F7 Flight Controller",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "Compliance",
-                    "href": "/docs/products/BlueLRS/EA2400RX/Compliance",
-                    "docId": "products/BlueLRS/EA2400RX/Compliance"
-                  }
-                ],
-                "href": "/docs/category/bluelrs-rx-module"
-              },
-              {
-                "type": "category",
-                "label": "BlueLRS TX Module",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
+                    "label": "Operating conditions and performance",
+                    "href": "/docs/products/Flight Controllers/braveF7/Specifications",
+                    "docId": "products/Flight Controllers/braveF7/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started",
+                    "href": "/docs/products/Flight Controllers/braveF7/Getting Started",
+                    "docId": "products/Flight Controllers/braveF7/Getting Started"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Wiring",
+                    "href": "/docs/products/Flight Controllers/braveF7/Wiring",
+                    "docId": "products/Flight Controllers/braveF7/Wiring"
+                  },
                   {
                     "type": "link",
                     "label": "Compliance",
-                    "href": "/docs/products/BlueLRS/EA2400TX/Compliance",
-                    "docId": "products/BlueLRS/EA2400TX/Compliance"
+                    "href": "/docs/products/Flight Controllers/braveF7/Compliance",
+                    "docId": "products/Flight Controllers/braveF7/Compliance"
                   }
                 ],
-                "href": "/docs/category/bluelrs-tx-module"
+                "href": "/docs/category/brave-f7-flight-controller"
               }
             ],
-            "href": "/docs/category/bluelrs-radios"
+            "href": "/docs/category/flight-controllers"
           },
           {
             "type": "category",
@@ -131,45 +134,105 @@
           },
           {
             "type": "category",
-            "label": "Flight Controllers",
+            "label": "BlueLRS Radios",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "category",
-                "label": "Brave F7 Flight Controller",
+                "label": "BlueLRS RX Module",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "Operating conditions and performance",
-                    "href": "/docs/products/Flight Controllers/braveF7/Specifications",
-                    "docId": "products/Flight Controllers/braveF7/Specifications"
+                    "label": "Compliance",
+                    "href": "/docs/products/BlueLRS/EA2400RX/Compliance",
+                    "docId": "products/BlueLRS/EA2400RX/Compliance"
+                  }
+                ],
+                "href": "/docs/category/bluelrs-rx-module"
+              },
+              {
+                "type": "category",
+                "label": "BlueLRS TX Module",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Compliance",
+                    "href": "/docs/products/BlueLRS/EA2400TX/Compliance",
+                    "docId": "products/BlueLRS/EA2400TX/Compliance"
+                  }
+                ],
+                "href": "/docs/category/bluelrs-tx-module"
+              }
+            ],
+            "href": "/docs/category/bluelrs-radios"
+          },
+          {
+            "type": "category",
+            "label": "Video Link Products",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Ewing 5.8GHz VTX Module (2.5W Max)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Specifications",
+                    "href": "/docs/products/Video/EwingVTX/Specifications",
+                    "docId": "products/Video/EwingVTX/Specifications"
                   },
                   {
                     "type": "link",
-                    "label": "Getting Started",
-                    "href": "/docs/products/Flight Controllers/braveF7/Getting Started",
-                    "docId": "products/Flight Controllers/braveF7/Getting Started"
+                    "label": "Frequency Table and Power Levels",
+                    "href": "/docs/products/Video/EwingVTX/FrequencyTable",
+                    "docId": "products/Video/EwingVTX/FrequencyTable"
                   },
                   {
                     "type": "link",
-                    "label": "Wiring",
-                    "href": "/docs/products/Flight Controllers/braveF7/Wiring",
-                    "docId": "products/Flight Controllers/braveF7/Wiring"
+                    "label": "Getting Started – EwingVTX",
+                    "href": "/docs/products/Video/EwingVTX/GettingStarted",
+                    "docId": "products/Video/EwingVTX/GettingStarted"
                   },
                   {
                     "type": "link",
                     "label": "Compliance",
-                    "href": "/docs/products/Flight Controllers/braveF7/Compliance",
-                    "docId": "products/Flight Controllers/braveF7/Compliance"
+                    "href": "/docs/products/Video/EwingVTX/Compliance",
+                    "docId": "products/Video/EwingVTX/Compliance"
                   }
                 ],
-                "href": "/docs/category/brave-f7-flight-controller"
+                "href": "/docs/category/ewing-58ghz-vtx-module-25w-max"
+              },
+              {
+                "type": "category",
+                "label": "Ewing 4-Channel Diversity VRX System",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Getting Started – EwingVRX",
+                    "href": "/docs/products/Video/EwingVRX/GettingStarted",
+                    "docId": "products/Video/EwingVRX/GettingStarted"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Compliance",
+                    "href": "/docs/products/Video/EwingVRX/Compliance",
+                    "docId": "products/Video/EwingVRX/Compliance"
+                  }
+                ],
+                "href": "/docs/category/ewing-4-channel-diversity-vrx-system"
               }
             ],
-            "href": "/docs/category/flight-controllers"
+            "href": "/docs/category/video-link-products"
           }
         ],
         "href": "/docs/category/products"
@@ -259,6 +322,42 @@
       "id": "products/Flight Controllers/braveF7/Wiring",
       "title": "Wiring",
       "description": "Wiring and Connector Pinout Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVRX/Compliance": {
+      "id": "products/Video/EwingVRX/Compliance",
+      "title": "Compliance",
+      "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVRX/GettingStarted": {
+      "id": "products/Video/EwingVRX/GettingStarted",
+      "title": "Getting Started – EwingVRX",
+      "description": "Coming soon",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVTX/Compliance": {
+      "id": "products/Video/EwingVTX/Compliance",
+      "title": "Compliance",
+      "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVTX/FrequencyTable": {
+      "id": "products/Video/EwingVTX/FrequencyTable",
+      "title": "Frequency Table and Power Levels",
+      "description": "The EwingVTX supports 80 channels across multiple frequency bands.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVTX/GettingStarted": {
+      "id": "products/Video/EwingVTX/GettingStarted",
+      "title": "Getting Started – EwingVTX",
+      "description": "The Ewing Aerospace EwingVTX is a high-power analog video transmitter designed for professional unmanned systems integration. This guide walks through basic setup, LED indicators, button operation, and common configuration tasks.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Video/EwingVTX/Specifications": {
+      "id": "products/Video/EwingVTX/Specifications",
+      "title": "Specifications",
+      "description": "Product Specification Sheet",
       "sidebar": "tutorialSidebar"
     }
   }

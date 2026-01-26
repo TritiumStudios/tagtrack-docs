@@ -24,11 +24,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\sidebars.js"
+          "sidebarPath": "/Users/tannerewing/Documents/GitHub/tagtrack-docs/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\src\\css\\custom.css"
+          "customCss": "/Users/tannerewing/Documents/GitHub/tagtrack-docs/src/css/custom.css"
         }
       }
     ]

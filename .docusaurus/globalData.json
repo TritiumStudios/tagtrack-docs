@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "products/BlueLRS/EA2400RX/Compliance",
+          "mainDocId": "products/Flight Controllers/braveF7/Specifications",
           "docs": [
             {
               "id": "products/BlueLRS/EA2400RX/Compliance",
@@ -81,23 +81,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Video/EwingVRX/Compliance",
+              "path": "/docs/products/Video/EwingVRX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Video/EwingVRX/GettingStarted",
+              "path": "/docs/products/Video/EwingVRX/GettingStarted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Video/EwingVTX/Compliance",
+              "path": "/docs/products/Video/EwingVTX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Video/EwingVTX/FrequencyTable",
+              "path": "/docs/products/Video/EwingVTX/FrequencyTable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Video/EwingVTX/GettingStarted",
+              "path": "/docs/products/Video/EwingVTX/GettingStarted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Video/EwingVTX/Specifications",
+              "path": "/docs/products/Video/EwingVTX/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/products",
               "path": "/docs/category/products",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/bluelrs-radios",
-              "path": "/docs/category/bluelrs-radios",
+              "id": "/category/flight-controllers",
+              "path": "/docs/category/flight-controllers",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/bluelrs-rx-module",
-              "path": "/docs/category/bluelrs-rx-module",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bluelrs-tx-module",
-              "path": "/docs/category/bluelrs-tx-module",
+              "id": "/category/brave-f7-flight-controller",
+              "path": "/docs/category/brave-f7-flight-controller",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -116,13 +141,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/flight-controllers",
-              "path": "/docs/category/flight-controllers",
+              "id": "/category/bluelrs-radios",
+              "path": "/docs/category/bluelrs-radios",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/brave-f7-flight-controller",
-              "path": "/docs/category/brave-f7-flight-controller",
+              "id": "/category/bluelrs-rx-module",
+              "path": "/docs/category/bluelrs-rx-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bluelrs-tx-module",
+              "path": "/docs/category/bluelrs-tx-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/video-link-products",
+              "path": "/docs/category/video-link-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-58ghz-vtx-module-25w-max",
+              "path": "/docs/category/ewing-58ghz-vtx-module-25w-max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-4-channel-diversity-vrx-system",
+              "path": "/docs/category/ewing-4-channel-diversity-vrx-system",
               "sidebar": "tutorialSidebar"
             }
           ],
