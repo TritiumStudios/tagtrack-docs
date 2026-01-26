@@ -2,182 +2,119 @@
 sidebar_position: 2
 ---
 
----
-## Getting Started
-# Getting Started with the Brave F7 Flight Controller
-
-This guide walks through the initial setup of the **Ewing Aerospace Brave F7 Flight Controller**, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.
+# Getting Started Guide
 
 ---
 
-## What you will need
+## 📦 What’s in the Box
 
-Before beginning, ensure you have the following:
+- **Ewing 80A 4-in-1 ESC (AM32 firmware)**
+- Rubber mounting dampers
+- High-current battery leads (pre-tinned)
+- Low-ESR electrolytic capacitor
 
-- Brave F7 Flight Controller
-- USB-C cable (data-capable)
-- Computer with Betaflight Configurator installed
-- Power source (flight battery compatible with your system, 3–8S LiPo)
-- ESC / motor assembly
-- Receiver (RC link of your choice)
-- Optional peripherals:
-  - GPS
-  - VTX / camera
-  - Barometer-dependent features (altitude hold, logging)
+**Key Specifications**
 
----
-
-## Step 1: Physical inspection
-
-1. Verify the flight controller is free of shipping damage.
-2. Confirm mounting orientation and that the board is installed with adequate vibration isolation.
-3. Ensure no conductive debris or loose fasteners are present.
-
-> **Note:** The Brave F7 is not waterproof. If operating in high-humidity or exposed environments, apply conformal coating or use an appropriate enclosure.
+- Input Voltage: **3–8S LiPo**
+- Continuous Current: **80 A**
+- Burst Current: **100 A (short duration)**
+- Firmware: **AM32 (32-bit)**
+- ESC Protocols: **DSHOT150 / 300 / 600 / 1200**
+- Telemetry: **ESC telemetry supported**
+- Mounting Pattern: **30 × 30 mm**
 
 ---
 
-## Step 2: USB connection and driver verification
+## 🔌 Installation & Wiring
 
-1. Connect the Brave F7 to your computer using a USB-C cable.
-2. Launch **Betaflight Configurator**.
-3. Select the newly detected COM/USB device.
-4. Click **Connect**.
+### Power Connection
 
-If the board does not appear:
-- Try a different USB cable
-- Avoid USB hubs
-- Confirm your OS USB drivers are up to date
+1. Mount the ESC using vibration-isolating rubber dampers.
+2. Solder battery leads directly to the **VBAT (+)** and **GND (−)** pads.
+3. Install the included **low-ESR capacitor** across VBAT and GND as close to the ESC as possible.
+
+> ⚠️ Always verify polarity before applying power.
 
 ---
 
-## Step 3: Firmware target selection
+### Flight Controller Connection
 
-The Brave F7 uses the following Betaflight firmware target: RRIOT_F722
-
-
-1. Open the **Firmware Flasher** tab.
-2. Select target `RRIOT_F722`.
-3. Choose the latest stable Betaflight release approved for your program.
-4. Flash firmware.
-
-> **Recommendation:** Disable “Full Chip Erase” unless migrating from unknown firmware.
+1. Connect the ESC signal harness to the flight controller ESC header or pads.
+2. Confirm proper alignment of:
+   - **VBAT**
+   - **GND**
+   - **Motor outputs (M1–M4)**
+   - **Current sense**
+   - **ESC telemetry**
 
 ---
 
-## Step 4: Initial power-up check
+## 🧠 AM32 Firmware Overview
 
-After flashing:
+The Ewing 80A ESC runs **AM32**, a modern open-source 32-bit ESC firmware offering:
 
-1. Reconnect to the board.
-2. Verify:
-   - Gyro responds to movement
-   - Board orientation matches the 3D model
-   - No unexpected warning flags appear
-
-If orientation is incorrect:
-- Set **Board and Sensor Alignment** in Betaflight.
+- High-speed motor response
+- Advanced telemetry and RPM feedback
+- Configurable PWM frequency and timing
+- Broad compatibility with modern flight controllers
 
 ---
 
-## Step 5: Power and BEC verification
+## ⚙️ Betaflight Configuration (Recommended)
 
-The Brave F7 supports:
-
-- **3–8S LiPo input**
-- **10V BEC @ 2A**
-- **5V BEC @ 3A**
-
-1. Connect your ESC and peripherals.
-2. Apply battery power.
-3. Confirm:
-   - No overheating
-   - Stable voltage readings
-   - No brownouts or resets
-
-> **Important:** When using high-power VTX systems, USB power alone may be insufficient. Use a flight battery during configuration if instability is observed.
+1. Open **Betaflight Configurator**
+2. Navigate to **Configuration → ESC/Motor Features**
+3. Set:
+   - **ESC Protocol:** `DSHOT600`
+   - Enable **Bidirectional DSHOT** (if supported)
+4. Save and reboot
 
 ---
 
-## Step 6: Receiver setup
+### Telemetry Setup
 
-1. Connect your receiver to the appropriate UART.
-2. Enable **Serial RX** on that UART.
-3. Select the correct receiver protocol.
-4. Verify channel movement in the **Receiver** tab.
-
----
-
-## Step 7: Motor and ESC setup
-
-1. Remove propellers before proceeding.
-2. Configure motor protocol (e.g., DShot).
-3. Verify motor order and direction.
-4. Perform ESC calibration if required.
-
-> **WARNING:** Never install propellers during bench configuration.
+1. Go to the **Ports** tab
+2. Enable **Telemetry** on the UART connected to ESC telemetry
+3. Save and reboot
 
 ---
 
-## Step 8: Failsafe configuration
+### Motor Verification
 
-Proper failsafe behavior is mandatory for safe operation.
-
-1. Configure receiver failsafe behavior.
-2. Set Betaflight failsafe to:
-   - Cut motors
-   - Disarm
-   - Enter recovery mode if applicable
-
-Test failsafe on the bench before flight.
+1. Remove propellers
+2. Use the **Motors** tab to confirm:
+   - Correct motor order
+   - Correct motor direction
+3. Reverse motors in software if needed
 
 ---
 
-## Step 9: Sensor calibration
+## 🔧 AM32 Configurator (Advanced Tuning)
 
-Calibrate the following as required:
+Advanced tuning options include:
 
-- Accelerometer (level surface)
-- Compass (if GPS is installed)
-- Barometer (automatic)
+- PWM frequency (24–48 kHz typical)
+- Motor timing
+- Startup power / boost
+- Braking strength
+- Telemetry output mode
 
-Ensure calibrations are performed in the final installation orientation.
-
----
-
-## Step 10: Pre-flight checklist
-
-Before flight, confirm:
-
-- Props installed in correct orientation
-- Frame orientation matches Betaflight
-- Receiver link stable
-- GPS lock (if used)
-- Failsafe verified
-- No active warning flags
+> ⚠️ Make incremental changes and test at low throttle.
 
 ---
 
-## Next steps
+## ⚠️ Safety Notes
 
-- Configure flight modes and tuning
-- Enable blackbox logging
-- Integrate GPS-assisted features
-- Review wiring diagrams and pinouts
-- Validate operation in controlled test flights
-
-For advanced configuration, system integration guidance, and compliance documentation, refer to the additional Brave F7 documentation pages.
+- Always remove propellers during setup
+- Use a smoke stopper for first power-on
+- Verify solder joints and insulation
 
 ---
 
-## Safety and compliance notice
+## 📘 Support
 
-The Brave F7 Flight Controller is intended for professional unmanned systems integration. Improper configuration, installation, or operation may result in loss of vehicle control. Always follow applicable regulations, airspace rules, and program-specific safety requirements.
+**Ewing Aerospace**  
+Engineering & Support  
+www.ewingaerospace.com
 
 ---
-
-© Ewing Aerospace. All rights reserved.
-
-
-
-

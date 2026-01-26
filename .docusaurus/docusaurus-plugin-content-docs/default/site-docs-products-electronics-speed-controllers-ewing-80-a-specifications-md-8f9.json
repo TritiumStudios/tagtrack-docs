@@ -1,8 +1,8 @@
 {
   "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Specifications",
   "id": "products/Electronics Speed Controllers/Ewing80A/Specifications",
-  "title": "Specifications",
-  "description": "---",
+  "title": "Operating Conditions and Performance",
+  "description": "| Parameter | Description |",
   "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Specifications.md",
   "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
   "slug": "/products/Electronics Speed Controllers/Ewing80A/Specifications",
@@ -20,7 +20,7 @@
     "permalink": "/docs/category/ewing-80a-4-in-1-32bit-esc---am32"
   },
   "next": {
-    "title": "Getting Started",
+    "title": "Getting Started Guide",
     "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Wiring",
   "id": "products/Electronics Speed Controllers/Ewing80A/Wiring",
-  "title": "Wiring",
-  "description": "---",
+  "title": "Wiring & Pinout Guide",
+  "description": "Ewing Aerospace",
   "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Wiring.md",
   "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
   "slug": "/products/Electronics Speed Controllers/Ewing80A/Wiring",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
+    "title": "Getting Started Guide",
     "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started"
   },
   "next": {

@@ -101,19 +101,19 @@
                 "items": [
                   {
                     "type": "link",
-                    "label": "Specifications",
+                    "label": "Operating Conditions and Performance",
                     "href": "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications",
                     "docId": "products/Electronics Speed Controllers/Ewing80A/Specifications"
                   },
                   {
                     "type": "link",
-                    "label": "Getting Started",
+                    "label": "Getting Started Guide",
                     "href": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started",
                     "docId": "products/Electronics Speed Controllers/Ewing80A/Getting Started"
                   },
                   {
                     "type": "link",
-                    "label": "Wiring",
+                    "label": "Wiring & Pinout Guide",
                     "href": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring",
                     "docId": "products/Electronics Speed Controllers/Ewing80A/Wiring"
                   },
@@ -221,20 +221,20 @@
     },
     "products/Electronics Speed Controllers/Ewing80A/Getting Started": {
       "id": "products/Electronics Speed Controllers/Ewing80A/Getting Started",
-      "title": "Getting Started",
+      "title": "Getting Started Guide",
       "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "products/Electronics Speed Controllers/Ewing80A/Specifications": {
       "id": "products/Electronics Speed Controllers/Ewing80A/Specifications",
-      "title": "Specifications",
-      "description": "---",
+      "title": "Operating Conditions and Performance",
+      "description": "| Parameter | Description |",
       "sidebar": "tutorialSidebar"
     },
     "products/Electronics Speed Controllers/Ewing80A/Wiring": {
       "id": "products/Electronics Speed Controllers/Ewing80A/Wiring",
-      "title": "Wiring",
-      "description": "---",
+      "title": "Wiring & Pinout Guide",
+      "description": "Ewing Aerospace",
       "sidebar": "tutorialSidebar"
     },
     "products/Flight Controllers/braveF7/Compliance": {
