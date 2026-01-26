@@ -49,7 +49,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={""} description="TagTrack API and Hardware Documentation">
+    <Layout title={""} description="Ewing Aerospace Hardware Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

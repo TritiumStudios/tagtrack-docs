@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Getting Started",
+  "id": "products/Electronics Speed Controllers/Ewing80A/Getting Started",
+  "title": "Getting Started",
+  "description": "---",
+  "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started.md",
+  "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+  "slug": "/products/Electronics Speed Controllers/Ewing80A/Getting Started",
+  "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications"
+  },
+  "next": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring"
+  }
+}

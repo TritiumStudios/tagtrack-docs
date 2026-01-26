@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/braveF7/Wiring",
+  "id": "products/braveF7/Wiring",
+  "title": "Wiring",
+  "description": "Wiring and Connector Pinout Guide",
+  "source": "@site/docs/products/braveF7/Wiring.md",
+  "sourceDirName": "products/braveF7",
+  "slug": "/products/braveF7/Wiring",
+  "permalink": "/docs/products/braveF7/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/braveF7/Getting Started"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/braveF7/Compliance"
+  }
+}

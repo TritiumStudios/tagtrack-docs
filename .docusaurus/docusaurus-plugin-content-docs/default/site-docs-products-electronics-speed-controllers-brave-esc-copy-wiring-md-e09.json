@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Electronics Speed Controllers/BraveESC copy/Wiring",
+  "id": "products/Electronics Speed Controllers/BraveESC copy/Wiring",
+  "title": "Wiring",
+  "description": "---",
+  "source": "@site/docs/products/Electronics Speed Controllers/BraveESC copy/Wiring.md",
+  "sourceDirName": "products/Electronics Speed Controllers/BraveESC copy",
+  "slug": "/products/Electronics Speed Controllers/BraveESC copy/Wiring",
+  "permalink": "/docs/products/Electronics Speed Controllers/BraveESC copy/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC copy/Getting Started"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC copy/Compliance"
+  }
+}

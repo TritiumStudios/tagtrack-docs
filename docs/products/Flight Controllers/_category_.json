@@ -1,0 +1,9 @@
+{
+  "label": "Flight Controllers",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Choose the flight controller you are working with."
+  }
+}
+

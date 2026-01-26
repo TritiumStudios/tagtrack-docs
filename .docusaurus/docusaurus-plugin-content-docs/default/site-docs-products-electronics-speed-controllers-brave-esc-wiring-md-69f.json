@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Electronics Speed Controllers/BraveESC/Wiring",
+  "id": "products/Electronics Speed Controllers/BraveESC/Wiring",
+  "title": "Wiring & Pinout Guide",
+  "description": "Ewing Aerospace",
+  "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Wiring.md",
+  "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+  "slug": "/products/Electronics Speed Controllers/BraveESC/Wiring",
+  "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Compliance"
+  }
+}

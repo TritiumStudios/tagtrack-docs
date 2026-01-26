@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/ttl-318-uhf-reader/Getting Started copy",
+  "id": "products/ttl-318-uhf-reader/Getting Started copy",
+  "title": "Getting Started copy",
+  "description": "---",
+  "source": "@site/docs/products/ttl-318-uhf-reader/Getting Started copy.md",
+  "sourceDirName": "products/ttl-318-uhf-reader",
+  "slug": "/products/ttl-318-uhf-reader/Getting Started copy",
+  "permalink": "/docs/products/ttl-318-uhf-reader/Getting Started copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Specifications"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Getting Started"
+  }
+}

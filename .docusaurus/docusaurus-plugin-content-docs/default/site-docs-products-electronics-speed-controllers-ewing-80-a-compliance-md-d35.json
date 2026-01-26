@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Compliance",
+  "id": "products/Electronics Speed Controllers/Ewing80A/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Compliance.md",
+  "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+  "slug": "/products/Electronics Speed Controllers/Ewing80A/Compliance",
+  "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring"
+  },
+  "next": {
+    "title": "Flight Controllers",
+    "permalink": "/docs/category/flight-controllers"
+  }
+}

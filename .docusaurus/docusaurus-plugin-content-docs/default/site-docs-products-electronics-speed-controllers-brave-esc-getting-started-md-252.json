@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Electronics Speed Controllers/BraveESC/Getting Started",
+  "id": "products/Electronics Speed Controllers/BraveESC/Getting Started",
+  "title": "Getting Started",
+  "description": "---",
+  "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Getting Started.md",
+  "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+  "slug": "/products/Electronics Speed Controllers/BraveESC/Getting Started",
+  "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Specifications"
+  },
+  "next": {
+    "title": "Wiring & Pinout Guide",
+    "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Wiring"
+  }
+}

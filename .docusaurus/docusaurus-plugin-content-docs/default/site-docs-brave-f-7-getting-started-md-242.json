@@ -1,0 +1,26 @@
+{
+  "unversionedId": "braveF7/Getting Started",
+  "id": "braveF7/Getting Started",
+  "title": "Getting Started",
+  "description": "---",
+  "source": "@site/docs/braveF7/Getting Started.md",
+  "sourceDirName": "braveF7",
+  "slug": "/braveF7/Getting Started",
+  "permalink": "/docs/braveF7/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/braveF7/Specifications"
+  },
+  "next": {
+    "title": "Wiring",
+    "permalink": "/docs/braveF7/Wiring"
+  }
+}

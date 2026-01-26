@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BraveESC/Wiring",
+  "id": "products/BraveESC/Wiring",
+  "title": "Wiring",
+  "description": "---",
+  "source": "@site/docs/products/BraveESC/Wiring.md",
+  "sourceDirName": "products/BraveESC",
+  "slug": "/products/BraveESC/Wiring",
+  "permalink": "/docs/products/BraveESC/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/BraveESC/Getting Started"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/BraveESC/Compliance"
+  }
+}

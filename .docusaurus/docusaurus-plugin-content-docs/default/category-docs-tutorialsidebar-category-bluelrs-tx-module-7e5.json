@@ -1,0 +1,16 @@
+{
+  "title": "BlueLRS TX Module",
+  "description": "BlueLRS TX Module",
+  "slug": "/category/bluelrs-tx-module",
+  "permalink": "/docs/category/bluelrs-tx-module",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/BlueLRS/EA2400RX/Compliance"
+    },
+    "next": {
+      "title": "Compliance",
+      "permalink": "/docs/products/BlueLRS/EA2400TX/Compliance"
+    }
+  }
+}

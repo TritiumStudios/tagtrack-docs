@@ -1,0 +1,16 @@
+{
+  "title": "Electronic Speed Controllers",
+  "description": "Choose the category you are working with.",
+  "slug": "/category/electronic-speed-controllers",
+  "permalink": "/docs/category/electronic-speed-controllers",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/BlueLRS/EA2400TX/Compliance"
+    },
+    "next": {
+      "title": "Brave 55A 4-in-1 32Bit ESC - AM32",
+      "permalink": "/docs/category/brave-55a-4-in-1-32bit-esc---am32"
+    }
+  }
+}

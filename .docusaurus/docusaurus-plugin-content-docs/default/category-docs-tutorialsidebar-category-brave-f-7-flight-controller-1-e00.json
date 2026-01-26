@@ -1,0 +1,16 @@
+{
+  "title": "Brave F7 Flight Controller",
+  "description": "Everything you need to know about the Brave F7",
+  "slug": "/category/brave-f7-flight-controller-1",
+  "permalink": "/docs/category/brave-f7-flight-controller-1",
+  "navigation": {
+    "previous": {
+      "title": "Flight Controllers",
+      "permalink": "/docs/category/flight-controllers-1"
+    },
+    "next": {
+      "title": "Operating conditions and performance",
+      "permalink": "/docs/products/Flight Controllers - Copy/braveF7/Specifications"
+    }
+  }
+}

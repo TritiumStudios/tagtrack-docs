@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "TTL-318 UHF Reader",
-    "permalink": "/docs/category/ttl-318-uhf-reader"
+    "title": "Brave F7 Flight Controller",
+    "permalink": "/docs/category/brave-f7-flight-controller"
   },
   "next": {
-    "title": "Collecting Data",
-    "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
+    "title": "Specifications",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Specifications"
   }
 }

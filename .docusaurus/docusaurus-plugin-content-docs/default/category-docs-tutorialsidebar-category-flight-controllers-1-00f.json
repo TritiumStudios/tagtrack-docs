@@ -1,0 +1,16 @@
+{
+  "title": "Flight Controllers",
+  "description": "Choose the flight controller you are working with.",
+  "slug": "/category/flight-controllers-1",
+  "permalink": "/docs/category/flight-controllers-1",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/Flight Controllers/braveF7/Compliance"
+    },
+    "next": {
+      "title": "Brave F7 Flight Controller",
+      "permalink": "/docs/category/brave-f7-flight-controller-1"
+    }
+  }
+}

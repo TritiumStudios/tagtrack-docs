@@ -1,0 +1,16 @@
+{
+  "title": "BlueLRS RX Module",
+  "description": "BlueLRS RX Module",
+  "slug": "/category/bluelrs-rx-module",
+  "permalink": "/docs/category/bluelrs-rx-module",
+  "navigation": {
+    "previous": {
+      "title": "BlueLRS Radios",
+      "permalink": "/docs/category/bluelrs-radios"
+    },
+    "next": {
+      "title": "Compliance",
+      "permalink": "/docs/products/BlueLRS/EA2400RX/Compliance"
+    }
+  }
+}

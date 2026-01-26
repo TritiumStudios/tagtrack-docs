@@ -1,0 +1,16 @@
+{
+  "title": "BlueLRS Radios",
+  "description": "Choose the radio product you are working with.",
+  "slug": "/category/bluelrs-radios",
+  "permalink": "/docs/category/bluelrs-radios",
+  "navigation": {
+    "previous": {
+      "title": "Products",
+      "permalink": "/docs/category/products"
+    },
+    "next": {
+      "title": "BlueLRS RX Module",
+      "permalink": "/docs/category/bluelrs-rx-module"
+    }
+  }
+}

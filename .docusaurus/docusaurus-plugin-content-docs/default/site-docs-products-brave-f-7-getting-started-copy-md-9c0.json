@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/braveF7/Getting Started copy",
+  "id": "products/braveF7/Getting Started copy",
+  "title": "Getting Started copy",
+  "description": "---",
+  "source": "@site/docs/products/braveF7/Getting Started copy.md",
+  "sourceDirName": "products/braveF7",
+  "slug": "/products/braveF7/Getting Started copy",
+  "permalink": "/docs/products/braveF7/Getting Started copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/braveF7/Specifications"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/braveF7/Getting Started"
+  }
+}

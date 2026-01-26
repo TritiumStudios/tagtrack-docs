@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "TagTrack Docs",
-  "tagline": "Effortless Connectivity",
+  "title": "Ewing Aerospace Docs",
+  "tagline": "Built for the Mission - Fully NDAA and BlueUAS Compliant",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.mytagtrack.com",
+  "url": "https://docs.ewingaerospace.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -24,11 +24,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\sidebars.js"
+          "sidebarPath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\src\\css\\custom.css"
         }
       }
     ]
@@ -38,7 +38,7 @@ export default {
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "TagTrack Logo",
+        "alt": "Ewing Aerospace Logo",
         "src": "img/nav-logo.png",
         "srcDark": "img/nav-logo-dark.png"
       },
@@ -50,8 +50,8 @@ export default {
           "label": "Products"
         },
         {
-          "href": "https://app.mytagtrack.com",
-          "label": "Dashboard",
+          "href": "https://ewingaerospace.com",
+          "label": "Shop",
           "position": "right"
         }
       ],
@@ -70,15 +70,11 @@ export default {
           ]
         },
         {
-          "title": "TagTrack",
+          "title": "Ewing Aerospace Product Docs",
           "items": [
             {
               "label": "Shop",
-              "href": "https://mytagtrack.com"
-            },
-            {
-              "label": "Dashboard",
-              "href": "https://app.mytagtrack.com"
+              "href": "https://ewingaerospace.com"
             }
           ]
         },
@@ -87,16 +83,12 @@ export default {
           "items": [
             {
               "label": "Support",
-              "href": "https://mytagtrack.com/contact2/"
-            },
-            {
-              "label": "Contact Us",
-              "href": "https://mytagtrack-21136548.hs-sites.com/schedule-a-consultation"
+              "href": "https://www.ewingaerospace.com/pages/contact"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 TagTrack"
+      "copyright": "Copyright © 2026 Ewing Aerospace"
     },
     "prism": {
       "theme": {

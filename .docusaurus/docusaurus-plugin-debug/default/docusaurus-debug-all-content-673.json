@@ -13,19 +13,97 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\sidebars.js",
-          "contentPath": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\docs",
-          "contentPathLocalized": "C:\\Users\\Wyatt\\Repos\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "products/ttl-318-uhf-reader/collecting-data",
-              "id": "products/ttl-318-uhf-reader/collecting-data",
-              "title": "Collecting Data",
-              "description": "Use a webhook to collect data from the TTL-318.",
-              "source": "@site/docs/products/ttl-318-uhf-reader/collecting-data.md",
-              "sourceDirName": "products/ttl-318-uhf-reader",
-              "slug": "/products/ttl-318-uhf-reader/collecting-data",
-              "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data",
+              "unversionedId": "products/BlueLRS/EA2400RX/Compliance",
+              "id": "products/BlueLRS/EA2400RX/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/BlueLRS/EA2400RX/Compliance.md",
+              "sourceDirName": "products/BlueLRS/EA2400RX",
+              "slug": "/products/BlueLRS/EA2400RX/Compliance",
+              "permalink": "/docs/products/BlueLRS/EA2400RX/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BlueLRS RX Module",
+                "permalink": "/docs/category/bluelrs-rx-module"
+              },
+              "next": {
+                "title": "BlueLRS TX Module",
+                "permalink": "/docs/category/bluelrs-tx-module"
+              }
+            },
+            {
+              "unversionedId": "products/BlueLRS/EA2400TX/Compliance",
+              "id": "products/BlueLRS/EA2400TX/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/BlueLRS/EA2400TX/Compliance.md",
+              "sourceDirName": "products/BlueLRS/EA2400TX",
+              "slug": "/products/BlueLRS/EA2400TX/Compliance",
+              "permalink": "/docs/products/BlueLRS/EA2400TX/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BlueLRS TX Module",
+                "permalink": "/docs/category/bluelrs-tx-module"
+              },
+              "next": {
+                "title": "Electronic Speed Controllers",
+                "permalink": "/docs/category/electronic-speed-controllers"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/BraveESC/Compliance",
+              "id": "products/Electronics Speed Controllers/BraveESC/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Compliance.md",
+              "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+              "slug": "/products/Electronics Speed Controllers/BraveESC/Compliance",
+              "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wiring & Pinout Guide",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Wiring"
+              },
+              "next": {
+                "title": "Ewing 80A 4-in-1 32Bit ESC - AM32",
+                "permalink": "/docs/category/ewing-80a-4-in-1-32bit-esc---am32"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/BraveESC/Getting Started",
+              "id": "products/Electronics Speed Controllers/BraveESC/Getting Started",
+              "title": "Getting Started",
+              "description": "---",
+              "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Getting Started.md",
+              "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+              "slug": "/products/Electronics Speed Controllers/BraveESC/Getting Started",
+              "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -35,45 +113,23 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/docs/products/ttl-318-uhf-reader/getting-started"
+                "title": "Specifications",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Specifications"
               },
               "next": {
-                "title": "Configuration",
-                "permalink": "/docs/products/ttl-318-uhf-reader/configuration"
+                "title": "Wiring & Pinout Guide",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Wiring"
               }
             },
             {
-              "unversionedId": "products/ttl-318-uhf-reader/configuration",
-              "id": "products/ttl-318-uhf-reader/configuration",
-              "title": "Configuration",
-              "description": "Learn how to change your device settings.",
-              "source": "@site/docs/products/ttl-318-uhf-reader/configuration.md",
-              "sourceDirName": "products/ttl-318-uhf-reader",
-              "slug": "/products/ttl-318-uhf-reader/configuration",
-              "permalink": "/docs/products/ttl-318-uhf-reader/configuration",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Collecting Data",
-                "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
-              }
-            },
-            {
-              "unversionedId": "products/ttl-318-uhf-reader/getting-started",
-              "id": "products/ttl-318-uhf-reader/getting-started",
-              "title": "Getting Started",
-              "description": "Get to know the TTL-318 UHF Reader",
-              "source": "@site/docs/products/ttl-318-uhf-reader/getting-started.md",
-              "sourceDirName": "products/ttl-318-uhf-reader",
-              "slug": "/products/ttl-318-uhf-reader/getting-started",
-              "permalink": "/docs/products/ttl-318-uhf-reader/getting-started",
+              "unversionedId": "products/Electronics Speed Controllers/BraveESC/Specifications",
+              "id": "products/Electronics Speed Controllers/BraveESC/Specifications",
+              "title": "Specifications",
+              "description": "---",
+              "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Specifications.md",
+              "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+              "slug": "/products/Electronics Speed Controllers/BraveESC/Specifications",
+              "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Specifications",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -83,12 +139,242 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "TTL-318 UHF Reader",
-                "permalink": "/docs/category/ttl-318-uhf-reader"
+                "title": "Brave 55A 4-in-1 32Bit ESC - AM32",
+                "permalink": "/docs/category/brave-55a-4-in-1-32bit-esc---am32"
               },
               "next": {
-                "title": "Collecting Data",
-                "permalink": "/docs/products/ttl-318-uhf-reader/collecting-data"
+                "title": "Getting Started",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/BraveESC/Wiring",
+              "id": "products/Electronics Speed Controllers/BraveESC/Wiring",
+              "title": "Wiring & Pinout Guide",
+              "description": "Ewing Aerospace",
+              "source": "@site/docs/products/Electronics Speed Controllers/BraveESC/Wiring.md",
+              "sourceDirName": "products/Electronics Speed Controllers/BraveESC",
+              "slug": "/products/Electronics Speed Controllers/BraveESC/Wiring",
+              "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Wiring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Compliance"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Compliance",
+              "id": "products/Electronics Speed Controllers/Ewing80A/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Compliance.md",
+              "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+              "slug": "/products/Electronics Speed Controllers/Ewing80A/Compliance",
+              "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring"
+              },
+              "next": {
+                "title": "Flight Controllers",
+                "permalink": "/docs/category/flight-controllers"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Getting Started",
+              "id": "products/Electronics Speed Controllers/Ewing80A/Getting Started",
+              "title": "Getting Started",
+              "description": "---",
+              "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started.md",
+              "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+              "slug": "/products/Electronics Speed Controllers/Ewing80A/Getting Started",
+              "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Specifications",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications"
+              },
+              "next": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Specifications",
+              "id": "products/Electronics Speed Controllers/Ewing80A/Specifications",
+              "title": "Specifications",
+              "description": "---",
+              "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Specifications.md",
+              "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+              "slug": "/products/Electronics Speed Controllers/Ewing80A/Specifications",
+              "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ewing 80A 4-in-1 32Bit ESC - AM32",
+                "permalink": "/docs/category/ewing-80a-4-in-1-32bit-esc---am32"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started"
+              }
+            },
+            {
+              "unversionedId": "products/Electronics Speed Controllers/Ewing80A/Wiring",
+              "id": "products/Electronics Speed Controllers/Ewing80A/Wiring",
+              "title": "Wiring",
+              "description": "---",
+              "source": "@site/docs/products/Electronics Speed Controllers/Ewing80A/Wiring.md",
+              "sourceDirName": "products/Electronics Speed Controllers/Ewing80A",
+              "slug": "/products/Electronics Speed Controllers/Ewing80A/Wiring",
+              "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/braveF7/Compliance",
+              "id": "products/Flight Controllers/braveF7/Compliance",
+              "title": "Compliance",
+              "description": "NDAA and BlueUAS Compliance Statement",
+              "source": "@site/docs/products/Flight Controllers/braveF7/Compliance.md",
+              "sourceDirName": "products/Flight Controllers/braveF7",
+              "slug": "/products/Flight Controllers/braveF7/Compliance",
+              "permalink": "/docs/products/Flight Controllers/braveF7/Compliance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Wiring"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/braveF7/Getting Started",
+              "id": "products/Flight Controllers/braveF7/Getting Started",
+              "title": "Getting Started",
+              "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.",
+              "source": "@site/docs/products/Flight Controllers/braveF7/Getting Started.md",
+              "sourceDirName": "products/Flight Controllers/braveF7",
+              "slug": "/products/Flight Controllers/braveF7/Getting Started",
+              "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Operating conditions and performance",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Specifications"
+              },
+              "next": {
+                "title": "Wiring",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Wiring"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/braveF7/Specifications",
+              "id": "products/Flight Controllers/braveF7/Specifications",
+              "title": "Operating conditions and performance",
+              "description": "Operating conditions and performance",
+              "source": "@site/docs/products/Flight Controllers/braveF7/Specifications.md",
+              "sourceDirName": "products/Flight Controllers/braveF7",
+              "slug": "/products/Flight Controllers/braveF7/Specifications",
+              "permalink": "/docs/products/Flight Controllers/braveF7/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Brave F7 Flight Controller",
+                "permalink": "/docs/category/brave-f7-flight-controller"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/braveF7/Wiring",
+              "id": "products/Flight Controllers/braveF7/Wiring",
+              "title": "Wiring",
+              "description": "Wiring and Connector Pinout Guide",
+              "source": "@site/docs/products/Flight Controllers/braveF7/Wiring.md",
+              "sourceDirName": "products/Flight Controllers/braveF7",
+              "slug": "/products/Flight Controllers/braveF7/Wiring",
+              "permalink": "/docs/products/Flight Controllers/braveF7/Wiring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Compliance"
               }
             }
           ],
@@ -103,28 +389,170 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "TTL-318 UHF Reader",
+                    "label": "BlueLRS Radios",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
-                        "type": "doc",
-                        "id": "products/ttl-318-uhf-reader/getting-started"
+                        "type": "category",
+                        "label": "BlueLRS RX Module",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/BlueLRS/EA2400RX/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "BlueLRS RX Module",
+                          "slug": "/category/bluelrs-rx-module",
+                          "permalink": "/docs/category/bluelrs-rx-module"
+                        }
                       },
                       {
-                        "type": "doc",
-                        "id": "products/ttl-318-uhf-reader/collecting-data"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "products/ttl-318-uhf-reader/configuration"
+                        "type": "category",
+                        "label": "BlueLRS TX Module",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/BlueLRS/EA2400TX/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "BlueLRS TX Module",
+                          "slug": "/category/bluelrs-tx-module",
+                          "permalink": "/docs/category/bluelrs-tx-module"
+                        }
                       }
                     ],
                     "link": {
                       "type": "generated-index",
-                      "description": "Everything you need to know about the TTL-318.",
-                      "slug": "/category/ttl-318-uhf-reader",
-                      "permalink": "/docs/category/ttl-318-uhf-reader"
+                      "description": "Choose the radio product you are working with.",
+                      "slug": "/category/bluelrs-radios",
+                      "permalink": "/docs/category/bluelrs-radios"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Electronic Speed Controllers",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Brave 55A 4-in-1 32Bit ESC - AM32",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/BraveESC/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/BraveESC/Getting Started"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/BraveESC/Wiring"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/BraveESC/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Unlock the ultimate in performance and reliability with the Brave 55A 4in1 32Bit ESC, designed for serious drone enthusiasts and professionals. Proudly engineered and manufactured in the USA, this ESC offers cutting-edge AM32 firmware for a smooth, responsive flight experience.Unlock the ultimate in performance and reliability with the Brave 55A 4in1 32Bit ESC, designed for serious drone enthusiasts and professionals. Proudly engineered and manufactured in the USA, this ESC offers cutting-edge AM32 firmware for a smooth, responsive flight experience.",
+                          "slug": "/category/brave-55a-4-in-1-32bit-esc---am32",
+                          "permalink": "/docs/category/brave-55a-4-in-1-32bit-esc---am32"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Ewing 80A 4-in-1 32Bit ESC - AM32",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/Ewing80A/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/Ewing80A/Getting Started"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/Ewing80A/Wiring"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Electronics Speed Controllers/Ewing80A/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Unlock the ultimate in performance and reliability with the Ewing 80A 4in1 32Bit ESC, designed for serious drone enthusiasts and professionals. Proudly engineered and manufactured in the USA, this ESC offers cutting-edge AM32 firmware for a smooth, responsive flight experience.Unlock the ultimate in performance and reliability with the Ewing 80A 4in1 32Bit ESC, designed for serious drone enthusiasts and professionals. Proudly engineered and manufactured in the USA, this ESC offers cutting-edge AM32 firmware for a smooth, responsive flight experience.",
+                          "slug": "/category/ewing-80a-4-in-1-32bit-esc---am32",
+                          "permalink": "/docs/category/ewing-80a-4-in-1-32bit-esc---am32"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Choose the category you are working with.",
+                      "slug": "/category/electronic-speed-controllers",
+                      "permalink": "/docs/category/electronic-speed-controllers"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Flight Controllers",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Brave F7 Flight Controller",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/braveF7/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/braveF7/Getting Started"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/braveF7/Wiring"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/braveF7/Compliance"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Everything you need to know about the Brave F7",
+                          "slug": "/category/brave-f7-flight-controller",
+                          "permalink": "/docs/category/brave-f7-flight-controller"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Choose the flight controller you are working with.",
+                      "slug": "/category/flight-controllers",
+                      "permalink": "/docs/category/flight-controllers"
                     }
                   }
                 ],

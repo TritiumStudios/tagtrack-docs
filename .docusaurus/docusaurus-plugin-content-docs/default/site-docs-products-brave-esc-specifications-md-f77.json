@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BraveESC/Specifications",
+  "id": "products/BraveESC/Specifications",
+  "title": "Specifications",
+  "description": "---",
+  "source": "@site/docs/products/BraveESC/Specifications.md",
+  "sourceDirName": "products/BraveESC",
+  "slug": "/products/BraveESC/Specifications",
+  "permalink": "/docs/products/BraveESC/Specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Brave 55A 4-in-1 32Bit ESC - AM32",
+    "permalink": "/docs/category/brave-55a-4-in-1-32bit-esc---am32"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/BraveESC/Getting Started"
+  }
+}

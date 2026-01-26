@@ -1,36 +1,151 @@
 {
-  "/docs-d91": {
-    "__comp": "1be78505",
+  "/__docusaurus/debug-d59": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "5f42f9cf"
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/__docusaurus/debug/config-24d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/__docusaurus/debug/content-601": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
     },
-    "versionMetadata": "935f2afb"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-821": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/__docusaurus/debug/metadata-ed0": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/__docusaurus/debug/registry-9af": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/__docusaurus/debug/routes-6b7": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-90-069"
+    }
+  },
+  "/docs-28f": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-555-294"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/bluelrs-radios-690": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-radiose-48-9fe"
+  },
+  "/docs/category/bluelrs-rx-module-b3f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-rx-moduledcc-73d"
+  },
+  "/docs/category/bluelrs-tx-module-412": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-tx-module-6-c-7-681"
+  },
+  "/docs/category/brave-55a-4-in-1-32bit-esc---am32-072": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-brave-55-a-4-in-1-32-bit-esc-am-32702-511"
+  },
+  "/docs/category/brave-f7-flight-controller-c43": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-brave-f-7-flight-controller-004-4ec"
+  },
+  "/docs/category/electronic-speed-controllers-f8d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-electronic-speed-controllersa-9-a-20c"
+  },
+  "/docs/category/ewing-80a-4-in-1-32bit-esc---am32-6f2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-80-a-4-in-1-32-bit-esc-am-32-f-47-ec6"
+  },
+  "/docs/category/flight-controllers-218": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-flight-controllers-0-a-1-acd"
   },
   "/docs/category/products-bb5": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2f19c7aa"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-products-2-f-1-460"
   },
-  "/docs/category/ttl-318-uhf-reader-0b1": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "b97b51e6"
+  "/docs/products/BlueLRS/EA2400RX/Compliance-a9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-rx-complianced-0-d-085"
   },
-  "/docs/products/ttl-318-uhf-reader/collecting-data-eba": {
-    "__comp": "17896441",
-    "content": "47ba4892"
+  "/docs/products/BlueLRS/EA2400TX/Compliance-1c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-tx-compliance-36-a-f71"
   },
-  "/docs/products/ttl-318-uhf-reader/configuration-c22": {
-    "__comp": "17896441",
-    "content": "f686e420"
+  "/docs/products/Electronics Speed Controllers/BraveESC/Compliance-806": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-brave-esc-compliance-34-d-72f"
   },
-  "/docs/products/ttl-318-uhf-reader/getting-started-c39": {
-    "__comp": "17896441",
-    "content": "9aae2951"
+  "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started-f03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-brave-esc-getting-started-252-dbc"
   },
-  "/-dcf": {
-    "__comp": "c4f5d8e4",
+  "/docs/products/Electronics Speed Controllers/BraveESC/Specifications-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-brave-esc-specifications-257-ed9"
+  },
+  "/docs/products/Electronics Speed Controllers/BraveESC/Wiring-a7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-brave-esc-wiring-69-f-f1e"
+  },
+  "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance-8f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-complianced-35-b7d"
+  },
+  "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started-5c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-getting-started-5-cb-c50"
+  },
+  "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications-56c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-specifications-8-f-9-868"
+  },
+  "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring-17e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-wiringfa-1-6ec"
+  },
+  "/docs/products/Flight Controllers/braveF7/Compliance-371": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-flight-controllers-brave-f-7-compliance-74-c-24d"
+  },
+  "/docs/products/Flight Controllers/braveF7/Getting Started-fec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-flight-controllers-brave-f-7-getting-startedd-8-d-b58"
+  },
+  "/docs/products/Flight Controllers/braveF7/Specifications-d05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-flight-controllers-brave-f-7-specifications-4-f-5-f0c"
+  },
+  "/docs/products/Flight Controllers/braveF7/Wiring-cd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-flight-controllers-brave-f-7-wiring-3-b-4-656"
+  },
+  "/-561": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "f9b5295d"
+      "plugin": "plugin---8-ff-6b9"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

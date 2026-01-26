@@ -4,30 +4,28 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_internet_on_the_go_re_vben.svg")
+    title: "Radio and Telemetry Links",
+    Svg: require("@site/static/img/undraw_flying-drone_0oms (1).svg")
       .default,
     description: (
       <>
-        Our gateway hardware provides the interface between data in the field
-        and the TagTrack network.
+        BlueLRS and Mavlink command and control systems.
       </>
     ),
   },
   {
-    title: "Global Network",
-    Svg: require("@site/static/img/undraw_connected_world_wuay.svg").default,
+    title: "Flight Controllers and ESCs",
+    Svg: require("@site/static/img/undraw_drone-delivery_ri74.svg").default,
     description: (
-      <>Our adaptable network provides delivery of your data from anywhere.</>
+      <>Wide selection of compliant Flight Controllers and Speed Controllers</>
     ),
   },
   {
-    title: "Live Data",
+    title: "Cameras and Video Systems",
     Svg: require("@site/static/img/undraw_dashboard_re_3b76.svg").default,
     description: (
       <>
-        Data is available live (in real time) in our powerful TagTrack
-        dashboard. Alerts and reporting can be easily configured and automated.
+        NDAA Compliant cameras, video transmitters, and video receivers for long range operations. 
       </>
     ),
   },

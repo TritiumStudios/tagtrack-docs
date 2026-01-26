@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "TagTrack Docs",
-  tagline: "Effortless Connectivity",
+  title: "Ewing Aerospace Docs",
+  tagline: "Built for the Mission - Fully NDAA and BlueUAS Compliant",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://docs.mytagtrack.com",
+  url: "https://docs.ewingaerospace.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -51,7 +51,7 @@ const config = {
       navbar: {
         title: "",
         logo: {
-          alt: "TagTrack Logo",
+          alt: "Ewing Aerospace Logo",
           src: "img/nav-logo.png",
           srcDark: "img/nav-logo-dark.png",
         },
@@ -63,8 +63,8 @@ const config = {
             label: "Products",
           },
           {
-            href: "https://app.mytagtrack.com",
-            label: "Dashboard",
+            href: "https://ewingaerospace.com",
+            label: "Shop",
             position: "right",
           },
         ],
@@ -82,15 +82,11 @@ const config = {
             ],
           },
           {
-            title: "TagTrack",
+            title: "Ewing Aerospace Product Docs",
             items: [
               {
                 label: "Shop",
-                href: "https://mytagtrack.com",
-              },
-              {
-                label: "Dashboard",
-                href: "https://app.mytagtrack.com",
+                href: "https://ewingaerospace.com",
               },
             ],
           },
@@ -99,16 +95,12 @@ const config = {
             items: [
               {
                 label: "Support",
-                href: "https://mytagtrack.com/contact2/",
-              },
-              {
-                label: "Contact Us",
-                href: "https://mytagtrack-21136548.hs-sites.com/schedule-a-consultation",
+                href: "https://www.ewingaerospace.com/pages/contact",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TagTrack`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ewing Aerospace`,
       },
       prism: {
         theme: lightCodeTheme,

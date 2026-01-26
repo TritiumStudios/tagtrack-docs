@@ -1,0 +1,26 @@
+{
+  "unversionedId": "BraveESC/Getting Started",
+  "id": "BraveESC/Getting Started",
+  "title": "Getting Started",
+  "description": "---",
+  "source": "@site/docs/BraveESC/Getting Started.md",
+  "sourceDirName": "BraveESC",
+  "slug": "/BraveESC/Getting Started",
+  "permalink": "/docs/BraveESC/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/BraveESC/Specifications"
+  },
+  "next": {
+    "title": "Wiring",
+    "permalink": "/docs/BraveESC/Wiring"
+  }
+}

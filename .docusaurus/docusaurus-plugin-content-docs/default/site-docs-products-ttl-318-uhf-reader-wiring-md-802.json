@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/ttl-318-uhf-reader/Wiring",
+  "id": "products/ttl-318-uhf-reader/Wiring",
+  "title": "Wiring",
+  "description": "---",
+  "source": "@site/docs/products/ttl-318-uhf-reader/Wiring.md",
+  "sourceDirName": "products/ttl-318-uhf-reader",
+  "slug": "/products/ttl-318-uhf-reader/Wiring",
+  "permalink": "/docs/products/ttl-318-uhf-reader/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/ttl-318-uhf-reader/Getting Started"
+  }
+}

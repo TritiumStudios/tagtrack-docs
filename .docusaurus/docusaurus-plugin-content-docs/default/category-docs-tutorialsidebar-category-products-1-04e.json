@@ -5,12 +5,12 @@
   "permalink": "/docs/category/products-1",
   "navigation": {
     "previous": {
-      "title": "Products",
-      "permalink": "/docs/category/products"
+      "title": "Compliance",
+      "permalink": "/docs/products/Electronics Speed Controllers/BraveESC/Compliance"
     },
     "next": {
-      "title": "Getting Started with the TTL-318 UHF Reader",
-      "permalink": "/docs/products/TTL-318/Getting Started"
+      "title": "Brave F7 Flight Controller",
+      "permalink": "/docs/category/brave-f7-flight-controller"
     }
   }
 }

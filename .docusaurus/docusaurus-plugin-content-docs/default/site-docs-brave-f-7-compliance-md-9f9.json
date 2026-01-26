@@ -1,0 +1,26 @@
+{
+  "unversionedId": "braveF7/Compliance",
+  "id": "braveF7/Compliance",
+  "title": "Compliance",
+  "description": "---",
+  "source": "@site/docs/braveF7/Compliance.md",
+  "sourceDirName": "braveF7",
+  "slug": "/braveF7/Compliance",
+  "permalink": "/docs/braveF7/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/braveF7/Wiring"
+  },
+  "next": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  }
+}

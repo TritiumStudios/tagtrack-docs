@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BraveESC/Compliance",
+  "id": "products/BraveESC/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/BraveESC/Compliance.md",
+  "sourceDirName": "products/BraveESC",
+  "slug": "/products/BraveESC/Compliance",
+  "permalink": "/docs/products/BraveESC/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/products/BraveESC/Wiring"
+  },
+  "next": {
+    "title": "Brave F7 Flight Controller",
+    "permalink": "/docs/category/brave-f7-flight-controller"
+  }
+}

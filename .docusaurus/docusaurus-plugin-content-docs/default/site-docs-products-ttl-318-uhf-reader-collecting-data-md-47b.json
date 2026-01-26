@@ -1,8 +1,8 @@
 {
   "unversionedId": "products/ttl-318-uhf-reader/collecting-data",
   "id": "products/ttl-318-uhf-reader/collecting-data",
-  "title": "Collecting Data",
-  "description": "Use a webhook to collect data from the TTL-318.",
+  "title": "collecting-data",
+  "description": "Operating conditions and performance",
   "source": "@site/docs/products/ttl-318-uhf-reader/collecting-data.md",
   "sourceDirName": "products/ttl-318-uhf-reader",
   "slug": "/products/ttl-318-uhf-reader/collecting-data",

@@ -1,0 +1,16 @@
+{
+  "title": "Flight Controllers",
+  "description": "Choose the flight controller you are working with.",
+  "slug": "/category/flight-controllers",
+  "permalink": "/docs/category/flight-controllers",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance"
+    },
+    "next": {
+      "title": "Brave F7 Flight Controller",
+      "permalink": "/docs/category/brave-f7-flight-controller"
+    }
+  }
+}

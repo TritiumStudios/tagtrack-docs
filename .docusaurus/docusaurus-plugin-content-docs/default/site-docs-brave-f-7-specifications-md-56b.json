@@ -1,0 +1,26 @@
+{
+  "unversionedId": "braveF7/Specifications",
+  "id": "braveF7/Specifications",
+  "title": "Specifications",
+  "description": "Operating conditions and performance",
+  "source": "@site/docs/braveF7/Specifications.md",
+  "sourceDirName": "braveF7",
+  "slug": "/braveF7/Specifications",
+  "permalink": "/docs/braveF7/Specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Brave F7 Flight Controller",
+    "permalink": "/docs/category/brave-f7-flight-controller"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/braveF7/Getting Started"
+  }
+}

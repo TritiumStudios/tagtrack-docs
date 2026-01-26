@@ -1,0 +1,26 @@
+{
+  "unversionedId": "BraveESC/Compliance",
+  "id": "BraveESC/Compliance",
+  "title": "Compliance",
+  "description": "---",
+  "source": "@site/docs/BraveESC/Compliance.md",
+  "sourceDirName": "BraveESC",
+  "slug": "/BraveESC/Compliance",
+  "permalink": "/docs/BraveESC/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wiring",
+    "permalink": "/docs/BraveESC/Wiring"
+  },
+  "next": {
+    "title": "Products",
+    "permalink": "/docs/category/products"
+  }
+}
