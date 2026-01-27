@@ -8,7 +8,7 @@ sidebar_position: 1
 
 | Parameter | Description |
 |---|---|
-| Power input voltage | 3–6S LiPo (battery input) |
+| Power input voltage | 3–8S LiPo (battery input) |
 | Power regulation (BEC outputs) | Direct VBAT Passthrough / NO BEC |
 | Waterproof performance | Not waterproof. Use external waterproofing/protection as required. |
 | Ideal operating temperature | -10°C ~ 55°C |
