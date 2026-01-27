@@ -48,7 +48,7 @@ Before beginning, ensure you have the following:
 1. Connect the Ewing H7 to your computer using a USB-C cable.
 2. Launch **Mission Planner** (Windows) or **QGroundControl** (Windows, macOS, Linux).
 3. Allow the application to detect the connected flight controller.
-4. Connect using the detected COM/USB device.
+4. Select the detected COM/USB device and click Connect.
 
 If the board does not appear:
 - Try a different USB cable
