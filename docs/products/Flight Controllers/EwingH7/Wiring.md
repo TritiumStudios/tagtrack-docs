@@ -58,8 +58,8 @@ For analog video transmitters.
 | 1 | 10V | Regulated 10V power output |
 | 2 | GND | Ground |
 | 3 | VO | Video output |
-| 4 | UART2 RX | VTX control RX |
-| 5 | UART2 TX | VTX control TX |
+| 4 | UART3 RX | VTX control RX |
+| 5 | UART3 TX | VTX control TX |
 
 ---
 
@@ -71,8 +71,8 @@ For digital FPV systems.
 |---|---|---|
 | 1 | 10V | Regulated 10V power output |
 | 2 | GND | Ground |
-| 3 | UART4 TX | HD system TX |
-| 4 | UART4 RX | HD system RX |
+| 3 | UART2 TX | HD system TX |
+| 4 | UART2 RX | HD system RX |
 | 5 | GND | Ground |
 | 6 | UART6 RX | Additional RX (system dependent) |
 
@@ -86,8 +86,8 @@ Dedicated receiver input connector.
 
 | Pin | Signal | Description |
 |---|---|---|
-| 1 | UART1 TX | Receiver TX |
-| 2 | UART1 RX | Receiver RX |
+| 1 | UART4 TX | Receiver TX |
+| 2 | UART4 RX | Receiver RX |
 | 3 | GND | Ground |
 | 4 | 5V | Receiver power output |
 
@@ -101,8 +101,8 @@ Used for GPS modules with I²C and UART support.
 |---|---|---|
 | 1 | I2C SCL | I²C clock |
 | 2 | I2C SDA | I²C data |
-| 3 | UART3 TX | GPS TX |
-| 4 | UART3 RX | GPS RX |
+| 3 | UART1 TX | GPS TX |
+| 4 | UART1 RX | GPS RX |
 | 5 | GND | Ground |
 | 6 | 5V | GPS power output |
 
