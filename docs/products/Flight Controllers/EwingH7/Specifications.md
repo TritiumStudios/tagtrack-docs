@@ -23,9 +23,9 @@ Operating conditions and performance
 
 | Item | Value |
 |---|---|
-| MCU | STMF722RET6|
-| Gyro | BMI270 |
-| Barometer | BMP390 |
+| MCU | STM32H743|
+| Gyro | BMI270 or ICM42688 |
+| Barometer | BMP390  |
 | Blackbox memory | 16 Mb  |
 | Input voltage | 3–8S LiPo  |
 | BEC outputs | 10V/2A, 5V/3A  |
