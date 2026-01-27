@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ewing Aerospace Docs",
+  title: "Ewing Aerospace Product Documentation",
   tagline: "Built for the Mission - Fully NDAA and BlueUAS Compliant",
   favicon: "img/favicon.ico",
 
@@ -82,7 +82,7 @@ const config = {
             ],
           },
           {
-            title: "Ewing Aerospace Product Docs",
+            title: "Ewing Aerospace Product Documentaion",
             items: [
               {
                 label: "Shop",

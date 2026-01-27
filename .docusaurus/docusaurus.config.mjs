@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Ewing Aerospace Docs",
+  "title": "Ewing Aerospace Product Documentation",
   "tagline": "Built for the Mission - Fully NDAA and BlueUAS Compliant",
   "favicon": "img/favicon.ico",
   "url": "https://docs.ewingaerospace.com",
@@ -24,11 +24,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/tannerewing/Documents/GitHub/tagtrack-docs/sidebars.js"
+          "sidebarPath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/tannerewing/Documents/GitHub/tagtrack-docs/src/css/custom.css"
+          "customCss": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\src\\css\\custom.css"
         }
       }
     ]
@@ -70,7 +70,7 @@ export default {
           ]
         },
         {
-          "title": "Ewing Aerospace Product Docs",
+          "title": "Ewing Aerospace Product Documentaion",
           "items": [
             {
               "label": "Shop",

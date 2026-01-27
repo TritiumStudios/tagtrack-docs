@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/braveF7/GettingStartedINAV",
+  "id": "products/Flight Controllers/braveF7/GettingStartedINAV",
+  "title": "Getting Started (iNav)",
+  "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller using iNav, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional, long-range, or navigation-focused unmanned systems.",
+  "source": "@site/docs/products/Flight Controllers/braveF7/GettingStartedINAV.md",
+  "sourceDirName": "products/Flight Controllers/braveF7",
+  "slug": "/products/Flight Controllers/braveF7/GettingStartedINAV",
+  "permalink": "/docs/products/Flight Controllers/braveF7/GettingStartedINAV",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started (BetaFlight)",
+    "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started"
+  },
+  "next": {
+    "title": "Wiring",
+    "permalink": "/docs/products/Flight Controllers/braveF7/Wiring"
+  }
+}

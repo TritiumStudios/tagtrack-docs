@@ -86,6 +86,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Flight Controllers/braveF7/GettingStartedINAV",
+              "path": "/docs/products/Flight Controllers/braveF7/GettingStartedINAV",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/Flight Controllers/braveF7/Specifications",
               "path": "/docs/products/Flight Controllers/braveF7/Specifications",
               "sidebar": "tutorialSidebar"
@@ -101,8 +106,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/Flight Controllers/EwingH7/Getting Started",
-              "path": "/docs/products/Flight Controllers/EwingH7/Getting Started",
+              "id": "products/Flight Controllers/EwingH7/GettingStartedAP",
+              "path": "/docs/products/Flight Controllers/EwingH7/GettingStartedAP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7/GettingStartedBF",
+              "path": "/docs/products/Flight Controllers/EwingH7/GettingStartedBF",
               "sidebar": "tutorialSidebar"
             },
             {

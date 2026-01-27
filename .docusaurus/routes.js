@@ -4,42 +4,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'ee4'),
+    component: ComponentCreator('/__docusaurus/debug', 'd59'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'e44'),
+    component: ComponentCreator('/__docusaurus/debug/config', '24d'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '6f1'),
+    component: ComponentCreator('/__docusaurus/debug/content', '601'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '6c3'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '821'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '312'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'ed0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '646'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '9af'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'd57'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '6b7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '344'),
+    component: ComponentCreator('/docs', '148'),
     routes: [
       {
         path: '/docs/category/bluelrs-radios',
@@ -222,6 +222,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/products/Flight Controllers/braveF7/GettingStartedINAV',
+        component: ComponentCreator('/docs/products/Flight Controllers/braveF7/GettingStartedINAV', 'c30'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/products/Flight Controllers/braveF7/Specifications',
         component: ComponentCreator('/docs/products/Flight Controllers/braveF7/Specifications', 'd05'),
         exact: true,
@@ -240,8 +246,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/products/Flight Controllers/EwingH7/Getting Started',
-        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/Getting Started', '669'),
+        path: '/docs/products/Flight Controllers/EwingH7/GettingStartedAP',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/GettingStartedAP', 'bea'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7/GettingStartedBF',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7/GettingStartedBF', '331'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -297,7 +309,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'ae1'),
+    component: ComponentCreator('/', '561'),
     exact: true
   },
   {

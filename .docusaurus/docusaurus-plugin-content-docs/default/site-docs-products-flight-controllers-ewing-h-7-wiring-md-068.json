@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/docs/products/Flight Controllers/EwingH7/Getting Started"
+    "title": "Getting Started (Betaflight)",
+    "permalink": "/docs/products/Flight Controllers/EwingH7/GettingStartedBF"
   },
   "next": {
     "title": "Compliance",

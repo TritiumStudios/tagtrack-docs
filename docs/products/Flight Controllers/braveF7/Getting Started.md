@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Getting Started 
+# Getting Started (BetaFlight)
 
 # Getting Started with the Brave F7 Flight Controller
 
@@ -14,7 +14,7 @@ This guide walks through the initial setup of the **Ewing Aerospace Brave F7 Fli
 
 Before beginning, ensure you have the following:
 
-- Brave F7 Flight Controller
+- Brave F7 Flight Controller [[Order Here]](https://www.ewingaerospace.com/products/components-example-product-2?variant=43573438087277)
 - USB-C cable (data-capable)
 - Computer with Betaflight Configurator installed
 - Power source (flight battery compatible with your system, 3–8S LiPo)
@@ -62,6 +62,11 @@ The Brave F7 uses the following Betaflight firmware target: RRIOT_F722
 4. Flash firmware.
 
 > **Recommendation:** Disable “Full Chip Erase” unless migrating from unknown firmware.
+
+### Download offical release .bin files: 
+**For ICM IMU flight controllers: **
+[Download RRIOT_F722](./files/betaflight_RRIOT_F722.hex) 
+
 
 ---
 

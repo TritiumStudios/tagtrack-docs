@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/braveF7/Getting Started copy",
+  "id": "products/Flight Controllers/braveF7/Getting Started copy",
+  "title": "Getting Started (BetaFlight)",
+  "description": "This guide walks through the initial setup of the Ewing Aerospace Brave F7 Flight Controller, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.",
+  "source": "@site/docs/products/Flight Controllers/braveF7/Getting Started copy.md",
+  "sourceDirName": "products/Flight Controllers/braveF7",
+  "slug": "/products/Flight Controllers/braveF7/Getting Started copy",
+  "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operating conditions and performance",
+    "permalink": "/docs/products/Flight Controllers/braveF7/Specifications"
+  },
+  "next": {
+    "title": "Getting Started (BetaFlight)",
+    "permalink": "/docs/products/Flight Controllers/braveF7/Getting Started"
+  }
+}
