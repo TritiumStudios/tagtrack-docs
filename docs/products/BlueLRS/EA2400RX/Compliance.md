@@ -5,7 +5,7 @@ sidebar_position: 4
 ## NDAA and BlueUAS Compliance Statement  
 
 
-The **Ewing Aerospace Brave 55A ESC** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations.
+The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations.
 
 ---
 
