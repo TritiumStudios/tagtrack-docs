@@ -5,7 +5,7 @@ sidebar_position: 4
 ## NDAA and BlueUAS Compliance Statement  
 
 
-The **Ewing Aerospace Brave 55A ESC** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations.
+The **Ewing Aerospace Brave 55A ESC** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations. Furthermore these products comply with NDAA FY2023 Section 817 and the 2024 American Security Drone Act.
 
 The **Ewing Aerospace Brave 55A ESC** is also **BlueUAS Cleared** and listed on the BlueUAS Framework by both DIU and DCMA. 
 
