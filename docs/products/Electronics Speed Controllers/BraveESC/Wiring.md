@@ -15,7 +15,7 @@ This document describes the **connector pinout and wiring** for the **Brave 55A 
 
 | Pin Name | Description | Notes |
 |--------|-------------|-------|
-| VIN | Battery voltage output | Direct VBAT from ESC |
+| VBAT | Battery voltage output | Direct VBAT from ESC |
 | GND | Ground | Common ground |
 | ADC_CURR | Current sensor output | Used by FC for current draw |
 | TLM | ESC Telemetry | Enable telemetry on FC UART |
@@ -32,7 +32,7 @@ When viewing the ESC from the **top side**, with the ESC connector at the top:
 
 | Connector Order (Left → Right) | Signal |
 |------------------------------|--------|
-| 1 | VIN |
+| 1 | VBAT |
 | 2 | GND |
 | 3 | ADC_CURR |
 | 4 | TLM |

@@ -15,7 +15,7 @@ This document describes the connector pinout and wiring for the **Ewing 80A 4-in
 
 | Pin Name | Description | Notes |
 |--------|-------------|-------|
-| VIN | Battery voltage output | Direct VBAT |
+| VBAT| Battery voltage output | Direct VBAT |
 | GND | Ground | Common ground |
 | ADC_CURR | Current sensor output | FC current monitoring |
 | TLM | ESC Telemetry | Enable on FC UART |
