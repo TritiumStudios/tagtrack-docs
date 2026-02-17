@@ -29,7 +29,7 @@ The **Ewing SAM-M10Q GPS Module** is a standalone GPS module compatible with wit
 import Image from '@theme/IdealImage';
 
 <Image
-  img={require('@site/img/GPS_Pinout.png')}
+  img={require('@site/static/img/GPS_Pinout.png')}
   alt="Ewing SAM-M10Q GPS Module"
   style={{ maxWidth: 400, display: 'block', margin: '0 auto' }}
 />
