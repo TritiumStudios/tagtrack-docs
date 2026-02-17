@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\sidebars.js",
-          "contentPath": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\docs",
-          "contentPathLocalized": "C:\\Users\\Tanner Ewing\\Documents\\GitHub\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\cardi\\Documents\\repos\\tagtrack-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\cardi\\Documents\\repos\\tagtrack-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\cardi\\Documents\\repos\\tagtrack-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "products/BlueLRS/EA2400RX/Compliance",
@@ -141,6 +141,10 @@
               "previous": {
                 "title": "Specifications",
                 "permalink": "/docs/products/Cameras/IronSightAnalog/Specifications"
+              },
+              "next": {
+                "title": "Navigation Products",
+                "permalink": "/docs/category/navigation-products"
               }
             },
             {
@@ -371,6 +375,32 @@
               "previous": {
                 "title": "Wiring",
                 "permalink": "/docs/products/Flight Controllers/braveF7/Wiring"
+              },
+              "next": {
+                "title": "ImpulseRC Driver Fixer (STM32)",
+                "permalink": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC"
+              }
+            },
+            {
+              "unversionedId": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "id": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "title": "ImpulseRC Driver Fixer (STM32)",
+              "description": "This is a driver fixer app originally released by our friends at ImpulseRC. If you are having trouble with USB drivers for STM32 flight controllers, use this app to correct the issue.",
+              "source": "@site/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC.md",
+              "sourceDirName": "products/Flight Controllers/braveF7",
+              "slug": "/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "permalink": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Compliance",
+                "permalink": "/docs/products/Flight Controllers/braveF7/Compliance"
               },
               "next": {
                 "title": "Electronic Speed Controllers",
@@ -612,6 +642,28 @@
               }
             },
             {
+              "unversionedId": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+              "id": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+              "title": "Specifications",
+              "description": "Product Specification Sheet",
+              "source": "@site/docs/products/Navigation/SAM-M10Q GPS Module/Specifications.md",
+              "sourceDirName": "products/Navigation/SAM-M10Q GPS Module",
+              "slug": "/products/Navigation/SAM-M10Q GPS Module/Specifications",
+              "permalink": "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ewing SAM-M10Q GPS Module",
+                "permalink": "/docs/category/ewing-sam-m10q-gps-module"
+              }
+            },
+            {
               "unversionedId": "products/Video/EwingVRX/Compliance",
               "id": "products/Video/EwingVRX/Compliance",
               "title": "Compliance",
@@ -842,6 +894,10 @@
                           {
                             "type": "doc",
                             "id": "products/Flight Controllers/braveF7/Compliance"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/Flight Controllers/braveF7/DriverFixerImpulseRC"
                           }
                         ],
                         "link": {
@@ -1087,6 +1143,38 @@
                       "description": "Choose the camera product you are working with.",
                       "slug": "/category/camera-modules",
                       "permalink": "/docs/category/camera-modules"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Navigation Products",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Ewing SAM-M10Q GPS Module",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/Navigation/SAM-M10Q GPS Module/Specifications"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Ewing SAM-M10Q GPS Module",
+                          "slug": "/category/ewing-sam-m10q-gps-module",
+                          "permalink": "/docs/category/ewing-sam-m10q-gps-module"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Choose the navigation product you are working with.",
+                      "slug": "/category/navigation-products",
+                      "permalink": "/docs/category/navigation-products"
                     }
                   }
                 ],

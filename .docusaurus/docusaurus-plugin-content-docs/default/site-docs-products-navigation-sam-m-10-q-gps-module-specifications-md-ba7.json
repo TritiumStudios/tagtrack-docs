@@ -1,0 +1,22 @@
+{
+  "unversionedId": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+  "id": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+  "title": "Specifications",
+  "description": "Product Specification Sheet",
+  "source": "@site/docs/products/Navigation/SAM-M10Q GPS Module/Specifications.md",
+  "sourceDirName": "products/Navigation/SAM-M10Q GPS Module",
+  "slug": "/products/Navigation/SAM-M10Q GPS Module/Specifications",
+  "permalink": "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ewing SAM-M10Q GPS Module",
+    "permalink": "/docs/category/ewing-sam-m10q-gps-module"
+  }
+}

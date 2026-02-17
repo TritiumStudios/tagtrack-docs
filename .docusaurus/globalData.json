@@ -81,6 +81,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "path": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/Flight Controllers/braveF7/Getting Started",
               "path": "/docs/products/Flight Controllers/braveF7/Getting Started",
               "sidebar": "tutorialSidebar"
@@ -123,6 +128,11 @@
             {
               "id": "products/Flight Controllers/EwingH7/Wiring",
               "path": "/docs/products/Flight Controllers/EwingH7/Wiring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+              "path": "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -228,6 +238,16 @@
             {
               "id": "/category/ewing-ironsight-analog-camera",
               "path": "/docs/category/ewing-ironsight-analog-camera",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/navigation-products",
+              "path": "/docs/category/navigation-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-sam-m10q-gps-module",
+              "path": "/docs/category/ewing-sam-m10q-gps-module",
               "sidebar": "tutorialSidebar"
             }
           ],

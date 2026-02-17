@@ -1,51 +1,51 @@
 {
-  "/__docusaurus/debug-d59": {
+  "/__docusaurus/debug-a6f": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/__docusaurus/debug/config-24d": {
+  "/__docusaurus/debug/config-b5c": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/__docusaurus/debug/content-601": {
+  "/__docusaurus/debug/content-428": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-821": {
+  "/__docusaurus/debug/globalData-cef": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/__docusaurus/debug/metadata-ed0": {
+  "/__docusaurus/debug/metadata-029": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/__docusaurus/debug/registry-9af": {
+  "/__docusaurus/debug/registry-886": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/__docusaurus/debug/routes-6b7": {
+  "/__docusaurus/debug/routes-087": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-90-069"
+      "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/docs-148": {
+  "/docs-8c7": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-555-294"
+      "plugin": "plugin---docsf-19-672"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -97,9 +97,17 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-ironsight-analog-camera-944-1fb"
   },
+  "/docs/category/ewing-sam-m10q-gps-module-9b4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-sam-m-10-q-gps-modulef-60-9c1"
+  },
   "/docs/category/flight-controllers-218": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-flight-controllers-0-a-1-acd"
+  },
+  "/docs/category/navigation-products-b64": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-navigation-products-9-d-7-8c4"
   },
   "/docs/category/products-bb5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -165,6 +173,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-flight-controllers-brave-f-7-compliance-74-c-24d"
   },
+  "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC-14e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-flight-controllers-brave-f-7-driver-fixer-impulse-rc-62-a-60a"
+  },
   "/docs/products/Flight Controllers/braveF7/Getting Started-fec": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-flight-controllers-brave-f-7-getting-startedd-8-d-b58"
@@ -201,6 +213,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-flight-controllers-ewing-h-7-wiring-068-d82"
   },
+  "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications-7db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-navigation-sam-m-10-q-gps-module-specificationsba-7-616"
+  },
   "/docs/products/Video/EwingVRX/Compliance-a93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-video-ewing-vrx-compliancec-76-770"
@@ -225,10 +241,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-video-ewing-vtx-specificationsb-1-e-4bf"
   },
-  "/-561": {
+  "/-388": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---8-ff-6b9"
+      "plugin": "plugin---627-168"
     },
     "config": "config---5-e-9-4f3"
   }

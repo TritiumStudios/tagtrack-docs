@@ -95,6 +95,12 @@
                     "label": "Compliance",
                     "href": "/docs/products/Flight Controllers/braveF7/Compliance",
                     "docId": "products/Flight Controllers/braveF7/Compliance"
+                  },
+                  {
+                    "type": "link",
+                    "label": "ImpulseRC Driver Fixer (STM32)",
+                    "href": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+                    "docId": "products/Flight Controllers/braveF7/DriverFixerImpulseRC"
                   }
                 ],
                 "href": "/docs/category/brave-f7-flight-controller"
@@ -314,6 +320,30 @@
               }
             ],
             "href": "/docs/category/camera-modules"
+          },
+          {
+            "type": "category",
+            "label": "Navigation Products",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Ewing SAM-M10Q GPS Module",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Specifications",
+                    "href": "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications",
+                    "docId": "products/Navigation/SAM-M10Q GPS Module/Specifications"
+                  }
+                ],
+                "href": "/docs/category/ewing-sam-m10q-gps-module"
+              }
+            ],
+            "href": "/docs/category/navigation-products"
           }
         ],
         "href": "/docs/category/products"
@@ -405,6 +435,12 @@
       "description": "NDAA and BlueUAS Compliance Statement",
       "sidebar": "tutorialSidebar"
     },
+    "products/Flight Controllers/braveF7/DriverFixerImpulseRC": {
+      "id": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+      "title": "ImpulseRC Driver Fixer (STM32)",
+      "description": "This is a driver fixer app originally released by our friends at ImpulseRC. If you are having trouble with USB drivers for STM32 flight controllers, use this app to correct the issue.",
+      "sidebar": "tutorialSidebar"
+    },
     "products/Flight Controllers/braveF7/Getting Started": {
       "id": "products/Flight Controllers/braveF7/Getting Started",
       "title": "Getting Started (BetaFlight)",
@@ -457,6 +493,12 @@
       "id": "products/Flight Controllers/EwingH7/Wiring",
       "title": "Wiring",
       "description": "Wiring and Connector Pinout Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Navigation/SAM-M10Q GPS Module/Specifications": {
+      "id": "products/Navigation/SAM-M10Q GPS Module/Specifications",
+      "title": "Specifications",
+      "description": "Product Specification Sheet",
       "sidebar": "tutorialSidebar"
     },
     "products/Video/EwingVRX/Compliance": {

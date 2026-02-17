@@ -1,0 +1,16 @@
+{
+  "title": "Navigation Products",
+  "description": "Choose the navigation product you are working with.",
+  "slug": "/category/navigation-products",
+  "permalink": "/docs/category/navigation-products",
+  "navigation": {
+    "previous": {
+      "title": "Wiring",
+      "permalink": "/docs/products/Cameras/IronSightAnalog/Wiring"
+    },
+    "next": {
+      "title": "Ewing SAM-M10Q GPS Module",
+      "permalink": "/docs/category/ewing-sam-m10q-gps-module"
+    }
+  }
+}

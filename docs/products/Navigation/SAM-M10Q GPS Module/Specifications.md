@@ -26,14 +26,9 @@ The **Ewing SAM-M10Q GPS Module** is a standalone GPS module compatible with wit
 | Dimensions | ~20 mm × 20 mm × 10.6 mm |
 | Connector Type | 6-Pin JST |
 
-import Image from '@theme/IdealImage';
-
-<Image
-  img={require('@site/static/img/GPS_Pinout.png')}
-  alt="Ewing SAM-M10Q GPS Module"
-  style={{ maxWidth: 400, display: 'block', margin: '0 auto' }}
-/>
-
+<p align="center">
+  <img src="/img/GPS_Pinout.png" width="350" alt="Ewing SAM-M10Q GPS Module Pinout" />
+</p>
 
 ---
 

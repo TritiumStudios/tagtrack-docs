@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+  "id": "products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+  "title": "ImpulseRC Driver Fixer (STM32)",
+  "description": "This is a driver fixer app originally released by our friends at ImpulseRC. If you are having trouble with USB drivers for STM32 flight controllers, use this app to correct the issue.",
+  "source": "@site/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC.md",
+  "sourceDirName": "products/Flight Controllers/braveF7",
+  "slug": "/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+  "permalink": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Flight Controllers/braveF7/Compliance"
+  },
+  "next": {
+    "title": "Electronic Speed Controllers",
+    "permalink": "/docs/category/electronic-speed-controllers"
+  }
+}

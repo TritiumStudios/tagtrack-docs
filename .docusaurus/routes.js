@@ -4,42 +4,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'd59'),
+    component: ComponentCreator('/__docusaurus/debug', 'a6f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '24d'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'b5c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '601'),
+    component: ComponentCreator('/__docusaurus/debug/content', '428'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '821'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'cef'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'ed0'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '029'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '9af'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '886'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '6b7'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '087'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '148'),
+    component: ComponentCreator('/docs', '8c7'),
     routes: [
       {
         path: '/docs/category/bluelrs-radios',
@@ -114,8 +114,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/ewing-sam-m10q-gps-module',
+        component: ComponentCreator('/docs/category/ewing-sam-m10q-gps-module', '9b4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/flight-controllers',
         component: ComponentCreator('/docs/category/flight-controllers', '218'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/navigation-products',
+        component: ComponentCreator('/docs/category/navigation-products', 'b64'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -216,6 +228,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC',
+        component: ComponentCreator('/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC', '14e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/products/Flight Controllers/braveF7/Getting Started',
         component: ComponentCreator('/docs/products/Flight Controllers/braveF7/Getting Started', 'fec'),
         exact: true,
@@ -270,6 +288,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/products/Navigation/SAM-M10Q GPS Module/Specifications',
+        component: ComponentCreator('/docs/products/Navigation/SAM-M10Q GPS Module/Specifications', '7db'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/products/Video/EwingVRX/Compliance',
         component: ComponentCreator('/docs/products/Video/EwingVRX/Compliance', 'a93'),
         exact: true,
@@ -309,7 +333,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '561'),
+    component: ComponentCreator('/', '388'),
     exact: true
   },
   {

@@ -20,7 +20,7 @@
     "permalink": "/docs/products/Flight Controllers/braveF7/Wiring"
   },
   "next": {
-    "title": "Electronic Speed Controllers",
-    "permalink": "/docs/category/electronic-speed-controllers"
+    "title": "ImpulseRC Driver Fixer (STM32)",
+    "permalink": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC"
   }
 }

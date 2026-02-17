@@ -5,8 +5,8 @@
   "permalink": "/docs/category/electronic-speed-controllers",
   "navigation": {
     "previous": {
-      "title": "Compliance",
-      "permalink": "/docs/products/Flight Controllers/braveF7/Compliance"
+      "title": "ImpulseRC Driver Fixer (STM32)",
+      "permalink": "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC"
     },
     "next": {
       "title": "Brave 55A 4-in-1 32Bit ESC - AM32",
