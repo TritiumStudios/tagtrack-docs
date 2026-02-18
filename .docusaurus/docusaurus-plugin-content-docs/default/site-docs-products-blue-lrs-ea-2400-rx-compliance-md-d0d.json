@@ -10,14 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "BlueLRS RX Module",
-    "permalink": "/docs/category/bluelrs-rx-module"
+    "title": "Getting Started",
+    "permalink": "/docs/products/BlueLRS/EA2400RX/Getting Started"
   },
   "next": {
     "title": "BlueLRS TX Module",

@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/docs-8c7": {
+  "/docs-523": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsf-19-672"
@@ -121,9 +121,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-blue-lrs-ea-2400-rx-complianced-0-d-085"
   },
+  "/docs/products/BlueLRS/EA2400RX/Getting Started-a38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-rx-getting-startedc-4-b-725"
+  },
+  "/docs/products/BlueLRS/EA2400RX/Specifications-aad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-rx-specifications-5-fd-5b5"
+  },
   "/docs/products/BlueLRS/EA2400TX/Compliance-1c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-products-blue-lrs-ea-2400-tx-compliance-36-a-f71"
+  },
+  "/docs/products/BlueLRS/EA2400TX/Getting Started-0ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-tx-getting-started-55-a-b8f"
+  },
+  "/docs/products/BlueLRS/EA2400TX/Specifications-977": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-ea-2400-tx-specifications-3-a-8-ec1"
   },
   "/docs/products/Cameras/IronSightAnalog/Compliance-c0e": {
     "__comp": "__comp---theme-doc-item-178-a40",

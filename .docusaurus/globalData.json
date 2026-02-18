@@ -16,8 +16,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/BlueLRS/EA2400RX/Getting Started",
+              "path": "/docs/products/BlueLRS/EA2400RX/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS/EA2400RX/Specifications",
+              "path": "/docs/products/BlueLRS/EA2400RX/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/BlueLRS/EA2400TX/Compliance",
               "path": "/docs/products/BlueLRS/EA2400TX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS/EA2400TX/Getting Started",
+              "path": "/docs/products/BlueLRS/EA2400TX/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS/EA2400TX/Specifications",
+              "path": "/docs/products/BlueLRS/EA2400TX/Specifications",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8c7'),
+    component: ComponentCreator('/docs', '523'),
     routes: [
       {
         path: '/docs/category/bluelrs-radios',
@@ -150,8 +150,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/products/BlueLRS/EA2400RX/Getting Started',
+        component: ComponentCreator('/docs/products/BlueLRS/EA2400RX/Getting Started', 'a38'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS/EA2400RX/Specifications',
+        component: ComponentCreator('/docs/products/BlueLRS/EA2400RX/Specifications', 'aad'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/products/BlueLRS/EA2400TX/Compliance',
         component: ComponentCreator('/docs/products/BlueLRS/EA2400TX/Compliance', '1c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS/EA2400TX/Getting Started',
+        component: ComponentCreator('/docs/products/BlueLRS/EA2400TX/Getting Started', '0ed'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS/EA2400TX/Specifications',
+        component: ComponentCreator('/docs/products/BlueLRS/EA2400TX/Specifications', '977'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

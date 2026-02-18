@@ -29,9 +29,61 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/BlueLRS/EA2400RX/Getting Started"
+              },
+              "next": {
+                "title": "BlueLRS TX Module",
+                "permalink": "/docs/category/bluelrs-tx-module"
+              }
+            },
+            {
+              "unversionedId": "products/BlueLRS/EA2400RX/Getting Started",
+              "id": "products/BlueLRS/EA2400RX/Getting Started",
+              "title": "Getting Started",
+              "description": "---",
+              "source": "@site/docs/products/BlueLRS/EA2400RX/Getting Started.md",
+              "sourceDirName": "products/BlueLRS/EA2400RX",
+              "slug": "/products/BlueLRS/EA2400RX/Getting Started",
+              "permalink": "/docs/products/BlueLRS/EA2400RX/Getting Started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Specifications",
+                "permalink": "/docs/products/BlueLRS/EA2400RX/Specifications"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/BlueLRS/EA2400RX/Compliance"
+              }
+            },
+            {
+              "unversionedId": "products/BlueLRS/EA2400RX/Specifications",
+              "id": "products/BlueLRS/EA2400RX/Specifications",
+              "title": "Specifications",
+              "description": "Product Specification Sheet",
+              "source": "@site/docs/products/BlueLRS/EA2400RX/Specifications.md",
+              "sourceDirName": "products/BlueLRS/EA2400RX",
+              "slug": "/products/BlueLRS/EA2400RX/Specifications",
+              "permalink": "/docs/products/BlueLRS/EA2400RX/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -39,8 +91,8 @@
                 "permalink": "/docs/category/bluelrs-rx-module"
               },
               "next": {
-                "title": "BlueLRS TX Module",
-                "permalink": "/docs/category/bluelrs-tx-module"
+                "title": "Getting Started",
+                "permalink": "/docs/products/BlueLRS/EA2400RX/Getting Started"
               }
             },
             {
@@ -61,12 +113,64 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "BlueLRS TX Module",
-                "permalink": "/docs/category/bluelrs-tx-module"
+                "title": "Getting Started",
+                "permalink": "/docs/products/BlueLRS/EA2400TX/Getting Started"
               },
               "next": {
                 "title": "Video Link Products",
                 "permalink": "/docs/category/video-link-products"
+              }
+            },
+            {
+              "unversionedId": "products/BlueLRS/EA2400TX/Getting Started",
+              "id": "products/BlueLRS/EA2400TX/Getting Started",
+              "title": "Getting Started",
+              "description": "---",
+              "source": "@site/docs/products/BlueLRS/EA2400TX/Getting Started.md",
+              "sourceDirName": "products/BlueLRS/EA2400TX",
+              "slug": "/products/BlueLRS/EA2400TX/Getting Started",
+              "permalink": "/docs/products/BlueLRS/EA2400TX/Getting Started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Specifications",
+                "permalink": "/docs/products/BlueLRS/EA2400TX/Specifications"
+              },
+              "next": {
+                "title": "Compliance",
+                "permalink": "/docs/products/BlueLRS/EA2400TX/Compliance"
+              }
+            },
+            {
+              "unversionedId": "products/BlueLRS/EA2400TX/Specifications",
+              "id": "products/BlueLRS/EA2400TX/Specifications",
+              "title": "Specifications",
+              "description": "Product Specification Sheet",
+              "source": "@site/docs/products/BlueLRS/EA2400TX/Specifications.md",
+              "sourceDirName": "products/BlueLRS/EA2400TX",
+              "slug": "/products/BlueLRS/EA2400TX/Specifications",
+              "permalink": "/docs/products/BlueLRS/EA2400TX/Specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BlueLRS TX Module",
+                "permalink": "/docs/category/bluelrs-tx-module"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/products/BlueLRS/EA2400TX/Getting Started"
               }
             },
             {
@@ -1003,6 +1107,14 @@
                         "items": [
                           {
                             "type": "doc",
+                            "id": "products/BlueLRS/EA2400RX/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/BlueLRS/EA2400RX/Getting Started"
+                          },
+                          {
+                            "type": "doc",
                             "id": "products/BlueLRS/EA2400RX/Compliance"
                           }
                         ],
@@ -1019,6 +1131,14 @@
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
+                          {
+                            "type": "doc",
+                            "id": "products/BlueLRS/EA2400TX/Specifications"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "products/BlueLRS/EA2400TX/Getting Started"
+                          },
                           {
                             "type": "doc",
                             "id": "products/BlueLRS/EA2400TX/Compliance"

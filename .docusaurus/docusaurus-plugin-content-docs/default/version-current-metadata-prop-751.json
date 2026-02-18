@@ -197,6 +197,18 @@
                 "items": [
                   {
                     "type": "link",
+                    "label": "Specifications",
+                    "href": "/docs/products/BlueLRS/EA2400RX/Specifications",
+                    "docId": "products/BlueLRS/EA2400RX/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started",
+                    "href": "/docs/products/BlueLRS/EA2400RX/Getting Started",
+                    "docId": "products/BlueLRS/EA2400RX/Getting Started"
+                  },
+                  {
+                    "type": "link",
                     "label": "Compliance",
                     "href": "/docs/products/BlueLRS/EA2400RX/Compliance",
                     "docId": "products/BlueLRS/EA2400RX/Compliance"
@@ -210,6 +222,18 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "link",
+                    "label": "Specifications",
+                    "href": "/docs/products/BlueLRS/EA2400TX/Specifications",
+                    "docId": "products/BlueLRS/EA2400TX/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started",
+                    "href": "/docs/products/BlueLRS/EA2400TX/Getting Started",
+                    "docId": "products/BlueLRS/EA2400TX/Getting Started"
+                  },
                   {
                     "type": "link",
                     "label": "Compliance",
@@ -357,10 +381,34 @@
       "description": "NDAA and BlueUAS Compliance Statement",
       "sidebar": "tutorialSidebar"
     },
+    "products/BlueLRS/EA2400RX/Getting Started": {
+      "id": "products/BlueLRS/EA2400RX/Getting Started",
+      "title": "Getting Started",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/BlueLRS/EA2400RX/Specifications": {
+      "id": "products/BlueLRS/EA2400RX/Specifications",
+      "title": "Specifications",
+      "description": "Product Specification Sheet",
+      "sidebar": "tutorialSidebar"
+    },
     "products/BlueLRS/EA2400TX/Compliance": {
       "id": "products/BlueLRS/EA2400TX/Compliance",
       "title": "Compliance",
       "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/BlueLRS/EA2400TX/Getting Started": {
+      "id": "products/BlueLRS/EA2400TX/Getting Started",
+      "title": "Getting Started",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/BlueLRS/EA2400TX/Specifications": {
+      "id": "products/BlueLRS/EA2400TX/Specifications",
+      "title": "Specifications",
+      "description": "Product Specification Sheet",
       "sidebar": "tutorialSidebar"
     },
     "products/Cameras/IronSightAnalog/Compliance": {
