@@ -39,8 +39,26 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '523'),
+    component: ComponentCreator('/docs', 'e5d'),
     routes: [
+      {
+        path: '/docs/category/bluelrs-mav-radios',
+        component: ComponentCreator('/docs/category/bluelrs-mav-radios', 'cfc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/bluelrs-mav-rx-module',
+        component: ComponentCreator('/docs/category/bluelrs-mav-rx-module', '2e6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/bluelrs-mav-tx-module',
+        component: ComponentCreator('/docs/category/bluelrs-mav-tx-module', '0d1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/category/bluelrs-radios',
         component: ComponentCreator('/docs/category/bluelrs-radios', '690'),
@@ -140,6 +158,42 @@ export default [
       {
         path: '/docs/category/video-link-products',
         component: ComponentCreator('/docs/category/video-link-products', '95d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400RX/Compliance',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400RX/Compliance', 'f45'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400RX/Getting Started',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400RX/Getting Started', '1e2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400RX/Specifications',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400RX/Specifications', 'a39'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400TX/Compliance',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400TX/Compliance', 'caa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400TX/Getting Started',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400TX/Getting Started', '62c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/BlueLRS-MAV/EA2400TX/Specifications',
+        component: ComponentCreator('/docs/products/BlueLRS-MAV/EA2400TX/Specifications', '996'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

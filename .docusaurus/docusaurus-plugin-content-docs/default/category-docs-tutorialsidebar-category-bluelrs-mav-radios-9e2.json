@@ -1,0 +1,16 @@
+{
+  "title": "BlueLRS-MAV Radios",
+  "description": "Choose the radio product you are working with.",
+  "slug": "/category/bluelrs-mav-radios",
+  "permalink": "/docs/category/bluelrs-mav-radios",
+  "navigation": {
+    "previous": {
+      "title": "Compliance",
+      "permalink": "/docs/products/BlueLRS/EA2400TX/Compliance"
+    },
+    "next": {
+      "title": "BlueLRS-MAV RX Module",
+      "permalink": "/docs/category/bluelrs-mav-rx-module"
+    }
+  }
+}

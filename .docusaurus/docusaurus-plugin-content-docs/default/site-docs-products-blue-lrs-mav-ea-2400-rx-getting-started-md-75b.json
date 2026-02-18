@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BlueLRS-MAV/EA2400RX/Getting Started",
+  "id": "products/BlueLRS-MAV/EA2400RX/Getting Started",
+  "title": "Getting Started",
+  "description": "---",
+  "source": "@site/docs/products/BlueLRS-MAV/EA2400RX/Getting Started.md",
+  "sourceDirName": "products/BlueLRS-MAV/EA2400RX",
+  "slug": "/products/BlueLRS-MAV/EA2400RX/Getting Started",
+  "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Specifications"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Compliance"
+  }
+}

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## Product Specification Sheet
 
-The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver designed for professional UAS and long-range FPV systems. Utilizing blueLRS, our own privately maintained ELRS firmware fork, we can ensure optimum performance and maintain compatibility with NDAA compliant hardware. It offers wide voltage support, selectable packet rate, and a companion lua script for easy runtime access to settings.
+The **Ewing Aerospace BlueLRS-MAV 915 Mz TX Module** is a high-power radio transmitter designed for professional UAS and long-range FPV systems. Utilizing BlueLRS-MAV, our own privately maintained ELRS firmware fork, we can ensure optimum performance and maintain compatibility with NDAA compliant hardware. It offers wide voltage support, selectable packet rate and power and a companion lua script for easy runtime access to settings.
 
 ---
 
@@ -13,8 +13,8 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 | Specification | Details |
 |--------------|---------|
 | Channels | 16 CH |
-| Frequency Range | 2.4 GHz – 2.5 GHz |
-| Power Output Level | 100 mW|
+| Frequency Range | 137 Mz – 1020 MHz |
+| Power Output Levels | 50 mW / 100 mW / 150 mW / 250 mW / 1 W (max) |
 | Antenna Connector | MMCX |
 
 ---
@@ -32,14 +32,9 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 
 | Specification | Details |
 |--------------|---------|
-| Weight | ~1 g |
-| Dimensions | ~12 mm × 16.5 mm × 4.5 mm |
+| Weight | ~60 g |
+| Dimensions | ~77.5 mm × 46.5 mm × 25.5 mm |
 | RF Connector Type | MMCX |
-| Connector Type | 4-Pin JST |
-
-<p align="center">
-  <img src="/img/BLRS_RX_Pinout.png" width="350" alt="Ewing BLRS RX Module Pinout" />
-</p>
 
 ---
 
@@ -47,8 +42,8 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 
 | Feature | Description |
 |-------|-------------|
-| Remote Configuration | Support via lua script |
-| Thermal Design | Intended for active airflow during prolonged operation |
+| Configuration | Support via lua script |
+| Thermal Design | Built in fan for cooling during prolonged operation |
 
 ---
 
@@ -56,8 +51,8 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 
 | Item | Description |
 |-----|-------------|
-| Radio Receiver | Ewing Aerospace BlueLRS 2.4 GHz RX Module |
-| Power / Control Harness | Pre-terminated integration cable |
+| Radio Transmitter | Ewing Aerospace BlueLRS 915 Mz TX Module |
+| Power / Control Harness | 5-Pin JR Bay Mount or 8-Pin JR Bay Mini Mount |
 
 ---
 

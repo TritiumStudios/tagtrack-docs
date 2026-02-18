@@ -1,8 +1,8 @@
 {
-  "title": "BlueLRS TX Module",
-  "description": "BlueLRS TX Module",
-  "slug": "/category/bluelrs-tx-module-1",
-  "permalink": "/docs/category/bluelrs-tx-module-1",
+  "title": "BlueLRS-MAV TX Module",
+  "description": "BlueLRS-MAV TX Module",
+  "slug": "/category/bluelrs-mav-tx-module",
+  "permalink": "/docs/category/bluelrs-mav-tx-module",
   "navigation": {
     "previous": {
       "title": "Compliance",

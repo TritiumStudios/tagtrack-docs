@@ -11,6 +11,36 @@
           "mainDocId": "products/Flight Controllers/EwingH7/Specifications",
           "docs": [
             {
+              "id": "products/BlueLRS-MAV/EA2400RX/Compliance",
+              "path": "/docs/products/BlueLRS-MAV/EA2400RX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS-MAV/EA2400RX/Getting Started",
+              "path": "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS-MAV/EA2400RX/Specifications",
+              "path": "/docs/products/BlueLRS-MAV/EA2400RX/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS-MAV/EA2400TX/Compliance",
+              "path": "/docs/products/BlueLRS-MAV/EA2400TX/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS-MAV/EA2400TX/Getting Started",
+              "path": "/docs/products/BlueLRS-MAV/EA2400TX/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/BlueLRS-MAV/EA2400TX/Specifications",
+              "path": "/docs/products/BlueLRS-MAV/EA2400TX/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/BlueLRS/EA2400RX/Compliance",
               "path": "/docs/products/BlueLRS/EA2400RX/Compliance",
               "sidebar": "tutorialSidebar"
@@ -233,6 +263,21 @@
             {
               "id": "/category/bluelrs-tx-module",
               "path": "/docs/category/bluelrs-tx-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bluelrs-mav-radios",
+              "path": "/docs/category/bluelrs-mav-radios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bluelrs-mav-rx-module",
+              "path": "/docs/category/bluelrs-mav-rx-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bluelrs-mav-tx-module",
+              "path": "/docs/category/bluelrs-mav-tx-module",
               "sidebar": "tutorialSidebar"
             },
             {

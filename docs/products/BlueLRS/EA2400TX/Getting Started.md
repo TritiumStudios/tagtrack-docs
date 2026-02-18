@@ -61,7 +61,7 @@ BlueLRS provides excellent responsiveness and configurability for both racing an
 ### Binding Method
 
 1. If you set a binding phrase on your RX and TX, they should automatically bind.
-2. Without a bind phrase, plug and unplug the power to your RX 2 twice followed by pluggin it in for a third time in quick succesion.
+2. Without a bind phrase, plug and unplug the power to your RX twice followed by plugging it in for a third time in quick succesion.
 3. A rapidly flashing led indicates that the RX is in bind mode.
 4. Select "Bind" from the lua script of your TX module. The TX should enter bind mode as well and bind to the RX after a few moments.
 5. Once the binding screen goes away and you are receving telemetry from the RX, you are bound and the system is ready for use.

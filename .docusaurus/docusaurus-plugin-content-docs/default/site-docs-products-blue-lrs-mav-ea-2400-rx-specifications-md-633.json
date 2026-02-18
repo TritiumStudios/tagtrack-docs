@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BlueLRS-MAV/EA2400RX/Specifications",
+  "id": "products/BlueLRS-MAV/EA2400RX/Specifications",
+  "title": "Specifications",
+  "description": "Product Specification Sheet",
+  "source": "@site/docs/products/BlueLRS-MAV/EA2400RX/Specifications.md",
+  "sourceDirName": "products/BlueLRS-MAV/EA2400RX",
+  "slug": "/products/BlueLRS-MAV/EA2400RX/Specifications",
+  "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BlueLRS-MAV RX Module",
+    "permalink": "/docs/category/bluelrs-mav-rx-module"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started"
+  }
+}

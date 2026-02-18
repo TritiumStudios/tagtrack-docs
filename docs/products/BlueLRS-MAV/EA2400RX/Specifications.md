@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## Product Specification Sheet
 
-The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver designed for professional UAS and long-range FPV systems. Utilizing blueLRS, our own privately maintained ELRS firmware fork, we can ensure optimum performance and maintain compatibility with NDAA compliant hardware. It offers wide voltage support, selectable packet rate, and a companion lua script for easy runtime access to settings.
+The **Ewing Aerospace BlueLRS-MAV 915 Mz RX Module** is a high-power radio receiver designed for professional UAS and long-range FPV systems. Utilizing BlueLRS-MAV, our own privately maintained ELRS firmware fork, we can ensure optimum performance and maintain compatibility with NDAA compliant hardware. It offers wide voltage support, selectable packet rate, and a companion lua script for easy runtime access to settings.
 
 ---
 
@@ -13,8 +13,8 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 | Specification | Details |
 |--------------|---------|
 | Channels | 16 CH |
-| Frequency Range | 2.4 GHz – 2.5 GHz |
-| Power Output Level | 100 mW|
+| Frequency Range | 137 Mz – 1020 MHz |
+| Power Output Level | 1 W|
 | Antenna Connector | MMCX |
 
 ---
@@ -32,18 +32,18 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 
 | Specification | Details |
 |--------------|---------|
-| Weight | ~1 g |
-| Dimensions | ~12 mm × 16.5 mm × 4.5 mm |
+| Weight | ~5 g |
+| Dimensions | ~21 mm × 35 mm × 4.5 mm |
 | RF Connector Type | MMCX |
-| Connector Type | 4-Pin JST |
+| Connector Type | 6-Pin JST |
 
 <p align="center">
-  <img src="/img/BLRS_RX_Pinout.png" width="350" alt="Ewing BLRS RX Module Pinout" />
+  <img src="/img/BLRS-MAV_RX_Pinout.png" width="350" alt="Ewing BLRS-MAV RX Module Pinout" />
 </p>
 
 ---
 
-## 🔧 Functional Features
+## 🔧 Functional Featuress
 
 | Feature | Description |
 |-------|-------------|
@@ -56,7 +56,7 @@ The **Ewing Aerospace BlueLRS 2.4 GHz RX Module** is a high-power radio receiver
 
 | Item | Description |
 |-----|-------------|
-| Radio Receiver | Ewing Aerospace BlueLRS 2.4 GHz RX Module |
+| Radio Receiver | Ewing Aerospace BlueLRS-MAV 915 Mz RX Module |
 | Power / Control Harness | Pre-terminated integration cable |
 
 ---

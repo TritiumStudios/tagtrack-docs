@@ -42,12 +42,24 @@
       "plugin": "plugin---docusaurus-debugaea-207"
     }
   },
-  "/docs-523": {
+  "/docs-e5d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsf-19-672"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/bluelrs-mav-radios-cfc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-radios-88-d-d66"
+  },
+  "/docs/category/bluelrs-mav-rx-module-2e6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-rx-moduled-1-a-65d"
+  },
+  "/docs/category/bluelrs-mav-tx-module-0d1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-tx-modulebc-5-91c"
   },
   "/docs/category/bluelrs-radios-690": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -116,6 +128,30 @@
   "/docs/category/video-link-products-95d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-video-link-products-7-be-8ca"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400RX/Compliance-f45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-compliance-9-c-0-e3d"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started-1e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-getting-started-75-b-2f0"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400RX/Specifications-a39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-specifications-633-071"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400TX/Compliance-caa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-compliance-06-d-d21"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400TX/Getting Started-62c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-getting-started-60-c-f4a"
+  },
+  "/docs/products/BlueLRS-MAV/EA2400TX/Specifications-996": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-specifications-53-e-ea4"
   },
   "/docs/products/BlueLRS/EA2400RX/Compliance-a9c": {
     "__comp": "__comp---theme-doc-item-178-a40",

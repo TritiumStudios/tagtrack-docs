@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/BlueLRS-MAV/EA2400RX/Compliance",
+  "id": "products/BlueLRS-MAV/EA2400RX/Compliance",
+  "title": "Compliance",
+  "description": "NDAA and BlueUAS Compliance Statement",
+  "source": "@site/docs/products/BlueLRS-MAV/EA2400RX/Compliance.md",
+  "sourceDirName": "products/BlueLRS-MAV/EA2400RX",
+  "slug": "/products/BlueLRS-MAV/EA2400RX/Compliance",
+  "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Compliance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started"
+  },
+  "next": {
+    "title": "BlueLRS-MAV TX Module",
+    "permalink": "/docs/category/bluelrs-mav-tx-module"
+  }
+}
