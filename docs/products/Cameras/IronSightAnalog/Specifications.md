@@ -51,7 +51,6 @@ The **IronSight Analog Camera** is a high-performance FPV imaging module designe
 | Digital Noise Reduction | 3D DNR |
 | White Balance | Automatic (AWB) |
 | OSD Menu | Supported |
-| Menu Languages | Chinese, English, others |
 
 ---
 
