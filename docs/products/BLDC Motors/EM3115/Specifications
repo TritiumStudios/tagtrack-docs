@@ -1,0 +1,75 @@
+---
+sidebar_position: 1
+---
+
+# Technical Specification
+
+The **Ewing 3115 Brushless Motor** is a high-performance outrunner motor designed for demanding UAS and aerospace applications. Optimized for 6S operation, this motor balances efficiency, power density, and thermal performance, making it suitable for both multirotor and fixed-wing propulsion systems using 9–10 inch carbon fiber propellers.
+
+---
+
+## Key Features
+
+- Optimized **860 KV** configuration for 6S LiPo systems  
+- **12N14P** stator/rotor configuration for smooth torque delivery  
+- High-temperature **N35SH magnets**  
+- Precision dynamic balancing (≤ 50 mg)  
+- Qualified with hipot and impulse welding tests  
+
+---
+
+## Electrical Specifications
+
+| Parameter | Value |
+|---------|------|
+| KV Rating | 860 KV |
+| Nominal Voltage | 6S LiPo |
+| Idle Current @ 10 V | 1.71 A |
+| Internal Resistance | 40 mΩ |
+| Max Current | 40.3 A / 67.4 A |
+| Max Power | 1000 W / 1665 W |
+| Recommended ESC | 6S – 65 A |
+
+---
+
+## Mechanical Specifications
+
+| Parameter | Value |
+|---------|------|
+| Stator Diameter | 31 mm |
+| Stator Height | 15 mm |
+| Motor Dimensions | Ø37.5 × 49.4 mm |
+| Weight (incl. cable) | 113 g |
+| Wire Gauge | 16 AWG |
+| Wire Length | 220 mm |
+| Configuration | 12N14P |
+
+---
+
+## Materials & Construction
+
+| Component | Specification |
+|---------|---------------|
+| Magnet Type | N35SH |
+| Dynamic Balance | ≤ 50 mg |
+| Impulse Welding Test | Pass |
+| Hi-Pot Test | 500 V AC (Pass) |
+
+---
+
+## Propeller Compatibility
+
+| Parameter | Specification |
+|---------|---------------|
+| Recommended Propeller Size | 9–10 inch |
+| Propeller Material | Carbon Fiber |
+
+---
+
+## Application Notes
+
+The Ewing 3115 motor is intended for high-reliability platforms where efficiency, thermal margin, and mechanical robustness are critical. Proper airflow and conservative ESC tuning are recommended when operating near maximum current or power limits.
+
+For integration guidance, thrust data, or qualification support, contact Ewing Aerospace engineering.
+
+---

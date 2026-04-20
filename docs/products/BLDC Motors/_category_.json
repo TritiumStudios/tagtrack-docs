@@ -1,0 +1,9 @@
+{
+  "label": "Brushless DC Motors",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Choose the brushless DC motor product you are working with."
+  }
+}
+
