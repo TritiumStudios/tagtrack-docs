@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktagtrack_docs=self.webpackChunktagtrack_docs||[]).push([[8973],{4095:t=>{t.exports=JSON.parse('{"title":"Products","description":"Choose the product you are working with.","slug":"/category/products","permalink":"/docs/category/products","navigation":{"next":{"title":"Flight Controllers","permalink":"/docs/category/flight-controllers"}}}')}}]);

@@ -62,6 +62,45 @@
               },
               {
                 "type": "category",
+                "label": "Ewing H7 Pro Flight Controller",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Operating conditions and performance",
+                    "href": "/docs/products/Flight Controllers/EwingH7_Pro/Specifications",
+                    "docId": "products/Flight Controllers/EwingH7_Pro/Specifications"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started (Ardupilot)",
+                    "href": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+                    "docId": "products/Flight Controllers/EwingH7_Pro/GettingStartedAP"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Getting Started (Betaflight)",
+                    "href": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF",
+                    "docId": "products/Flight Controllers/EwingH7_Pro/GettingStartedBF"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Wiring",
+                    "href": "/docs/products/Flight Controllers/EwingH7_Pro/Wiring",
+                    "docId": "products/Flight Controllers/EwingH7_Pro/Wiring"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Compliance",
+                    "href": "/docs/products/Flight Controllers/EwingH7_Pro/Compliance",
+                    "docId": "products/Flight Controllers/EwingH7_Pro/Compliance"
+                  }
+                ],
+                "href": "/docs/category/ewing-h7-pro-flight-controller"
+              },
+              {
+                "type": "category",
                 "label": "Brave F7 Flight Controller",
                 "collapsible": true,
                 "collapsed": true,
@@ -608,6 +647,36 @@
     },
     "products/Flight Controllers/braveF7/Wiring": {
       "id": "products/Flight Controllers/braveF7/Wiring",
+      "title": "Wiring",
+      "description": "Wiring and Connector Pinout Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7_Pro/Compliance": {
+      "id": "products/Flight Controllers/EwingH7_Pro/Compliance",
+      "title": "Compliance",
+      "description": "NDAA and BlueUAS Compliance Statement",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7_Pro/GettingStartedAP": {
+      "id": "products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+      "title": "Getting Started (Ardupilot)",
+      "description": "This guide walks through the initial setup of the Ewing Aerospace H7 Pro Flight Controller, from first power-up through basic firmware configuration using ArduPilot. It is intended for integrators, manufacturers, and advanced users deploying the H7 Pro in professional or mission-critical unmanned systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7_Pro/GettingStartedBF": {
+      "id": "products/Flight Controllers/EwingH7_Pro/GettingStartedBF",
+      "title": "Getting Started (Betaflight)",
+      "description": "This guide walks through the initial setup of the Ewing Aerospace H7 Pro Flight Controller using Betaflight, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the H7 Pro in professional or mission-critical unmanned systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7_Pro/Specifications": {
+      "id": "products/Flight Controllers/EwingH7_Pro/Specifications",
+      "title": "Operating conditions and performance",
+      "description": "Operating conditions and performance",
+      "sidebar": "tutorialSidebar"
+    },
+    "products/Flight Controllers/EwingH7_Pro/Wiring": {
+      "id": "products/Flight Controllers/EwingH7_Pro/Wiring",
       "title": "Wiring",
       "description": "Wiring and Connector Pinout Guide",
       "sidebar": "tutorialSidebar"

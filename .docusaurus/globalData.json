@@ -156,6 +156,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Flight Controllers/EwingH7_Pro/Compliance",
+              "path": "/docs/products/Flight Controllers/EwingH7_Pro/Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+              "path": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7_Pro/GettingStartedBF",
+              "path": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7_Pro/Specifications",
+              "path": "/docs/products/Flight Controllers/EwingH7_Pro/Specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/Flight Controllers/EwingH7_Pro/Wiring",
+              "path": "/docs/products/Flight Controllers/EwingH7_Pro/Wiring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/Flight Controllers/EwingH7/Compliance",
               "path": "/docs/products/Flight Controllers/EwingH7/Compliance",
               "sidebar": "tutorialSidebar"
@@ -228,6 +253,11 @@
             {
               "id": "/category/ewing-h7-flight-controller",
               "path": "/docs/category/ewing-h7-flight-controller",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ewing-h7-pro-flight-controller",
+              "path": "/docs/category/ewing-h7-pro-flight-controller",
               "sidebar": "tutorialSidebar"
             },
             {

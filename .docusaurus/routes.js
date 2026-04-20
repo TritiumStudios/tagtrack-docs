@@ -3,43 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'a6f'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'b5c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '428'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'cef'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '029'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '886'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '087'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e5d'),
+    component: ComponentCreator('/docs', 'c44'),
     routes: [
       {
         path: '/docs/category/bluelrs-mav-radios',
@@ -122,6 +87,12 @@ export default [
       {
         path: '/docs/category/ewing-h7-flight-controller',
         component: ComponentCreator('/docs/category/ewing-h7-flight-controller', 'd5e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/ewing-h7-pro-flight-controller',
+        component: ComponentCreator('/docs/category/ewing-h7-pro-flight-controller', '8e9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -332,6 +303,36 @@ export default [
       {
         path: '/docs/products/Flight Controllers/braveF7/Wiring',
         component: ComponentCreator('/docs/products/Flight Controllers/braveF7/Wiring', 'cd8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7_Pro/Compliance',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7_Pro/Compliance', '37f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP', '335'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF', 'c1d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7_Pro/Specifications',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7_Pro/Specifications', 'c6e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/products/Flight Controllers/EwingH7_Pro/Wiring',
+        component: ComponentCreator('/docs/products/Flight Controllers/EwingH7_Pro/Wiring', 'f4c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

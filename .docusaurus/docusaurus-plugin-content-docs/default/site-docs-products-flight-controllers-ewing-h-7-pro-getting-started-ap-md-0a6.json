@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+  "id": "products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+  "title": "Getting Started (Ardupilot)",
+  "description": "This guide walks through the initial setup of the Ewing Aerospace H7 Pro Flight Controller, from first power-up through basic firmware configuration using ArduPilot. It is intended for integrators, manufacturers, and advanced users deploying the H7 Pro in professional or mission-critical unmanned systems.",
+  "source": "@site/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP.md",
+  "sourceDirName": "products/Flight Controllers/EwingH7_Pro",
+  "slug": "/products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+  "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operating conditions and performance",
+    "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/Specifications"
+  },
+  "next": {
+    "title": "Getting Started (Betaflight)",
+    "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF"
+  }
+}

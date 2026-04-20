@@ -59,13 +59,14 @@ If the board does not appear:
 
 ## Step 3: Firmware target selection
 
-The Ewing H7 uses the following Betaflight firmware target: $ EA_H743
+The Ewing H7 uses the following Betaflight firmware targets: $ EA_H743_ICM or $ EA_H743_BMI
 
 
-1. Open the **Firmware Flasher** tab.
-2. Select target `EWING_H7`.
-3. Choose the latest **stable** Betaflight release approved for your program.
-4. Flash firmware.
+1. Download your target from the list below
+2. Open the **Firmware Flasher** tab
+3. Select "Load Firmware [Local]".
+4. Choose your downlaoded target file.
+5. Flash firmware.
 
 > **Recommendation:** Disable **Full Chip Erase** unless migrating from unknown or third-party firmware.
 

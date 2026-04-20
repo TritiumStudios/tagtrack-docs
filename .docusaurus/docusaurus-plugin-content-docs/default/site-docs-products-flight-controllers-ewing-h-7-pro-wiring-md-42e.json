@@ -1,0 +1,26 @@
+{
+  "unversionedId": "products/Flight Controllers/EwingH7_Pro/Wiring",
+  "id": "products/Flight Controllers/EwingH7_Pro/Wiring",
+  "title": "Wiring",
+  "description": "Wiring and Connector Pinout Guide",
+  "source": "@site/docs/products/Flight Controllers/EwingH7_Pro/Wiring.md",
+  "sourceDirName": "products/Flight Controllers/EwingH7_Pro",
+  "slug": "/products/Flight Controllers/EwingH7_Pro/Wiring",
+  "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/Wiring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started (Betaflight)",
+    "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/products/Flight Controllers/EwingH7_Pro/Compliance"
+  }
+}

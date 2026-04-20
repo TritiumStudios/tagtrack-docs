@@ -1,303 +1,284 @@
 {
-  "/__docusaurus/debug-a6f": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/docs-c44": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/__docusaurus/debug/config-b5c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/__docusaurus/debug/content-428": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
+      "plugin": "f196e2b5"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-cef": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/__docusaurus/debug/metadata-029": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/__docusaurus/debug/registry-886": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/__docusaurus/debug/routes-087": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaea-207"
-    }
-  },
-  "/docs-e5d": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---docsf-19-672"
-    },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
   "/docs/category/bluelrs-mav-radios-cfc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-radios-88-d-d66"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "88d18b39"
   },
   "/docs/category/bluelrs-mav-rx-module-2e6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-rx-moduled-1-a-65d"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d1a3d78b"
   },
   "/docs/category/bluelrs-mav-tx-module-0d1": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-mav-tx-modulebc-5-91c"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bc5fa983"
   },
   "/docs/category/bluelrs-radios-690": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-radiose-48-9fe"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e489d5d9"
   },
   "/docs/category/bluelrs-rx-module-b3f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-rx-moduledcc-73d"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "dccbc3e9"
   },
   "/docs/category/bluelrs-tx-module-412": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bluelrs-tx-module-6-c-7-681"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "6c782a7a"
   },
   "/docs/category/brave-55a-4-in-1-32bit-esc---am32-072": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-brave-55-a-4-in-1-32-bit-esc-am-32702-511"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "702560b6"
   },
   "/docs/category/brave-f7-flight-controller-c43": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-brave-f-7-flight-controller-004-4ec"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0042f4bb"
   },
   "/docs/category/camera-modules-c86": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-camera-modulesd-3-b-e44"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d3b9a75b"
   },
   "/docs/category/electronic-speed-controllers-f8d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-electronic-speed-controllersa-9-a-20c"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a9a7ff0d"
   },
   "/docs/category/ewing-4-channel-diversity-vrx-system-ded": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-4-channel-diversity-vrx-systemd-49-965"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d492e420"
   },
   "/docs/category/ewing-58ghz-vtx-module-25w-max-4a9": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-58-ghz-vtx-module-25-w-maxd-9-c-571"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d9cacf17"
   },
   "/docs/category/ewing-80a-4-in-1-32bit-esc---am32-6f2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-80-a-4-in-1-32-bit-esc-am-32-f-47-ec6"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f47891a1"
   },
   "/docs/category/ewing-h7-flight-controller-d5e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-h-7-flight-controller-0-ae-e0f"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0aefc99f"
+  },
+  "/docs/category/ewing-h7-pro-flight-controller-8e9": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ac854c17"
   },
   "/docs/category/ewing-ironsight-analog-camera-6f7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-ironsight-analog-camera-944-1fb"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "944ab6f9"
   },
   "/docs/category/ewing-sam-m10q-gps-module-9b4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-ewing-sam-m-10-q-gps-modulef-60-9c1"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f606ec51"
   },
   "/docs/category/flight-controllers-218": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-flight-controllers-0-a-1-acd"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0a1bb11d"
   },
   "/docs/category/navigation-products-b64": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-navigation-products-9-d-7-8c4"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9d76a82d"
   },
   "/docs/category/products-bb5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-products-2-f-1-460"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "2f19c7aa"
   },
   "/docs/category/video-link-products-95d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-video-link-products-7-be-8ca"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7be7b654"
   },
   "/docs/products/BlueLRS-MAV/EA2400RX/Compliance-f45": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-compliance-9-c-0-e3d"
+    "__comp": "17896441",
+    "content": "9c091020"
   },
   "/docs/products/BlueLRS-MAV/EA2400RX/Getting Started-1e2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-getting-started-75-b-2f0"
+    "__comp": "17896441",
+    "content": "75b5b789"
   },
   "/docs/products/BlueLRS-MAV/EA2400RX/Specifications-a39": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-rx-specifications-633-071"
+    "__comp": "17896441",
+    "content": "633366c9"
   },
   "/docs/products/BlueLRS-MAV/EA2400TX/Compliance-caa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-compliance-06-d-d21"
+    "__comp": "17896441",
+    "content": "06da7501"
   },
   "/docs/products/BlueLRS-MAV/EA2400TX/Getting Started-62c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-getting-started-60-c-f4a"
+    "__comp": "17896441",
+    "content": "60c5e42c"
   },
   "/docs/products/BlueLRS-MAV/EA2400TX/Specifications-996": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-mav-ea-2400-tx-specifications-53-e-ea4"
+    "__comp": "17896441",
+    "content": "53e135d7"
   },
   "/docs/products/BlueLRS/EA2400RX/Compliance-a9c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-rx-complianced-0-d-085"
+    "__comp": "17896441",
+    "content": "d0d28902"
   },
   "/docs/products/BlueLRS/EA2400RX/Getting Started-a38": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-rx-getting-startedc-4-b-725"
+    "__comp": "17896441",
+    "content": "c4b6c8c6"
   },
   "/docs/products/BlueLRS/EA2400RX/Specifications-aad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-rx-specifications-5-fd-5b5"
+    "__comp": "17896441",
+    "content": "5fd7c42e"
   },
   "/docs/products/BlueLRS/EA2400TX/Compliance-1c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-tx-compliance-36-a-f71"
+    "__comp": "17896441",
+    "content": "36adcc57"
   },
   "/docs/products/BlueLRS/EA2400TX/Getting Started-0ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-tx-getting-started-55-a-b8f"
+    "__comp": "17896441",
+    "content": "55a34670"
   },
   "/docs/products/BlueLRS/EA2400TX/Specifications-977": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-blue-lrs-ea-2400-tx-specifications-3-a-8-ec1"
+    "__comp": "17896441",
+    "content": "3a89c26a"
   },
   "/docs/products/Cameras/IronSightAnalog/Compliance-c0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-cameras-iron-sight-analog-complianceb-80-150"
+    "__comp": "17896441",
+    "content": "b80ca25a"
   },
   "/docs/products/Cameras/IronSightAnalog/Specifications-0a1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-cameras-iron-sight-analog-specifications-4-ff-53f"
+    "__comp": "17896441",
+    "content": "4ffada4d"
   },
   "/docs/products/Cameras/IronSightAnalog/Wiring-4ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-cameras-iron-sight-analog-wiring-665-65b"
+    "__comp": "17896441",
+    "content": "665b1f48"
   },
   "/docs/products/Electronics Speed Controllers/BraveESC/Compliance-806": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-brave-esc-compliance-34-d-72f"
+    "__comp": "17896441",
+    "content": "34dfe40b"
   },
   "/docs/products/Electronics Speed Controllers/BraveESC/Getting Started-f03": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-brave-esc-getting-started-252-dbc"
+    "__comp": "17896441",
+    "content": "252bfe31"
   },
   "/docs/products/Electronics Speed Controllers/BraveESC/Specifications-37a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-brave-esc-specifications-257-ed9"
+    "__comp": "17896441",
+    "content": "257a8ab9"
   },
   "/docs/products/Electronics Speed Controllers/BraveESC/Wiring-a7c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-brave-esc-wiring-69-f-f1e"
+    "__comp": "17896441",
+    "content": "69f9faf4"
   },
   "/docs/products/Electronics Speed Controllers/Ewing80A/Compliance-8f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-complianced-35-b7d"
+    "__comp": "17896441",
+    "content": "d354350e"
   },
   "/docs/products/Electronics Speed Controllers/Ewing80A/Getting Started-5c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-getting-started-5-cb-c50"
+    "__comp": "17896441",
+    "content": "5cb6f68f"
   },
   "/docs/products/Electronics Speed Controllers/Ewing80A/Specifications-56c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-specifications-8-f-9-868"
+    "__comp": "17896441",
+    "content": "8f9608a4"
   },
   "/docs/products/Electronics Speed Controllers/Ewing80A/Wiring-17e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-electronics-speed-controllers-ewing-80-a-wiringfa-1-6ec"
+    "__comp": "17896441",
+    "content": "fa1dc2d2"
   },
   "/docs/products/Flight Controllers/braveF7/Compliance-371": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-compliance-74-c-24d"
+    "__comp": "17896441",
+    "content": "74c47ed6"
   },
   "/docs/products/Flight Controllers/braveF7/DriverFixerImpulseRC-14e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-driver-fixer-impulse-rc-62-a-60a"
+    "__comp": "17896441",
+    "content": "62ae88be"
   },
   "/docs/products/Flight Controllers/braveF7/Getting Started-fec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-getting-startedd-8-d-b58"
+    "__comp": "17896441",
+    "content": "d8df45f7"
   },
   "/docs/products/Flight Controllers/braveF7/GettingStartedINAV-c30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-getting-started-inav-272-f4c"
+    "__comp": "17896441",
+    "content": "272a5be4"
   },
   "/docs/products/Flight Controllers/braveF7/Specifications-d05": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-specifications-4-f-5-f0c"
+    "__comp": "17896441",
+    "content": "4f5ca0a5"
   },
   "/docs/products/Flight Controllers/braveF7/Wiring-cd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-brave-f-7-wiring-3-b-4-656"
+    "__comp": "17896441",
+    "content": "3b402540"
+  },
+  "/docs/products/Flight Controllers/EwingH7_Pro/Compliance-37f": {
+    "__comp": "17896441",
+    "content": "39444509"
+  },
+  "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedAP-335": {
+    "__comp": "17896441",
+    "content": "0a6c7413"
+  },
+  "/docs/products/Flight Controllers/EwingH7_Pro/GettingStartedBF-c1d": {
+    "__comp": "17896441",
+    "content": "49c81c35"
+  },
+  "/docs/products/Flight Controllers/EwingH7_Pro/Specifications-c6e": {
+    "__comp": "17896441",
+    "content": "aca3a31f"
+  },
+  "/docs/products/Flight Controllers/EwingH7_Pro/Wiring-f4c": {
+    "__comp": "17896441",
+    "content": "42e4d1dd"
   },
   "/docs/products/Flight Controllers/EwingH7/Compliance-811": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-ewing-h-7-compliance-1-d-3-ab1"
+    "__comp": "17896441",
+    "content": "1d3eceea"
   },
   "/docs/products/Flight Controllers/EwingH7/GettingStartedAP-bea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-ewing-h-7-getting-started-a-pb-5-a-9c1"
+    "__comp": "17896441",
+    "content": "b5a04345"
   },
   "/docs/products/Flight Controllers/EwingH7/GettingStartedBF-331": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-ewing-h-7-getting-started-bf-4-e-7-f58"
+    "__comp": "17896441",
+    "content": "4e7d9fd9"
   },
   "/docs/products/Flight Controllers/EwingH7/Specifications-52b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-ewing-h-7-specifications-806-53a"
+    "__comp": "17896441",
+    "content": "8063ee24"
   },
   "/docs/products/Flight Controllers/EwingH7/Wiring-f0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-flight-controllers-ewing-h-7-wiring-068-d82"
+    "__comp": "17896441",
+    "content": "06817d5f"
   },
   "/docs/products/Navigation/SAM-M10Q GPS Module/Specifications-7db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-navigation-sam-m-10-q-gps-module-specificationsba-7-616"
+    "__comp": "17896441",
+    "content": "ba770a3e"
   },
   "/docs/products/Video/EwingVRX/Compliance-a93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vrx-compliancec-76-770"
+    "__comp": "17896441",
+    "content": "c7688836"
   },
   "/docs/products/Video/EwingVRX/GettingStarted-611": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vrx-getting-started-1-bd-7a3"
+    "__comp": "17896441",
+    "content": "1bdbc599"
   },
   "/docs/products/Video/EwingVTX/Compliance-1f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vtx-compliance-215-8eb"
+    "__comp": "17896441",
+    "content": "2150b991"
   },
   "/docs/products/Video/EwingVTX/FrequencyTable-e5b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vtx-frequency-tablea-13-615"
+    "__comp": "17896441",
+    "content": "a13c06b3"
   },
   "/docs/products/Video/EwingVTX/GettingStarted-81f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vtx-getting-started-1-df-eac"
+    "__comp": "17896441",
+    "content": "1dfc0826"
   },
   "/docs/products/Video/EwingVTX/Specifications-a72": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-products-video-ewing-vtx-specificationsb-1-e-4bf"
+    "__comp": "17896441",
+    "content": "b1e70111"
   },
   "/-388": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---627-168"
+      "plugin": "627d71cc"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
