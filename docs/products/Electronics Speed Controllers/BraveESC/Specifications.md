@@ -24,7 +24,7 @@ sidebar_position: 1
 
 | Parameter | Specification |
 |---------|---------------|
-| Product Name | Brave 55A 4-in-1 ESC |
+| Product Name | Ewing 55A 4-in-1 ESC |
 | Manufacturer | Ewing Aerospace |
 | Firmware | AM32 (32-bit) |
 | Input Voltage | 3–8S LiPo |

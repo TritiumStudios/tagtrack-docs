@@ -5,7 +5,7 @@ sidebar_position: 3
 # Wiring & Pinout Guide  
 **Ewing Aerospace**
 
-This document describes the **connector pinout and wiring** for the **Brave 55A 4-in-1 ESC** based on the top and bottom views shown in the reference diagram. Wire colors shown in diagrams are **for reference only** and may not match your harness.
+This document describes the **connector pinout and wiring** for the **Ewing 55A 4-in-1 ESC** based on the top and bottom views shown in the reference diagram. Wire colors shown in diagrams are **for reference only** and may not match your harness.
 
 ---
 
@@ -45,7 +45,7 @@ When viewing the ESC from the **top side**, with the ESC connector at the top:
 
 ## ⚙️ Motor Output Pads
 
-The Brave 55A is a **4-in-1 ESC**, providing three motor phase pads per motor.
+The Ewing 55A is a **4-in-1 ESC**, providing three motor phase pads per motor.
 
 ### Motor Pad Mapping (Top View Reference)
 
@@ -72,4 +72,3 @@ Each motor consists of **three phase pads**. Phase order does not matter; motor 
 - Install the included **low-ESR capacitor** across these pads as close as possible to the ESC
 
 ---
-

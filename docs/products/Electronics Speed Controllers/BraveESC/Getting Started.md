@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## 📦 What’s in the Box
 
-- **Brave 55A 4-in-1 ESC (AM32 firmware)**
+- **Ewing 55A 4-in-1 ESC (AM32 firmware)**
 - Rubber mounting dampers
 - 12 AWG power lead with XT60
 - Low-ESR electrolytic capacitor
@@ -54,7 +54,7 @@ sidebar_position: 2
 
 ## 🧠 AM32 Firmware Overview
 
-The Brave 55A ESC ships with **AM32**, a modern open ESC firmware designed for high performance and flexibility.
+The Ewing 55A ESC ships with **AM32**, a modern open ESC firmware designed for high performance and flexibility.
 
 AM32 features include:
 
