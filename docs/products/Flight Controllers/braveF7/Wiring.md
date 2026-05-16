@@ -5,13 +5,13 @@ sidebar_position: 3
 
 ## Wiring and Connector Pinout Guide
 
-This document provides wiring guidance and connector pinouts for the **Brave F7 Flight Controller**.  
+This document provides wiring guidance and connector pinouts for the **Ewing F7 Flight Controller**.  
 Pin assignments are based on the official connector pinout diagram.
 
 > **Important**
 > - Wire colors shown in diagrams are for reference only.
 > - Always verify pin orientation before applying power.
-> - The Brave F7 is not waterproof; environmental protection is required for exposed installations.
+> - The Ewing F7 is not waterproof; environmental protection is required for exposed installations.
 
 ---
 
@@ -136,5 +136,3 @@ Improper wiring or incorrect power application may cause permanent damage to the
 ---
 
 © Ewing Aerospace. All rights reserved.
-
-

@@ -5,15 +5,15 @@ sidebar_position: 4
 ## NDAA and BlueUAS Compliance Statement  
 
 
-The **Ewing Aerospace Brave F7 Flight Controller** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations. Furthermore these products comply with NDAA FY2023 Section 817 and the 2024 American Security Drone Act.
+The **Ewing Aerospace Ewing F7 Flight Controller** is designed, manufactured, and supplied in compliance with applicable provisions of the **National Defense Authorization Act (NDAA)**, including **Section 889 of the FY2019 NDAA**, as amended and carried forward in subsequent NDAA authorizations. Furthermore these products comply with NDAA FY2023 Section 817 and the 2024 American Security Drone Act.
 
-The **Ewing Aerospace Brave F7 Flight Controller** is also **BlueUAS Cleared** and listed on the BlueUAS Framework by both DIU and DCMA. 
+The **Ewing Aerospace Ewing F7 Flight Controller** is also **BlueUAS Cleared** and listed on the BlueUAS Framework by both DIU and DCMA. 
 
 ---
 
 ## Section 889 (a)(1)(A) & (B) Compliance
 
-Ewing Aerospace certifies that the Brave F7 Flight Controller:
+Ewing Aerospace certifies that the Ewing F7 Flight Controller:
 
 - **Does not contain** covered telecommunications equipment or services as defined in **Section 889(a)(1)(A)** of the NDAA.
 - **Is not produced using** covered telecommunications equipment or services as defined in **Section 889(a)(1)(B)** of the NDAA.
@@ -32,7 +32,7 @@ Ewing Aerospace certifies that the Brave F7 Flight Controller:
 - Designed in the **United States** - designs and engineering are owned and controlled by Ewing Aerospace.
 - Final assembly, programming, testing, and quality acceptance performed in our **Ashland, Ohio facilities**.
 - Maintains supplier vetting and component traceability controls to ensure ongoing NDAA compliance.
-- No restricted-origin RF, communications, or networking silicon is used in the Brave F7 platform.
+- No restricted-origin RF, communications, or networking silicon is used in the Ewing F7 platform.
 
 ---
 
@@ -45,7 +45,7 @@ Ewing Aerospace certifies that the Brave F7 Flight Controller:
 
 ## Applicability to UAS Programs
 
-The Brave F7 Flight Controller is suitable for integration into **NDAA-compliant UAS platforms**, including:
+The Ewing F7 Flight Controller is suitable for integration into **NDAA-compliant UAS platforms**, including:
 
 - U.S. Government and DoD programs
 - Federal, state, and local agency procurements
@@ -71,19 +71,9 @@ For compliance documentation, supplier attestations, or program-specific certifi
 
 ## Safety and legal notice
 
-The Brave F7 Flight Controller is intended for professional unmanned systems integration. Improper configuration, installation, or operation may result in loss of vehicle control. Always follow applicable regulations, airspace rules, and program-specific safety requirements.
+The Ewing F7 Flight Controller is intended for professional unmanned systems integration. Improper configuration, installation, or operation may result in loss of vehicle control. Always follow applicable regulations, airspace rules, and program-specific safety requirements.
 
----
 
-#### Trademark Notice
-
-<small> Brave® is a registered trademark of Tritium Electronics.  All rights reserved. </small>
-
----
 
 
 © Ewing Aerospace. All rights reserved.
-
-
-
-

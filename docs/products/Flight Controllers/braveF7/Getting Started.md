@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Getting Started (BetaFlight)
 
-# Getting Started with the Brave F7 Flight Controller
+# Getting Started with the Ewing F7 Flight Controller
 
-This guide walks through the initial setup of the **Ewing Aerospace Brave F7 Flight Controller**, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Brave F7 in professional or mission-critical unmanned systems.
+This guide walks through the initial setup of the **Ewing Aerospace Ewing F7 Flight Controller**, from first power-up through basic firmware configuration. It is intended for integrators, manufacturers, and advanced users deploying the Ewing F7 in professional or mission-critical unmanned systems.
 
 ---
 
@@ -14,7 +14,7 @@ This guide walks through the initial setup of the **Ewing Aerospace Brave F7 Fli
 
 Before beginning, ensure you have the following:
 
-- Brave F7 Flight Controller [[Order Here]](https://www.ewingaerospace.com/products/components-example-product-2?variant=43573438087277)
+- Ewing F7 Flight Controller [[Order Here]](https://www.ewingaerospace.com/products/components-example-product-2?variant=43573438087277)
 - USB-C cable (data-capable)
 - Computer with Betaflight Configurator installed
 - Power source (flight battery compatible with your system, 3–8S LiPo)
@@ -33,13 +33,13 @@ Before beginning, ensure you have the following:
 2. Confirm mounting orientation and that the board is installed with adequate vibration isolation.
 3. Ensure no conductive debris or loose fasteners are present.
 
-> **Note:** The Brave F7 is not waterproof. If operating in high-humidity or exposed environments, apply conformal coating or use an appropriate enclosure.
+> **Note:** The Ewing F7 is not waterproof. If operating in high-humidity or exposed environments, apply conformal coating or use an appropriate enclosure.
 
 ---
 
 ## Step 2: USB connection and driver verification
 
-1. Connect the Brave F7 to your computer using a USB-C cable.
+1. Connect the Ewing F7 to your computer using a USB-C cable.
 2. Launch **Betaflight Configurator**.
 3. Select the newly detected COM/USB device.
 4. Click **Connect**.
@@ -53,7 +53,7 @@ If the board does not appear:
 
 ## Step 3: Firmware target selection
 
-The Brave F7 uses the following Betaflight firmware target: RRIOT_F722
+The Ewing F7 uses the following Betaflight firmware target: RRIOT_F722
 
 
 1. Open the **Firmware Flasher** tab.
@@ -87,7 +87,7 @@ If orientation is incorrect:
 
 ## Step 5: Power and BEC verification
 
-The Brave F7 supports:
+The Ewing F7 supports:
 
 - **3–8S LiPo input**
 - **10V BEC @ 2A**
@@ -171,18 +171,14 @@ Before flight, confirm:
 - Review wiring diagrams and pinouts
 - Validate operation in controlled test flights
 
-For advanced configuration, system integration guidance, and compliance documentation, refer to the additional Brave F7 documentation pages.
+For advanced configuration, system integration guidance, and compliance documentation, refer to the additional Ewing F7 documentation pages.
 
 ---
 
 ## Safety and compliance notice
 
-The Brave F7 Flight Controller is intended for professional unmanned systems integration. Improper configuration, installation, or operation may result in loss of vehicle control. Always follow applicable regulations, airspace rules, and program-specific safety requirements.
+The Ewing F7 Flight Controller is intended for professional unmanned systems integration. Improper configuration, installation, or operation may result in loss of vehicle control. Always follow applicable regulations, airspace rules, and program-specific safety requirements.
 
 ---
 
 © Ewing Aerospace. All rights reserved.
-
-
-
-
