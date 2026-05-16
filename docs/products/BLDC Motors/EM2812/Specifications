@@ -22,7 +22,7 @@ The **Ewing 2812 Brushless Motor** is a compact, lightweight outrunner engineere
 
 | Parameter | Value |
 |---------|------|
-| KV Rating | 900 KV |
+| KV Rating | 1150 KV |
 | Nominal Voltage | 6S LiPo |
 | Idle Current @ 10 V | 1.2 A |
 | Internal Resistance | 56 mΩ |
@@ -51,7 +51,7 @@ The **Ewing 2812 Brushless Motor** is a compact, lightweight outrunner engineere
 | Component | Specification |
 |---------|---------------|
 | Magnet Type | N35SH |
-| Dynamic Balance | ≤ 100 mg |
+| Dynamic Balance | ≤ 10 mg |
 | Impulse Welding Test | Pass |
 | Hi-Pot Test | 500 V AC (Pass) |
 
