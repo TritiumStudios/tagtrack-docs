@@ -19,6 +19,12 @@ The **Ewing Aerospace EwingVTX** is a high-power analog video transmitter design
 
 ---
 
+### Betaflight VTX Table: 
+**For Betaflight configuration, download the VTX Table: **
+[Download VTX Table](./files/EwingVTX_Betaflight_Stock_64CH.json) 
+
+---
+
 ## LED Indicators
 
 The EwingVTX uses three LEDs to indicate its current configuration state.
