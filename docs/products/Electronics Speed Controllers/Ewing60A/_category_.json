@@ -1,0 +1,8 @@
+{
+  "label": "Ewing 60A 4-in-1 32Bit ESC - AM32",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The Ewing Aerospace 60A 4-in-1 32Bit ESC is a 32-bit electronic speed controller for professional multirotor and sUAS applications. Engineered and manufactured in the USA, it runs a custom AM32 firmware target with DSHOT telemetry and is rated for 60 A continuous per channel."
+  }
+}
