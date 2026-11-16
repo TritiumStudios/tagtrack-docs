@@ -40,25 +40,8 @@ sidebar_position: 1
 | Board Dimensions | ~45.4 × 41 × 7.3 mm |
 | Power Connector | XT60 (12 AWG lead) |
 | Capacitor | External low-ESR electrolytic (included) |
-| Operating Temperature | −20 °C to +85 °C (typical) |
+| Operating Temperature | −20 °C to +110 °C (typical) |
 | Application | FPV, sUAS, high-performance multirotors |
 | Compliance | Fully NDAA compliant (not BlueUAS listed) |
 
 
----
-
-# Thermal test results
-
-Bench thermal runs at the baseline settings above, updated 10/21/2026. Tests used 900 KV motors. Battery current is the **total** for the active channels. **NR** means the run duration was unreported.
-
-| Run | Active channels | Battery current | Speed (RPM) | PWM duty | Duration | MOSFET temperatures |
-|-----|-----------------|-----------------|-------------|----------|----------|---------------------|
-| S04 | 1 | 10 A | 8,800 | 48% | NR | 95°F (35°C) peak |
-| S05 | 1 | 37 A | 13,000 | 82% | NR | 150°F (65.6°C) |
-| A01 | 4 | 37 A | 8,500 | 48% | NR | 100°F (37.8°C) on all four channels |
-| A03 | 4 | 150 A | 13,000 | 89% | 90 s | 205°F (96.1°C) CH1, 181°F (82.8°C) CH2, 187°F (86.1°C) CH3, 172°F (77.8°C) CH4 |
-| A06 | 4 | 200 A | 13,800 | 100% | 90 s | 235°F (112.8°C) CH1 peak; settled 190–200°F (87.8–93.3°C) across CH2–CH4 |
-
-The 150 A run (A03) reached a reported thermal plateau. Channels 1 and 3 were closest to the battery terminals.
-
-The first four runs followed selection of the 40-tick deadtime and preceded timing trials; fixed 15° timing was reported for that setup. The 200 A run (A06) returned to 15° and started with fresh batteries. Loaded voltage was unreported for that run.
