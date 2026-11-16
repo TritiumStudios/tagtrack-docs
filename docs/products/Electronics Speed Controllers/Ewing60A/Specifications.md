@@ -44,23 +44,6 @@ sidebar_position: 1
 | Application | FPV, sUAS, high-performance multirotors |
 | Compliance | Fully NDAA compliant (not BlueUAS listed) |
 
----
-
-# Default AM32 settings
-
-These are the baseline settings recorded for the `EWING_60A_4IN1_G071` firmware target.
-
-| Item | Recorded setting |
-|------|------------------|
-| Firmware | Custom AM32 v2.21 target, `EWING_60A_4IN1_G071` |
-| Deadtime | 40 ticks (625 ns), compiled into the firmware |
-| PWM switching frequency | 16 kHz fixed default (variable PWM off); adjustable in AM32 |
-| Baseline motor timing | 15° fixed advance (auto timing off) |
-| Complementary PWM | On |
-| Running brake strength | 100% |
-| AM32 voltage cutoff and current limit | **Disabled** by this custom firmware target |
-
-> ⚠️ **Safety:** This firmware target has AM32 low-voltage cutoff and current limiting disabled. Rely on flight-controller battery monitoring, and size propellers and motors to stay within the ESC rating.
 
 ---
 
